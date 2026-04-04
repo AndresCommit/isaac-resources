@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "nombre": "Isaac",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Disponible desde el inicio."
+    },
+    {
+        "id": 2,
+        "nombre": "Magdalene",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Consigue 7 o más contenedores de corazón rojo en una sola partida."
+    },
+    {
+        "id": 3,
+        "nombre": "Cain",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Consigue 55 monedas o más en una sola partida."
+    },
+    {
+        "id": 4,
+        "nombre": "Judas",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Derrota a Satanás por primera vez."
+    },
+    {
+        "id": 5,
+        "nombre": "??? (Blue Baby)",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Derrota al Corazón de Mamá 10 veces."
+    },
+    {
+        "id": 6,
+        "nombre": "Eve",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Supera 2 pisos seguidos sin recoger ningún corazón de ningún tipo."
+    },
+    {
+        "id": 7,
+        "nombre": "Samson",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Supera 2 pisos seguidos sin recibir ningún tipo de daño."
+    },
+    {
+        "id": 8,
+        "nombre": "Azazel",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Realiza 3 pactos con el Diablo en una sola partida."
+    },
+    {
+        "id": 9,
+        "nombre": "Lazarus",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Ten 4 o más corazones de alma o negros al mismo tiempo."
+    },
+    {
+        "id": 10,
+        "nombre": "Eden",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Supera la planta 'El Útero' (The Womb) por primera vez."
+    },
+    {
+        "id": 11,
+        "nombre": "The Lost",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Muere en una Sala de Sacrificio (los pinchos del centro) teniendo el trinket 'Missing Poster'."
+    },
+    {
+        "id": 12,
+        "nombre": "Lilith",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Derrota a Ultra Codicia (Ultra Greed) jugando con Azazel."
+    },
+    {
+        "id": 13,
+        "nombre": "Keeper",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Dona 1000 monedas a la Máquina de Donación de Codicia al final del Modo Codicia."
+    },
+    {
+        "id": 14,
+        "nombre": "Apollyon",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Derrota a Mega Satán por primera vez."
+    },
+    {
+        "id": 15,
+        "nombre": "The Forgotten",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Completa la Pala de Mamá (Mom's Shovel) y úsala sobre el montículo de tierra en la Sala Oscura (Dark Room)."
+    },
+    {
+        "id": 16,
+        "nombre": "Bethany",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Derrota a Mamá (Mom) en modo Difícil jugando como Lazarus, sin haber muerto ni revivido."
+    },
+    {
+        "id": 17,
+        "nombre": "Jacob & Esau",
+        "es_tainted": false,
+        "metodo_desbloqueo": "Derrota a La Madre (Mother) en el piso Corpse por primera vez."
+    },
+    {
+        "id": 18,
+        "nombre": "Tainted Isaac",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto de la habitación de Mamá usando la Llave Roja (o Llave Rota) jugando como Isaac."
+    },
+    {
+        "id": 19,
+        "nombre": "Tainted Magdalene",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Magdalene."
+    },
+    {
+        "id": 20,
+        "nombre": "Tainted Cain",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Cain."
+    },
+    {
+        "id": 21,
+        "nombre": "Tainted Judas",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Judas."
+    },
+    {
+        "id": 22,
+        "nombre": "Tainted ???",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como ???."
+    },
+    {
+        "id": 23,
+        "nombre": "Tainted Eve",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eve."
+    },
+    {
+        "id": 24,
+        "nombre": "Tainted Samson",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Samson."
+    },
+    {
+        "id": 25,
+        "nombre": "Tainted Azazel",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Azazel."
+    },
+    {
+        "id": 26,
+        "nombre": "Tainted Lazarus",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lazarus."
+    },
+    {
+        "id": 27,
+        "nombre": "Tainted Eden",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eden."
+    },
+    {
+        "id": 28,
+        "nombre": "Tainted Lost",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Lost."
+    },
+    {
+        "id": 29,
+        "nombre": "Tainted Lilith",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lilith."
+    },
+    {
+        "id": 30,
+        "nombre": "Tainted Keeper",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Keeper."
+    },
+    {
+        "id": 31,
+        "nombre": "Tainted Apollyon",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Apollyon."
+    },
+    {
+        "id": 32,
+        "nombre": "Tainted Forgotten",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Forgotten."
+    },
+    {
+        "id": 33,
+        "nombre": "Tainted Bethany",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Bethany."
+    },
+    {
+        "id": 34,
+        "nombre": "Tainted Jacob",
+        "es_tainted": true,
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Jacob & Esau."
+    }
+]
