@@ -44,6 +44,7 @@
     { "personaje_id": 5, "marca_id": 6, "objeto_id": 285, "consumible_id": null },
     { "personaje_id": 5, "marca_id": 7, "objeto_id": 361, "consumible_id": null },
     { "personaje_id": 5, "marca_id": 10, "objeto_id": 355, "consumible_id": null },
+    
     { "personaje_id": 6, "marca_id": 1, "objeto_id": null, "consumible_id": 60 },
     { "personaje_id": 6, "marca_id": 2, "objeto_id": 310, "consumible_id": null },
     { "personaje_id": 6, "marca_id": 3, "objeto_id": 126, "consumible_id": null },
