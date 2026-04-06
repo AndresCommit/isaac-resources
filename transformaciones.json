@@ -1,0 +1,16 @@
+[
+    { "id": 1, "nombre": "Guppy", "descripcion": "Otorga la capacidad de volar y un 50% de probabilidad de generar moscas azules al infligir daño a los enemigos." },
+    { "id": 2, "nombre": "Beelzebub", "descripcion": "Otorga la capacidad de volar y convierte a todas las moscas enemigas de las habitaciones en moscas aliadas." },
+    { "id": 3, "nombre": "Fun Guy", "descripcion": "↑ +1 Contenedor de corazón vacío y ↑ Daño +0.2." },
+    { "id": 4, "nombre": "Seraphim", "descripcion": "Otorga la capacidad de volar y ↑ +3 Corazones de alma." },
+    { "id": 5, "nombre": "Bob", "descripcion": "Dejas un rastro de fluido venenoso constante al caminar que daña a los enemigos." },
+    { "id": 6, "nombre": "Spun", "descripcion": "↑ Daño +2, ↑ Velocidad +0.15 y genera una píldora aleatoria en el suelo." },
+    { "id": 7, "nombre": "Mom", "descripcion": "Otorga un cuchillo de Mamá secundario que arrastras detrás de ti e inflige daño por contacto." },
+    { "id": 8, "nombre": "Conjoined", "descripcion": "Disparas 3 lágrimas en diagonal a cambio de perder precisión y sufrir un ligero penalizador de daño y velocidad de ataque." },
+    { "id": 9, "nombre": "Leviathan", "descripcion": "Otorga la capacidad de volar y ↑ +2 Corazones negros." },
+    { "id": 10, "nombre": "Oh Crap", "descripcion": "Te curas medio corazón rojo automáticamente cada vez que destruyes cualquier tipo de caca en la habitación." },
+    { "id": 11, "nombre": "Bookworm", "descripcion": "Otorga un 50% de probabilidad de disparar una lágrima doble (similar al objeto 20/20) sin penalización de daño." },
+    { "id": 12, "nombre": "Spider Baby", "descripcion": "Genera un familiar araña mutante permanente que aplica efectos de estado aleatorios a los enemigos que toca." },
+    { "id": 13, "nombre": "Super Bum", "descripcion": "Combina a los tres mendigos familiares en un solo mendigo gigante masivo que recoge de todo y da recompensas dobles." },
+    { "id": 14, "nombre": "Stompy", "descripcion": "Aumenta el tamaño de tu personaje, permitiéndote destruir rocas y obstáculos simplemente caminando sobre ellos." }
+]
