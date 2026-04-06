@@ -3817,10 +3817,10 @@
     },
     {
         "id": "636",
-        "nombre": "Urna de almas",
-        "descripcion": "Atrapa las almas de los enemigos muertos\nPuedes disparar esas almas atrapadas como un lanzallamas azul devastador",
+        "nombre": "Tecla R",
+        "descripcion": "Reinicia la partida y te devuelve al primer piso, pero conservas todos tus objetos, estadísticas y consumibles",
         "tipo": "Objeto",
-        "calidad": 2
+        "calidad": 4
     },
     {
         "id": "637",
@@ -3845,10 +3845,10 @@
     },
     {
         "id": "640",
-        "nombre": "Urano",
-        "descripcion": "Lágrimas de hielo\nLos enemigos eliminados se congelan y puedes patearlos como bloques de hielo para que se estrellen contra otros",
+        "nombre": "Urna de almas",
+        "descripcion": "Atrapa las almas de los enemigos muertos\nPuedes disparar esas almas atrapadas como un lanzallamas azul devastador",
         "tipo": "Objeto",
-        "calidad": 3
+        "calidad": 2
     },
     {
         "id": "641",
