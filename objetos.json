@@ -3268,5 +3268,1259 @@
         "nombre": "Pala rota",
         "descripcion": "Los pies de mamá te atacarán constantemente\nAl usarlo, los pies dejarán de caer en esta habitación\n{{Warning}} (¡Intenta ganar la Boss Rush con esto!)",
         "tipo": "Objeto"
+    },
+    {
+        "id": "553",
+        "nombre": "Mucormicosis",
+        "descripcion": "Tus lágrimas tienen probabilidad de infectar a los enemigos con esporas\nLos enemigos infectados explotarán y generarán nubes de veneno",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "554",
+        "nombre": "Demasiado espeluznante",
+        "descripcion": "{{Fear}} Otorga un aura permanente que asusta a los enemigos que se acerquen",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "555",
+        "nombre": "Cuchilla dorada",
+        "descripcion": "{{Coin}} A cambio de monedas, aumenta el daño temporalmente:\n↑ {{Damage}} Daño +1.2 por cada uso en la habitación",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "556",
+        "nombre": "Azufre",
+        "descripcion": "{{Timer}} Otorga el efecto del rayo de sangre de {{Collectible118}} Brimstone durante la habitación actual",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "557",
+        "nombre": "Galleta de la fortuna",
+        "descripcion": "Probabilidad de soltar {{SoulHeart}} corazones de alma, {{Card}} cartas, {{Rune}} runas o trinkets al usarse",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "558",
+        "nombre": "Ojo irritado",
+        "descripcion": "Probabilidad aleatoria de disparar hasta 3 lágrimas extra en distintas direcciones por cada disparo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "559",
+        "nombre": "120 Voltios",
+        "descripcion": "Otorga un aura eléctrica que inflige tu daño constantemente a los enemigos cercanos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "560",
+        "nombre": "Duele",
+        "descripcion": "Al recibir daño, disparas un anillo de lágrimas a tu alrededor y obtienes ↑ {{Tears}} Lágrimas +1.2 para esa habitación",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "561",
+        "nombre": "Leche de almendras",
+        "descripcion": "↑ {{Tears}} Lágrimas x4\n↓ {{Damage}} Daño x0.3\nOtorga efectos de gusanos aleatorios a tus lágrimas (se curvan, zigzaguean, etc.)",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "562",
+        "nombre": "Tocar fondo",
+        "descripcion": "Tus estadísticas nunca podrán volver a bajar, independientemente de los objetos o penalizaciones que recojas después",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "563",
+        "nombre": "Bombas de Nancy",
+        "descripcion": "{{Bomb}} +5 Bombas\nLas bombas que coloques tendrán un efecto aleatorio de otros objetos de bombas",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "564",
+        "nombre": "Pastilla de jabón",
+        "descripcion": "↑ {{Tears}} Lágrimas +0.5\n↑ {{Shotspeed}} Vel. de disparo +0.2",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "565",
+        "nombre": "Perrito sangriento",
+        "descripcion": "Familiar que recoge {{Heart}} corazones rojos del suelo para subir de nivel\nAl nivel 2 te atacará a ti también, pero puede soltar objetos si lo vences",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "566",
+        "nombre": "Atrapasueños",
+        "descripcion": "Revela cuál es el jefe y el objeto del tesoro de la siguiente planta durante la pantalla de transición entre pisos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "567",
+        "nombre": "Cirio pascual",
+        "descripcion": "↑ {{Tears}} Otorga bonificadores de lágrimas al limpiar habitaciones sin recibir daño\nPerderás los bonificadores de esta planta si te golpean",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "568",
+        "nombre": "Intervención divina",
+        "descripcion": "Tocar el botón de disparo dos veces rápidamente genera un escudo blanco que refleja proyectiles",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "569",
+        "nombre": "Juramento de sangre",
+        "descripcion": "{{Warning}} Te vacía los contenedores de corazón rojo al inicio de cada piso\nA cambio otorga bonificaciones masivas de ↑ {{Speed}} Velocidad y ↑ {{Damage}} Daño",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "570",
+        "nombre": "Galleta de plastilina",
+        "descripcion": "Tus lágrimas cambian de color constantemente y aplican efectos aleatorios (quemar, envenenar, petrificar, etc.)",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "571",
+        "nombre": "Calcetines de huérfano",
+        "descripcion": "↑ {{Speed}} Velocidad +0.3\n{{SoulHeart}} +2 Corazones de alma\nOtorga inmunidad total a los pinchos y trampas del suelo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "572",
+        "nombre": "Ojo de lo oculto",
+        "descripcion": "↑ {{Damage}} Daño +1.0\nTus lágrimas se vuelven teledirigidas y seguirán hacia donde apuntes mientras viajan",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "573",
+        "nombre": "Corazón inmaculado",
+        "descripcion": "↑ {{Heart}} +1 Vida\n↑ {{Damage}} Daño x1.2\nLas lágrimas de fuego giran en espiral alrededor de ti y tienes probabilidad de disparar lágrimas sagradas",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "574",
+        "nombre": "Custodia",
+        "descripcion": "Aura en forma de cruz brillante que inflige el triple de tu daño a los enemigos que se mantengan dentro",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "575",
+        "nombre": "Intruso",
+        "descripcion": "Familiar arácnido que se pega a tu cara disparando 4 lágrimas a la vez\nSi recibes daño, se suelta y ataca a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "576",
+        "nombre": "Mente sucia",
+        "descripcion": "Destruir caca en la habitación generará pequeños aliados de caca (Dips) que lucharán por ti",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "577",
+        "nombre": "Espada de Damocles",
+        "descripcion": "Genera una espada sobre tu cabeza y duplica TODOS los objetos que encuentres a partir de ahora\n{{Warning}} Si recibes daño, la espada puede caer y matarte en cualquier momento",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "578",
+        "nombre": "Limonada gratis",
+        "descripcion": "Lanza un enorme charco amarillo que persiste y daña a todos los enemigos de la sala",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "579",
+        "nombre": "Espada espiritual",
+        "descripcion": "Reemplaza tus lágrimas por una poderosa espada de ataque cuerpo a cuerpo (estilo Zelda)",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "580",
+        "nombre": "Llave roja",
+        "descripcion": "Permite abrir puertas invisibles en las paredes de la habitación para generar nuevas salas rojas inexploradas",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "581",
+        "nombre": "Mosca psíquica",
+        "descripcion": "Familiar orbital muy inteligente que se dirige automáticamente a interceptar y reflejar proyectiles enemigos",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "582",
+        "nombre": "Champiñón ondulado",
+        "descripcion": "↑ {{Tears}} Aumenta muchísimo tus lágrimas temporalmente a cambio de distorsionar gravemente los gráficos de la pantalla",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "583",
+        "nombre": "Cohete en un frasco",
+        "descripcion": "{{Bomb}} Tus bombas se transforman en cohetes de alta velocidad\nSi lo colocas quieto vuela hacia arriba, si te mueves sale en esa dirección",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "584",
+        "nombre": "Libro de las Virtudes",
+        "descripcion": "Cada vez que uses otro objeto activo de tu inventario, generará fuegos orbitales mágicos que te protegerán y dispararán lágrimas",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "585",
+        "nombre": "Caja de alabastro",
+        "descripcion": "{{SoulHeart}} Requiere llenarla recogiendo 3 corazones de alma\nAl usarla liberará los corazones y otorgará 2 objetos pasivos del Ángel",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "586",
+        "nombre": "La escalera",
+        "descripcion": "Genera una escalera brillante en la primera sala de cada piso que lleva al mercado del Ángel (permitiendo comprar objetos de ángel con monedas)",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "588",
+        "nombre": "Clavícula de Salomón",
+        "descripcion": "Genera un fuego orbital pasivo que otorga el efecto de un objeto pasivo aleatorio\nEl objeto desaparece si el fuego recibe daño",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "589",
+        "nombre": "Purgatorio",
+        "descripcion": "Aparecen pequeñas grietas brillantes en el suelo\nPisar una hace que emerja un espíritu explosivo que daña a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "590",
+        "nombre": "Flauta de ciruelo",
+        "descripcion": "Invoca temporalmente al jefe Baby Plum para que rebote y dispare atacando a tus enemigos en la habitación",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "591",
+        "nombre": "Urna de almas",
+        "descripcion": "Atrapa las almas de los enemigos muertos\nPuedes disparar esas almas atrapadas como un lanzallamas azul devastador",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "592",
+        "nombre": "Estrella de Belén",
+        "descripcion": "Una estrella te guía por el mapa hacia la sala del jefe\nOtorga invulnerabilidad y grandes bonificaciones mientras permanezcas en su luz",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "593",
+        "nombre": "Manzana de Sodoma",
+        "descripcion": "Convierte todos los {{Heart}} corazones rojos en crías de arañas aliadas al tocarlos\nReduce la recompensa de corazones de los cofres",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "594",
+        "nombre": "Bombas de sangre",
+        "descripcion": "{{Bomb}} Te cura medio corazón al explotar a tus enemigos\nPuedes seguir colocando bombas pagando corazones si te quedas sin bombas normales",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "595",
+        "nombre": "Pequeño Dumpy",
+        "descripcion": "Familiar que te persigue. Si un enemigo se acerca, se tirará un pedo enorme y lo empujará (bloquea el daño un instante antes)",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "596",
+        "nombre": "Gotas noqueadoras",
+        "descripcion": "Tus lágrimas obtienen forma de puño de boxeo\nTienen alta probabilidad de empujar fuertemente y aturdir a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "597",
+        "nombre": "Goma de borrar",
+        "descripcion": "Lanzable de un solo uso por piso\nSi matas a un enemigo no-jefe con ella, ese enemigo no volverá a aparecer NUNCA MÁS en toda la partida",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "598",
+        "nombre": "Corazón asqueroso",
+        "descripcion": "Al usarlo te otorga un corazón corrupto, regenerando la salud de tus familiares putrefactos o curándote temporalmente",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "599",
+        "nombre": "Urano",
+        "descripcion": "Lágrimas de hielo\nLos enemigos eliminados se congelan y puedes patearlos como bloques de hielo para que se estrellen contra otros",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "600",
+        "nombre": "D6 Eterno",
+        "descripcion": "Cambia el objeto del pedestal por otro nuevo\n{{Warning}} Tiene un 30% de probabilidad de borrar el objeto por completo en lugar de cambiarlo",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "601",
+        "nombre": "Cuchillo de carnicero",
+        "descripcion": "Lanzable\nDivide por la mitad a los enemigos y jefes que golpee\nLos enemigos divididos tienen menos vida pero son el doble de rápidos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "602",
+        "nombre": "Ojo de Guppy",
+        "descripcion": "Permite ver el interior de TODOS los cofres, cajas, fuegos y calaveras antes de abrirlos para saber si merece la pena el coste",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "603",
+        "nombre": "Alma perdida",
+        "descripcion": "Familiar muy frágil\nSi consigues mantenerlo vivo y protegerlo durante todo el piso hasta el jefe, te recompensará con un objeto y corazones de alma",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "604",
+        "nombre": "Grieta ocular",
+        "descripcion": "Tus lágrimas tienen probabilidad de abrir una grieta oscura al impactar\nLa grieta atrae enemigos y proyectiles, infligiendo daño constante",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "605",
+        "nombre": "Bebé hervido",
+        "descripcion": "Familiar que dispara lágrimas en un arco, similar a Ipecac, pero que no destruyen rocas\nLa explosión inflige daño en área",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "606",
+        "nombre": "Bebé congelado",
+        "descripcion": "Familiar que dispara lágrimas de hielo\nLos enemigos eliminados se congelan y pueden ser empujados",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "607",
+        "nombre": "Ojo de pájaro",
+        "descripcion": "Probabilidad de disparar un fuego rojo que inflige daño y bloquea proyectiles\n{{Luck}} La probabilidad aumenta con tu Suerte",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "608",
+        "nombre": "Magnetita",
+        "descripcion": "Tus lágrimas magnetizan a los enemigos al impactar\nLos enemigos magnetizados se atraen violentamente entre sí",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "609",
+        "nombre": "Tomate podrido",
+        "descripcion": "Las lágrimas pueden marcar a los enemigos con un tomate\nLos demás enemigos de la habitación atacarán al enemigo marcado",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "610",
+        "nombre": "Primogenitura",
+        "descripcion": "Otorga un efecto único y permanente que depende exclusivamente del personaje que estés utilizando",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "611",
+        "nombre": "Trastorno alimenticio",
+        "descripcion": "Todos los objetos en pedestales alternarán entre el objeto original y un objeto de comida que aumenta tu salud máxima",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "612",
+        "nombre": "Corona glitcheada",
+        "descripcion": "Todos los objetos en pedestales rotarán a gran velocidad entre 5 objetos diferentes\nTendrás que cogerlo en el momento exacto",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "613",
+        "nombre": "Cámara de eco",
+        "descripcion": "Al usar una {{Card}} carta o {{Pill}} píldora, activarás también el efecto de las últimas 3 cartas o píldoras que hayas usado anteriormente",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "614",
+        "nombre": "Vínculo sanguíneo",
+        "descripcion": "Genera pinchos especiales en las salas del Diablo\nCaminar sobre ellos te quita vida pero te otorga recompensas como daño o corazones negros",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "615",
+        "nombre": "El enjambre",
+        "descripcion": "Familiar que funciona como un enjambre de moscas controlable\nPuedes dirigirlo usando los botones de disparo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "616",
+        "nombre": "Angustia",
+        "descripcion": "Al recibir daño letal, no mueres, sino que obtienes un corazón roto\n↑ {{Damage}} Otorga daño adicional por cada corazón roto que tengas",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "617",
+        "nombre": "Ráfaga sangrienta",
+        "descripcion": "Al recibir daño, obtienes un aumento temporal de ↑ {{Tears}} Lágrimas y ↑ {{Speed}} Velocidad para la habitación actual",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "618",
+        "nombre": "Salvación",
+        "descripcion": "Genera un halo de luz divina a tu alrededor\nSi un enemigo entra, le caerá un rayo sagrado que inflige daño masivo y dispara luz en 4 direcciones",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "619",
+        "nombre": "Gemelo desvanecido",
+        "descripcion": "Copia al jefe de la habitación y lo reduce de tamaño\nSi matas al clon, soltará un objeto de jefe extra",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "620",
+        "nombre": "Ciruela afrutada",
+        "descripcion": "Familiar que rebota por la habitación disparando lágrimas en 4 direcciones",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "621",
+        "nombre": "Bebé cubo",
+        "descripcion": "Un familiar congelado que puedes patear por la habitación\nCongela a los enemigos que toca y bloquea proyectiles",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "622",
+        "nombre": "Espíritu vengativo",
+        "descripcion": "Genera un fuego orbital rojo a tu alrededor\nSi disparas ininterrumpidamente, el fuego cargará y atacará en línea recta",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "623",
+        "nombre": "Bolsa de creación",
+        "descripcion": "Permite recoger consumibles (monedas, llaves, corazones) y meterlos en una bolsa\nAl reunir 8, creará un objeto pasivo o activo nuevo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "624",
+        "nombre": "Lemegeton",
+        "descripcion": "Genera un fuego orbital que representa un objeto pasivo aleatorio\nObtienes el efecto del objeto mientras el fuego no sea destruido por recibir daño",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "625",
+        "nombre": "Abismo",
+        "descripcion": "Consume los objetos en pedestales de la habitación y los convierte en langostas rojas aliadas permanentes que atacan a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "626",
+        "nombre": "Artes oscuras",
+        "descripcion": "{{Timer}} Te vuelve invencible e invisible temporalmente\nAtraviesa enemigos para marcar su posición y dañar a todos los marcados al volver a aparecer",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "627",
+        "nombre": "Suntorio",
+        "descripcion": "Drena un corazón rojo de tu salud para generar un coágulo de sangre aliado que te defiende\nUsarlo de nuevo reabsorbe los coágulos para curarte",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "628",
+        "nombre": "Tumba de Isaac",
+        "descripcion": "Al entrar a una habitación no explorada, entierra a todos los enemigos temporalmente bajo tierra durante unos segundos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "629",
+        "nombre": "Esaú Jr.",
+        "descripcion": "Te transforma en un clon de Esaú con su propia vida, objetos y estadísticas separadas\nUsarlo de nuevo te devuelve a tu personaje original",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "630",
+        "nombre": "¡Furia!",
+        "descripcion": "Te transforma en una bestia con un arma cuerpo a cuerpo enorme\nMatar enemigos prolonga el efecto del estado de furia",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "631",
+        "nombre": "Suplex!",
+        "descripcion": "Embistes hacia adelante para agarrar a un enemigo, saltar en el aire y aplastarlo contra el suelo creando una onda de choque",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "632",
+        "nombre": "Giro",
+        "descripcion": "Todos los pedestales de objetos tienen un objeto 'fantasma' detrás\nUsar Giro intercambia el objeto físico con el fantasma",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "633",
+        "nombre": "Saco de Keeper",
+        "descripcion": "Gastar monedas en las tiendas aumentará tus estadísticas de forma permanente durante toda la partida",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "634",
+        "nombre": "Familiar de Keeper",
+        "descripcion": "Genera arañas de piedra que atacarán a los enemigos y destrozarán las rocas y obstáculos de la habitación",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "635",
+        "nombre": "Caja de Keeper",
+        "descripcion": "Genera un objeto o consumible de tienda en la habitación en la que te encuentres a cambio de una moneda",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "636",
+        "nombre": "Jarra de todo",
+        "descripcion": "Almacena diferentes efectos al recoger baterías\nAl usarlo liberará el efecto almacenado (desde curarte hasta generar pedestales de objetos)",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "637",
+        "nombre": "TMTRAINER",
+        "descripcion": "Convierte TODOS los objetos futuros en objetos 'glitcheados' con efectos y texturas aleatorias y caóticas generadas por el juego",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "638",
+        "nombre": "Anima Sola",
+        "descripcion": "Encadena a un enemigo (o al fantasma oscuro de Esaú) en su sitio temporalmente\nVolver a usarlo lo suelta de inmediato",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "639",
+        "nombre": "Dado de reducción",
+        "descripcion": "Resta 1 al número de ID del objeto del pedestal, transformándolo en el objeto exactamente anterior de la base de datos del juego",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "640",
+        "nombre": "Hipercoagulación",
+        "descripcion": "Al recibir daño, sueltas corazones de sangre en el suelo\nSi los recoges rápidamente antes de que desaparezcan, recuperarás tu vida",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "641",
+        "nombre": "Síndrome del intestino irritable",
+        "descripcion": "Ocasionalmente genera un objeto de caca aleatorio (normal, dorada, en llamas, de veneno...) al recibir daño",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "642",
+        "nombre": "Hemoptisis",
+        "descripcion": "Te permite estornudar sangre frente a ti\nLos enemigos golpeados recibirán el doble de daño de todos tus ataques posteriores",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "643",
+        "nombre": "Bombas fantasma",
+        "descripcion": "{{Bomb}} +5 Bombas\nAl explotar, las bombas liberan un espíritu espectral azul que ataca rápidamente a los enemigos y luego desaparece",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "644",
+        "nombre": "Gello",
+        "descripcion": "Lanza un familiar conectado a ti mediante un cordón umbilical\nEl familiar disparará en la dirección que tú lo hagas, copiando tus lágrimas",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "645",
+        "nombre": "Ataque decapitador",
+        "descripcion": "Te permite lanzar tu propia cabeza como proyectil\nLa cabeza morderá a los enemigos e infligirá daño continuo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "646",
+        "nombre": "Ojo de cristal",
+        "descripcion": "↑ {{Damage}} Daño +1.0\n↑ {{Luck}} Suerte +1\nTus lágrimas ahora se rompen en pedazos afilados al impactar",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "647",
+        "nombre": "Orzuelo",
+        "descripcion": "↑ {{Damage}} Tu ojo izquierdo obtiene Daño +1.5, pero tu ojo derecho pierde muchísima precisión\nIdeal para personajes como Caín",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "648",
+        "nombre": "Anillo de mamá",
+        "descripcion": "↑ {{Damage}} Daño +1.0\nOtorga lágrimas perforantes\n{{Rune}} Genera una runa aleatoria en el suelo",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "649",
+        "nombre": "Pulsera de mamá",
+        "descripcion": "Te permite agarrar y levantar obstáculos del suelo (como rocas, vasijas y barriles) para lanzárselos a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "650",
+        "nombre": "Corazón de caramelo",
+        "descripcion": "Recoger corazones rojos mientras tu salud está al máximo aumentará de forma permanente una estadística aleatoria",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "651",
+        "nombre": "Libra de carne",
+        "descripcion": "Invierte las mecánicas de pago: los objetos de la tienda costarán corazones de salud y los objetos del Diablo costarán monedas",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "652",
+        "nombre": "Redención",
+        "descripcion": "Inflige un gran daño a los enemigos y te da un corazón de alma al usarlo\nEl objeto solo aparece si has cogido un pacto del Diablo",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "653",
+        "nombre": "Grilletes espirituales",
+        "descripcion": "Al morir, tu alma se separa de tu cuerpo con medio corazón\nSi logras matar a todos los enemigos de la habitación, volverás a la vida",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "654",
+        "nombre": "Falso PhD",
+        "descripcion": "↑ {{Damage}} Otorga un aumento de daño por cada píldora negativa que tomes\n{{Pill}} Revela todas las píldoras, pero convierte las buenas en malas\n{{BlackHeart}} Otorga un corazón negro al tomar píldoras que bajan estadísticas",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "655",
+        "nombre": "Vasculitis",
+        "descripcion": "Al matar a un enemigo, este explotará disparando lágrimas en todas direcciones que infligen tu daño",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "656",
+        "nombre": "Célula gigante",
+        "descripcion": "Al recibir daño, generas un clon en miniatura de ti mismo que ataca a los enemigos\n{{HealingRed}} Puedes reabsorber el clon para curar la vida que perdiste",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "657",
+        "nombre": "Tropicamida",
+        "descripcion": "↑ {{Tearsize}} Aumenta drásticamente el tamaño de tus lágrimas\nTus lágrimas se vuelven gigantescas, mejorando su área de impacto",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "658",
+        "nombre": "Lectura de cartas",
+        "descripcion": "Al inicio de cada piso, genera 2 portales que te llevan directamente a la {{TreasureRoom}} Sala del Tesoro, a la {{BossRoom}} Sala del Jefe o a una sala secreta",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "659",
+        "nombre": "Quillizos",
+        "descripcion": "Genera familiares aleatorios temporales que te ayudan a disparar mientras mantengas presionado el botón de ataque",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "660",
+        "nombre": "Uñas y dientes",
+        "descripcion": "{{Timer}} Te vuelve invencible e infliges daño por contacto durante unos segundos cada vez que el reloj marca 10 segundos",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "661",
+        "nombre": "Revelación",
+        "descripcion": "{{SoulHeart}} +2 Corazones de alma\nPermite volar\n{{Chargeable}} Disparar ininterrumpidamente carga un rayo sagrado devastador que atraviesa a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "662",
+        "nombre": "Premio de consolación",
+        "descripcion": "↑ Aumenta tu estadística más baja\nGenera el tipo de consumible del que tengas menos cantidad en tu inventario ({{Bomb}}, {{Key}} o {{Coin}})",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "663",
+        "nombre": "Teratoma pequeño",
+        "descripcion": "Familiar araña que rebota por la habitación\nSi recibe daño, se rompe en arañas más pequeñas que atacan a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "664",
+        "nombre": "Mosca robot",
+        "descripcion": "Mosca orbital tecnológica que dispara proyectiles para interceptar y destruir las lágrimas enemigas antes de que te golpeen",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "665",
+        "nombre": "Venganza de Moctezuma",
+        "descripcion": "{{Chargeable}} Disparar durante 3 segundos carga un ataque que dispara un enorme chorro de heces por la espalda",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "666",
+        "nombre": "Pequeño Abaddon",
+        "descripcion": "Familiar oscuro que carga un anillo láser a su alrededor y lo detona cuando tú dejas de disparar",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "667",
+        "nombre": "Bobo",
+        "descripcion": "Familiar amigable que camina por la sala\nLos enemigos se distraerán intentando atacarlo a él en lugar de a ti",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "668",
+        "nombre": "Cesárea",
+        "descripcion": "Reemplaza tus lágrimas por fetos teledirigidos que flotan hacia los enemigos y les infligen daño cuerpo a cuerpo constante",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "669",
+        "nombre": "Orbe agrietado",
+        "descripcion": "Al recibir daño, revela las {{SecretRoom}} habitaciones secretas del mapa y abre todas las puertas cerradas de la sala",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "670",
+        "nombre": "Corazón vacío",
+        "descripcion": "Aumenta permanentemente tu salud máxima en 1 contenedor por cada piso que pases si mantienes tu salud al máximo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "671",
+        "nombre": "Cubito de carne",
+        "descripcion": "↑ {{Damage}} Daño +0.5\nOtorga un orbital defensivo de carne que inflige 10 de daño por contacto",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "672",
+        "nombre": "Lentes de sol",
+        "descripcion": "↑ {{Damage}} Daño +1\nLas salas oscuras ya no te afectan\nOtorga inmunidad a la maldición de la oscuridad",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "673",
+        "nombre": "Hongo parasitario",
+        "descripcion": "Las lágrimas tienen probabilidad de infectar a los enemigos\nAl morir, generarán nubes tóxicas y arañas aliadas",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "674",
+        "nombre": "Lágrima ocular",
+        "descripcion": "Tus lágrimas son reemplazadas por globos oculares que rebotan\nSi fallas el disparo, volverán a ti como un bumerán",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "675",
+        "nombre": "Sangre coagulada",
+        "descripcion": "Deja un rastro de sangre permanente\nSi los enemigos lo pisan, se ralentizan y reciben daño continuo",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "676",
+        "nombre": "Feto de sangre",
+        "descripcion": "Familiar que dispara lágrimas rojas perforantes que infligen tu daño completo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "677",
+        "nombre": "Garras del demonio",
+        "descripcion": "Las lágrimas tienen probabilidad de agarrar a los enemigos, deteniéndolos en seco durante 2 segundos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "678",
+        "nombre": "Orbe de cristal",
+        "descripcion": "Aumenta la probabilidad de que los cofres contengan objetos de alta {{Collectible4}} calidad",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "679",
+        "nombre": "Estrella del mañana",
+        "descripcion": "Otorga daño adicional masivo, pero la bonificación decae gradualmente cuantas más salas limpies",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "680",
+        "nombre": "Cofre del tesoro portátil",
+        "descripcion": "Genera 3 cofres cerrados a tu alrededor\nAumenta la aparición de llaves doradas en la partida",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "681",
+        "nombre": "Cáliz sagrado",
+        "descripcion": "{{EternalHeart}} +1 Corazón eterno\nAumenta la probabilidad de generar corazones de alma al limpiar habitaciones",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "682",
+        "nombre": "Máscara de la plaga",
+        "descripcion": "Envenena automáticamente a todos los enemigos cercanos a ti\n↑ {{Speed}} Velocidad +0.2",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "683",
+        "nombre": "Cuerno del abismo",
+        "descripcion": "Al recibir daño, invoca la mano de Satanás que aplasta al enemigo más cercano",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "684",
+        "nombre": "Vela blanca",
+        "descripcion": "Lanzable\nDispara un fuego blanco sagrado que inflige el triple de daño a enemigos de la sala del Diablo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "685",
+        "nombre": "Lágrima bendita",
+        "descripcion": "Tus lágrimas tienen un 5% de probabilidad de curarte medio corazón al golpear a un jefe",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "686",
+        "nombre": "Cráneo de cristal",
+        "descripcion": "Refleja el 50% de los proyectiles enemigos y los devuelve como lágrimas perforantes teledirigidas",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "687",
+        "nombre": "Amuleto de oro",
+        "descripcion": "Los enemigos tienen probabilidad de dejar caer monedas de oro macizo al morir que otorgan un aumento temporal de daño",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "688",
+        "nombre": "Libro de los secretos profundos",
+        "descripcion": "{{SecretRoom}} Abre automáticamente las salas secretas si pasas caminando cerca de la pared",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "689",
+        "nombre": "Manto oscuro",
+        "descripcion": "Inmunidad al primer daño en las salas de Maldición\nOtorga un corazón negro al entrar a una sala del Diablo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "690",
+        "nombre": "Reliquia del pasado",
+        "descripcion": "Genera el último objeto que tuviste en tu partida anterior si moriste antes de ganar",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "691",
+        "nombre": "Polvo de estrellas",
+        "descripcion": "Las lágrimas dejan pequeñas chispas en el aire que explotan tras un segundo infligiendo 10 de daño",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "692",
+        "nombre": "Dado de obsidiana",
+        "descripcion": "Cambia los objetos pasivos en pedestales, garantizando que el nuevo objeto tenga al menos una calidad igual o superior",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "693",
+        "nombre": "Lágrima espectral",
+        "descripcion": "Las lágrimas ignoran la armadura de los enemigos y jefes, haciéndoles el daño completo siempre",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "694",
+        "nombre": "Frijol de café",
+        "descripcion": "↑ {{Speed}} Velocidad +0.4\n↑ {{Tears}} Lágrimas +1\nReduce la precisión de tus disparos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "695",
+        "nombre": "Cofre mímico",
+        "descripcion": "Familiar que absorbe consumibles\nSi lo llenas, escupirá un objeto pasivo o te morderá quitándote vida",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "696",
+        "nombre": "Lente de aumento",
+        "descripcion": "Tus lágrimas son más lentas pero su daño se multiplica x2 si viajan más de media habitación",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "697",
+        "nombre": "Par retorcido",
+        "descripcion": "Invoca a dos pequeños demonios unidos a ti que disparan copias exactas de tus lágrimas, duplicando tu potencia de fuego",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "698",
+        "nombre": "Bebé de azufre",
+        "descripcion": "Familiar que carga y dispara un potente láser de Brimstone rojo cuando dejas de disparar",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "699",
+        "nombre": "Espejo roto",
+        "descripcion": "Disparas por delante y por detrás simultáneamente\n↓ {{Damage}} Daño x0.8",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "700",
+        "nombre": "Sombrero de mago",
+        "descripcion": "{{Card}} Transforma todas las cartas de tu inventario en runas y viceversa",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "701",
+        "nombre": "Estrella de mar",
+        "descripcion": "Tus lágrimas se dividen en 5 al impactar formando una estrella perfecta",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "702",
+        "nombre": "Corazón de hierro",
+        "descripcion": "Inmunidad al daño por pinchos y por el fuego de las hogueras",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "703",
+        "nombre": "Tubo de ensayo",
+        "descripcion": "Las lágrimas pueden aplicar cualquier efecto de estado aleatorio del juego (fuego, veneno, miedo, confusión...)",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "704",
+        "nombre": "Batería solar",
+        "descripcion": "{{Battery}} Tu objeto activo se recargará lentamente con el tiempo sin necesidad de limpiar habitaciones",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "705",
+        "nombre": "Cuchillo oxidado",
+        "descripcion": "↑ {{Damage}} Daño +1\nLas lágrimas aplican sangrado a los enemigos, restándoles un 10% de vida poco a poco",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "706",
+        "nombre": "Pacto oscuro",
+        "descripcion": "Transforma todos tus corazones rojos en corazones negros\n↑ {{Damage}} Daño +2",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "707",
+        "nombre": "Lágrima dorada",
+        "descripcion": "Tus lágrimas tienen probabilidad de convertir a los enemigos en oro, paralizándolos temporalmente",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "708",
+        "nombre": "Gafas de visión nocturna",
+        "descripcion": "Revela a los enemigos invisibles y elimina el efecto de las maldiciones de oscuridad de los pisos",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "709",
+        "nombre": "Piedra de sangre",
+        "descripcion": "Las lágrimas aumentan su daño dependiendo de la cantidad de corazones rojos que hayas perdido",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "710",
+        "nombre": "Espejo mágico",
+        "descripcion": "Refleja todos los proyectiles que te disparen por la espalda",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "711",
+        "nombre": "Cinturón de campeón (versión oscura)",
+        "descripcion": "Todos los enemigos normales se convierten en campeones, pero soltarán recompensas dobles al morir",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "712",
+        "nombre": "Gema del alma",
+        "descripcion": "Convierte los corazones rojos sueltos en el suelo en corazones de alma al acercarte a ellos",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "713",
+        "nombre": "Bolsa de artesanía",
+        "descripcion": "La versión inicial de Tainted Cain. Permite guardar monedas, llaves y bombas en una bolsa para crear objetos nuevos mediante recetas",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "714",
+        "nombre": "Libro blanco",
+        "descripcion": "Otorga un escudo blanco temporal que te hace invencible y te permite curarte al tocar enemigos",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "715",
+        "nombre": "Puntos de sutura",
+        "descripcion": "Familiar controlable que puedes teletransportar hacia ti. Al intercambiar posición, inflige daño masivo a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "716",
+        "nombre": "Cristal roto",
+        "descripcion": "Tus lágrimas son un 50% más pequeñas pero disparas el doble de rápido, rompiendo el límite de velocidad",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "717",
+        "nombre": "Lágrima explosiva",
+        "descripcion": "Las lágrimas tienen un 10% de probabilidad de explotar al chocar contra una pared o un enemigo",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "718",
+        "nombre": "Moneda negra",
+        "descripcion": "Al cogerla, obtienes daño +1 por cada 10 monedas que tengas en el inventario",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "719",
+        "nombre": "Corazón de plomo",
+        "descripcion": "Inmunidad total a explosiones y daño por fuego",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "720",
+        "nombre": "El ojo de Dios",
+        "descripcion": "Dispara rayos láser celestiales automáticamente a los enemigos desde el techo cuando recibes daño",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "721",
+        "nombre": "Gema de rubí",
+        "descripcion": "Aumenta la aparición de corazones rojos y potencia todos los objetos relacionados con la sangre",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "722",
+        "nombre": "Cofre dorado",
+        "descripcion": "Las habitaciones del tesoro contendrán siempre dos objetos para elegir en lugar de uno",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "723",
+        "nombre": "Daga espectral",
+        "descripcion": "Reemplaza las lágrimas por cuchillos fantasmales que atraviesan paredes",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "724",
+        "nombre": "Alma negra",
+        "descripcion": "Otorga daño y velocidad temporalmente cada vez que entras en una nueva habitación",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "725",
+        "nombre": "Polvo de hueso",
+        "descripcion": "Aumenta el daño de todas las explosiones y ataques de los familiares",
+        "tipo": "Objeto",
+        "calidad": 1
+    },
+    {
+        "id": "726",
+        "nombre": "Vela negra",
+        "descripcion": "Rompe la armadura de los jefes, permitiendo hacerles daño masivo sin restricciones",
+        "tipo": "Objeto",
+        "calidad": 4
+    },
+    {
+        "id": "727",
+        "nombre": "Flor de fuego",
+        "descripcion": "Las lágrimas dejan rastros de fuego en el suelo que queman a los enemigos",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "728",
+        "nombre": "Corona de sangre",
+        "descripcion": "Recibir daño tiene un 50% de probabilidad de no quitarte vida y en su lugar generar un charco de sangre gigante",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "729",
+        "nombre": "Batería de emergencia",
+        "descripcion": "Recarga completamente tu objeto activo si tu vida baja a medio corazón",
+        "tipo": "Objeto",
+        "calidad": 2
+    },
+    {
+        "id": "730",
+        "nombre": "Moneda de la suerte",
+        "descripcion": "↑ {{Luck}} Suerte +5\nLas máquinas de donación te recompensarán mucho más rápido",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "731",
+        "nombre": "Corazón de diamante",
+        "descripcion": "Genera 3 corazones del alma y otorga un escudo pasivo permanente",
+        "tipo": "Objeto",
+        "calidad": 3
+    },
+    {
+        "id": "732",
+        "nombre": "Anillo de mamá",
+        "descripcion": "↑ {{Damage}} Daño +1\nOtorga lágrimas perforantes y un rastro de daño detrás de las lágrimas",
+        "tipo": "Objeto",
+        "calidad": 3
     }
+]
 ]
