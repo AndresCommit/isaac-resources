@@ -8,7 +8,8 @@
     { "id": 7, "nombre": "Hush" },
     { "id": 8, "nombre": "Mega Satán" },
     { "id": 9, "nombre": "Delirium" },
-    { "id": 10, "nombre": "Modo Codicia (Greed / Greedier)" },
-    { "id": 11, "nombre": "La Madre (Mother)" },
-    { "id": 12, "nombre": "La Bestia (The Beast)" }
+    { "id": 10, "nombre": "Modo Codicia (Greed)" },
+    { "id": 11, "nombre": "Modo Súper Codicia (Greedier)" },
+    { "id": 12, "nombre": "La Madre (Mother)" },
+    { "id": 13, "nombre": "La Bestia (The Beast)" }
 ]
