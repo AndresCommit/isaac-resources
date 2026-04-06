@@ -1594,5 +1594,35 @@
         "nombre": "Alma de Jacob",
         "descripcion": "Invoca temporalmente a Esaú, que disparará junto a ti durante el resto de la habitación",
         "tipo": "Carta"
+    },
+    {
+        "id": "44",
+        "nombre": "Carta de las Reglas",
+        "descripcion": "Muestra un mensaje críptico en la pantalla que da pistas sobre los secretos ocultos del juego (como cómo desbloquear personajes o encontrar salas especiales)",
+        "tipo": "Carta"
+    },
+    {
+        "id": "94",
+        "nombre": "Fragmento de Runa",
+        "descripcion": "Actúa como una runa aleatoria, pero con un efecto mucho más débil (ej: revela solo parte del mapa, genera menos consumibles o hace menos daño)",
+        "tipo": "Carta"
+    },
+    {
+        "id": "95",
+        "nombre": "Reina de Corazones",
+        "descripcion": "{{Heart}} Genera una gran variedad de corazones rojos al azar en el suelo a tu alrededor\nAumenta la probabilidad de generar corazones dobles",
+        "tipo": "Carta"
+    },
+    {
+        "id": "96",
+        "nombre": "Comodín",
+        "descripcion": "Copia exactamente el efecto del último consumible ({{Card}} carta, {{Pill}} píldora o {{Rune}} runa) u objeto activo que hayas utilizado previamente",
+        "tipo": "Carta"
+    },
+    {
+        "id": "97",
+        "nombre": "Llave Rota",
+        "descripcion": "Consumible de un solo uso que actúa como el objeto Llave Roja\nCrea una sala roja inexplorada en la pared en la que la uses (vital para desbloquear personajes Tainted)",
+        "tipo": "Carta"
     }
 ]
