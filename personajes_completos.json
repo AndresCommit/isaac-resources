@@ -3,204 +3,238 @@
         "id": 1,
         "nombre": "Isaac",
         "es_tainted": false,
-        "metodo_desbloqueo": "Disponible desde el inicio."
+        "metodo_desbloqueo": "Disponible desde el inicio.",
+        "descripcion": "El personaje más balanceado y estándar del juego. Isaac cuenta con 3 corazones rojos iniciales y estadísticas equilibradas. Su verdadero potencial se desata al desbloquear su objeto activo inicial, 'El D6' (The D6), que le permite cambiar cualquier objeto de pedestal por otro diferente, dándole un control inmenso sobre las partidas al poder buscar combinaciones más poderosas."
     },
     {
         "id": 2,
         "nombre": "Magdalene",
         "es_tainted": false,
-        "metodo_desbloqueo": "Consigue 7 o más contenedores de corazón rojo en una sola partida."
+        "metodo_desbloqueo": "Consigue 7 o más contenedores de corazón rojo en una sola partida.",
+        "descripcion": "Magdalene (o Maggy) es el tanque del juego base. Empieza con 4 corazones rojos y el objeto activo 'Corazón Delicioso' (Yum Heart), lo que le permite curarse de forma constante. Para compensar su gran resistencia, comienza con una velocidad de movimiento más baja de lo normal, lo que la hace vulnerable a enemigos rápidos hasta que consigue objetos que aumenten su agilidad."
     },
     {
         "id": 3,
         "nombre": "Cain",
         "es_tainted": false,
-        "metodo_desbloqueo": "Consigue 55 monedas o más en una sola partida."
+        "metodo_desbloqueo": "Consigue 55 monedas o más en una sola partida.",
+        "descripcion": "Un personaje rápido y con mucha suerte, aunque empieza con solo 2 corazones rojos. Cain dispara únicamente desde su ojo izquierdo, lo que afecta su interacción con ciertos objetos. Inicia la partida con el abalorio 'Pie de la Suerte' (Lucky Foot), que mejora sus posibilidades en los juegos de azar y garantiza que todas las píldoras que encuentre tengan efectos positivos o neutrales."
     },
     {
         "id": 4,
         "nombre": "Judas",
         "es_tainted": false,
-        "metodo_desbloqueo": "Derrota a Satanás por primera vez."
+        "metodo_desbloqueo": "Derrota a Satanás por primera vez.",
+        "descripcion": "Judas es el clásico 'cañón de cristal'. Comienza la partida con un solo corazón rojo, lo que lo hace extremadamente frágil al principio, pero lo compensa con un daño base elevado. Además, su objeto inicial, el 'Libro de Belial', le otorga un aumento temporal de daño masivo y mejora sus probabilidades de conseguir pactos con el Diablo."
     },
     {
         "id": 5,
         "nombre": "??? (Blue Baby)",
         "es_tainted": false,
-        "metodo_desbloqueo": "Derrota al Corazón de Mamá 10 veces."
+        "metodo_desbloqueo": "Derrota al Corazón de Mamá 10 veces.",
+        "descripcion": "Un personaje único que no puede tener contenedores de corazones rojos. Blue Baby empieza solo con 3 corazones de alma y cualquier aumento de salud máxima se transformará automáticamente en corazones de alma. Comienza con el objeto activo 'La Caca' (The Poop), que puede usarse para bloquear caminos, crear puentes con explosiones o encontrar consumibles."
     },
     {
         "id": 6,
         "nombre": "Eve",
         "es_tainted": false,
-        "metodo_desbloqueo": "Supera 2 pisos seguidos sin recoger ningún corazón de ningún tipo."
+        "metodo_desbloqueo": "Supera 2 pisos seguidos sin recoger ningún corazón de ningún tipo.",
+        "descripcion": "Eve basa su poder en jugar al borde de la muerte. Comienza con el objeto 'Ramera de Babilonia' que, en su caso particular, se activa cuando tiene 1 corazón rojo entero o menos, otorgándole un gran aumento de daño y velocidad. Si desbloquea la 'Cuchilla' (Razor Blade) como objeto inicial, puede sacrificar su propia salud roja para activar su estado demoníaco a voluntad."
     },
     {
         "id": 7,
         "nombre": "Samson",
         "es_tainted": false,
-        "metodo_desbloqueo": "Supera 2 pisos seguidos sin recibir ningún tipo de daño."
+        "metodo_desbloqueo": "Supera 2 pisos seguidos sin recibir ningún tipo de daño.",
+        "descripcion": "Samson es un guerrero que se vuelve más fuerte cuanto más daño recibe. Su objeto innato, 'Lujuria de Sangre' (Bloody Lust), aumenta su daño base cada vez que pierde salud. Este bonus de daño se reinicia al cambiar de piso. Inicia con estadísticas ligeramente inferiores, por lo que recibir daño intencionado en las máquinas de donación de sangre o en fuegos es parte clave de su estrategia."
     },
     {
         "id": 8,
         "nombre": "Azazel",
         "es_tainted": false,
-        "metodo_desbloqueo": "Realiza 3 pactos con el Diablo en una sola partida."
+        "metodo_desbloqueo": "Realiza 3 pactos con el Diablo en una sola partida.",
+        "descripcion": "Uno de los personajes más fuertes para principiantes. Azazel tiene la capacidad innata de volar y su ataque no son lágrimas normales, sino un rayo láser de Azufre (Brimstone) de corto alcance que inflige daño masivo y atraviesa obstáculos. Sin embargo, empieza con 3 corazones negros y no tiene contenedores de salud roja hasta que consigue objetos que aumenten su salud máxima."
     },
     {
         "id": 9,
         "nombre": "Lazarus",
         "es_tainted": false,
-        "metodo_desbloqueo": "Ten 4 o más corazones de alma o negros al mismo tiempo."
+        "metodo_desbloqueo": "Ten 4 o más corazones de alma o negros al mismo tiempo.",
+        "descripcion": "Lazarus cuenta con una vida extra desde el principio. Inicia con estadísticas mediocres y una píldora aleatoria, pero al perder toda su salud, revive instantáneamente en la misma sala como 'Lazarus Resucitado'. En este nuevo estado, obtiene un aumento de daño permanente, velocidad extra, un multiplicador positivo de estadísticas y deja un rastro de sangre dañino al caminar."
     },
     {
         "id": 10,
         "nombre": "Eden",
         "es_tainted": false,
-        "metodo_desbloqueo": "Supera la planta 'El Útero' (The Womb) por primera vez."
+        "metodo_desbloqueo": "Supera la planta 'El Útero' (The Womb) por primera vez.",
+        "descripcion": "El personaje totalmente aleatorio. Jugar como Eden requiere gastar un 'Token de Eden' (que se obtienen al matar al jefe final de una partida). Cada vez que juegas, Eden tendrá un peinado distinto, estadísticas iniciales aleatorias, una cantidad y tipo de corazones mixta, además de comenzar con un objeto pasivo, un objeto activo, una píldora/carta y un abalorio al azar."
     },
     {
         "id": 11,
         "nombre": "The Lost",
         "es_tainted": false,
-        "metodo_desbloqueo": "Muere en una Sala de Sacrificio (los pinchos del centro) teniendo el trinket 'Missing Poster'."
+        "metodo_desbloqueo": "Muere en una Sala de Sacrificio (los pinchos del centro) teniendo el trinket 'Missing Poster'.",
+        "descripcion": "Un fantasma que no tiene salud y no puede obtenerla; cualquier golpe lo matará instantáneamente. Para compensar, The Lost vuela, sus lágrimas atraviesan los obstáculos, y puede tomar TODOS los objetos de los pactos del Diablo de forma completamente gratuita. Su viabilidad cambia drásticamente al desbloquear el 'Manto Sagrado', que le otorga un escudo para absorber un golpe por habitación."
     },
     {
         "id": 12,
         "nombre": "Lilith",
         "es_tainted": false,
-        "metodo_desbloqueo": "Derrota a Ultra Codicia (Ultra Greed) jugando con Azazel."
+        "metodo_desbloqueo": "Derrota a Ultra Codicia (Ultra Greed) jugando con Azazel.",
+        "descripcion": "La madre de los demonios. Lilith lleva una venda en los ojos y es completamente incapaz de disparar lágrimas por sí misma. Todo su daño proviene del familiar 'Íncubo' que la persigue. Su objeto activo inicial, la 'Caja de Amigos', duplica a todos sus familiares temporalmente, haciéndola letal en salas de jefes largas o en el Modo Codicia."
     },
     {
         "id": 13,
         "nombre": "Keeper",
         "es_tainted": false,
-        "metodo_desbloqueo": "Dona 1000 monedas a la Máquina de Donación de Codicia al final del Modo Codicia."
+        "metodo_desbloqueo": "Dona 1000 monedas a la Máquina de Donación de Codicia al final del Modo Codicia.",
+        "descripcion": "La encarnación de la avaricia. Keeper dispara de forma innata 3 lágrimas a la vez. Su particularidad es que su salud está compuesta únicamente por 2 (o 3) contenedores de 'Monedas'. Los corazones normales se convierten en moscas azules, y la única forma que tiene de curarse es recogiendo dinero. Recibir daño le hará perder monedas en lugar de sangre."
     },
     {
         "id": 14,
         "nombre": "Apollyon",
         "es_tainted": false,
-        "metodo_desbloqueo": "Derrota a Mega Satán por primera vez."
+        "metodo_desbloqueo": "Derrota a Mega Satán por primera vez.",
+        "descripcion": "Apollyon tiene estadísticas idénticas a las de Isaac pero inicia con un objeto sumamente poderoso: 'Vacío' (Void). Este objeto activo le permite absorber los pedestales de la sala. Si absorbe un objeto pasivo, Apollyon recibe una mejora permanente de estadísticas aleatorias. Si absorbe un objeto activo, el Vacío copiará su efecto y lo lanzará cada vez que se vuelva a usar."
     },
     {
         "id": 15,
         "nombre": "The Forgotten",
         "es_tainted": false,
-        "metodo_desbloqueo": "Completa la Pala de Mamá (Mom's Shovel) y úsala sobre el montículo de tierra en la Sala Oscura (Dark Room)."
+        "metodo_desbloqueo": "Completa la Pala de Mamá (Mom's Shovel) y úsala sobre el montículo de tierra en la Sala Oscura (Dark Room).",
+        "descripcion": "Son dos personajes en uno. El esqueleto ataca cuerpo a cuerpo con su mazo óseo, bloquea proyectiles y tiene salud de 'Hueso'. Al presionar el botón de cambio, el alma sale volando unida por una cadena, disparando lágrimas espectrales con salud de 'Alma' mientras el esqueleto se vuelve invulnerable y atrae la atención enemiga. Ambos comparten la misma pool de vida."
     },
     {
         "id": 16,
         "nombre": "Bethany",
         "es_tainted": false,
-        "metodo_desbloqueo": "Derrota a Mamá (Mom) en modo Difícil jugando como Lazarus, sin haber muerto ni revivido."
+        "metodo_desbloqueo": "Derrota a Mamá (Mom) en modo Difícil jugando como Lazarus, sin haber muerto ni revivido.",
+        "descripcion": "Bethany solo puede utilizar corazones rojos para sobrevivir. No puede tener corazones de alma o negros como protección; si los recoge, estos se guardan como cargas especiales para su objeto inicial: el 'Libro de las Virtudes'. Este libro genera fuegos orbitales mágicos que disparan y la protegen. Cada vez que coge otro objeto activo, sus fuegos cambian de propiedad."
     },
     {
         "id": 17,
         "nombre": "Jacob & Esau",
         "es_tainted": false,
-        "metodo_desbloqueo": "Derrota a La Madre (Mother) en el piso Corpse por primera vez."
+        "metodo_desbloqueo": "Derrota a La Madre (Mother) en el piso Corpse por primera vez.",
+        "descripcion": "Controlas simultáneamente a dos hermanos gemelos. Se mueven juntos y disparan a la vez, pero tienen salud separada y recogen objetos en pedestales de forma individual, permitiendo crear dos builds distintas (o centrar todo en uno). Sin embargo, su hitbox es el doble de grande y si cualquiera de los dos muere, la partida termina instantáneamente."
     },
     {
         "id": 18,
         "nombre": "Tainted Isaac",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto de la habitación de Mamá usando la Llave Roja (o Llave Rota) jugando como Isaac."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Isaac.",
+        "descripcion": "Tainted Isaac tiene un límite estricto de inventario: solo puede llevar 8 objetos pasivos simultáneamente (pudiendo soltar objetos antiguos para recoger nuevos). Para compensar esta restricción, TODOS los pedestales de objetos de la partida alternan a un ritmo constante entre dos opciones, lo que le permite elegir y organizar la mejor combinación posible."
     },
     {
         "id": 19,
         "nombre": "Tainted Magdalene",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Magdalene."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Magdalene.",
+        "descripcion": "Su vida se drena constantemente como si sufriera una hemorragia, limitando sus corazones permanentes a dos. Su estilo de juego es extremadamente agresivo: correr hacia los enemigos produce un ataque de abrazo que inflige daño masivo, y los enemigos derrotados con rapidez sueltan medios corazones que desaparecen rápido para mantenerla curada y combatiendo cuerpo a cuerpo."
     },
     {
         "id": 20,
         "nombre": "Tainted Cain",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Cain."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Cain.",
+        "descripcion": "Tainted Cain no puede recoger objetos de pedestal convencionales; al intentar hacerlo, los pedestales estallan en consumibles (monedas, llaves, bombas, corazones). Su mecánica se basa en su 'Bolsa de Artesanía': debe meter 8 consumibles en la bolsa para fabricar ('craftear') un objeto pasivo o activo nuevo, basando las recetas en el valor de lo introducido."
     },
     {
         "id": 21,
         "nombre": "Tainted Judas",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Judas."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Judas.",
+        "descripcion": "Es incapaz de tener corazones rojos de ningún tipo. Posee el objeto de bolsillo 'Artes Oscuras', que le permite volverse una sombra intangible y cruzar enemigos a gran velocidad. Al regresar a su forma física, daña letalmente a todo lo que atravesó y obtiene una bonificación temporal de daño brutal por cada enemigo y proyectil interceptado en el proceso."
     },
     {
         "id": 22,
         "nombre": "Tainted ???",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como ???."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como ???.",
+        "descripcion": "Tainted ??? no utiliza bombas. En su lugar, recoge y almacena un arsenal de heces mágicas en su inventario, mostradas en la esquina de la pantalla. Puede lanzar diferentes tipos de cacas que interactúan entre sí: cacas venenosas, de fuego, resbaladizas o de piedra, permitiéndole crear explosiones químicas y ataques de área combinando los elementos."
     },
     {
         "id": 23,
         "nombre": "Tainted Eve",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eve."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eve.",
+        "descripcion": "Si mantiene presionado el botón de disparo, drenará lentamente su propia salud para invocar coágulos de sangre aliados que la persiguen. Estos coágulos disparan copiando sus estadísticas. Su objeto de bolsillo, el 'Summactor', le permite absorber rápidamente a todos sus coágulos de vuelta hacia su cuerpo para curarse y reponer la salud perdida."
     },
     {
         "id": 24,
         "nombre": "Tainted Samson",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Samson."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Samson.",
+        "descripcion": "Matar enemigos o recibir daño llena su medidor de ira. Al llenarse, entra en modo Berserker, donde lanza sus lágrimas para blandir la 'Mandíbula de Burro', un arma cuerpo a cuerpo enorme que devasta a los monstruos, permite devolver proyectiles como si fueran pelotas de béisbol y otorga una furia incontrolable. Matar enemigos prolonga el modo Berserker."
     },
     {
         "id": 25,
         "nombre": "Tainted Azazel",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Azazel."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Azazel.",
+        "descripcion": "A diferencia de su versión base, Tainted Azazel sí tiene rango ilimitado en su rayo de Azufre, pero este rayo es mucho más fino y hace menos daño. Su característica especial es un ataque de 'estornudo' sangriento, que empuja proyectiles, cancela el daño por colisión inminente y marca a los enemigos; si golpea a un enemigo marcado con el láser fino, recibirá daño masivo."
     },
     {
         "id": 26,
         "nombre": "Tainted Lazarus",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lazarus."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lazarus.",
+        "descripcion": "Representa a dos entidades atrapadas en un bucle temporal. Cada vez que termina una habitación (o usa su objeto activo 'Flip'), Lazarus Vivo y Lazarus Muerto se intercambian. Cada versión de Lazarus tiene su propia barra de vida y su propio inventario de objetos, obligando al jugador a gestionar dos builds (estrategias) totalmente distintas al mismo tiempo."
     },
     {
         "id": 27,
         "nombre": "Tainted Eden",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eden."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eden.",
+        "descripcion": "El caos absoluto personificado. Cada vez que Tainted Eden sufre un mínimo rasguño de daño, absolutamente todos los aspectos de su partida se redirigen (rerollean). Cambian sus estadísticas base, sus objetos pasivos, sus objetos activos y toda su vida disponible, convirtiendo la partida en una supervivencia de adaptación extrema en cada impacto."
     },
     {
         "id": 28,
         "nombre": "Tainted Lost",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Lost."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Lost.",
+        "descripcion": "Diseñado para los jugadores más expertos. Tainted Lost sigue muriendo de un solo golpe, pero no cuenta con el escudo del Manto Sagrado inicial (su única salvación es encontrar 'Cartas Sagradas'). La ventaja es que tiene una propiedad oculta en el código del juego: no pueden aparecerle objetos que otorguen vida o que sean inútiles para él, asegurando una piscina de objetos puramente ofensiva."
     },
     {
         "id": 29,
         "nombre": "Tainted Lilith",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lilith."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lilith.",
+        "descripcion": "Lleva su feto oscuro incubándose visiblemente en el estómago. En lugar de disparar lágrimas, al presionar el ataque, Tainted Lilith arranca al feto ('Gello') como si fuera un látigo cuerpo a cuerpo infligiendo daño severo y empuje. Mientras el feto está extendido en la habitación, este disparará las lágrimas reales de forma automática en la dirección indicada."
     },
     {
         "id": 30,
         "nombre": "Tainted Keeper",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Keeper."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Keeper.",
+        "descripcion": "Su codicia es extrema. Tainted Keeper dispara 4 lágrimas a la vez, pero su vida máxima está restringida a dos monedas permanentemente. En las tiendas encontrará muchos más objetos, pero todos los pedestales de jefes, salas del tesoro y salas del diablo también le costarán dinero. Los enemigos sueltan monedas temporales al morir, obligándole a arriesgarse y acercarse para hacerse rico."
     },
     {
         "id": 31,
         "nombre": "Tainted Apollyon",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Apollyon."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Apollyon.",
+        "descripcion": "En lugar del 'Vacío', posee el objeto 'Abismo' (Abyss). Tainted Apollyon consume los pedestales de objetos de las habitaciones y los destruye para invocar permanentemente un enjambre de moscas-langostas rojas. Estas langostas son familiares ofensivos agresivos que atacarán sin piedad el objetivo de las lágrimas de Apollyon, convirtiendo objetos mediocres en daño de enjambre garantizado."
     },
     {
         "id": 32,
         "nombre": "Tainted Forgotten",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Forgotten."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Forgotten.",
+        "descripcion": "Una mecánica inversa. El alma está atada a un esqueleto inerte que ya no puede moverse por sí mismo. El alma no puede infligir daño ni disparar, pero recoge el pesado cuerpo del esqueleto y debe lanzarlo como un proyectil masivo contra los monstruos de la sala, recogiendo sus huesos una y otra vez para continuar el asalto físico."
     },
     {
         "id": 33,
         "nombre": "Tainted Bethany",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Bethany."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Bethany.",
+        "descripcion": "Al contrario que su versión normal, no puede utilizar los corazones rojos para sanarse, usando los corazones de sangre como cargas para su grimorio 'Lemegeton'. Este libro invoca fuegos orbitales especiales que representan objetos pasivos reales del juego. Tainted Bethany obtiene las pasivas mágicas y los atributos de esos objetos mientras el fuego que los encarna no sea destruido por los monstruos."
     },
     {
         "id": 34,
         "nombre": "Tainted Jacob",
         "es_tainted": true,
-        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Jacob & Esau."
+        "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Jacob & Esau.",
+        "descripcion": "Juegas solo como Jacob, pero estás siendo perseguido incesantemente por la versión demoníaca de tu hermano: Esaú Oscuro (Dark Esau). Jacob usa su objeto de bolsillo 'Anima Sola' para encadenar temporalmente a Esaú, apuntarlo y liberarlo para usar su devastadora carga destructiva contra los enemigos. Si Esaú Oscuro logra golpear a Jacob, este se convierte en El Perdido (The Lost), muriendo al siguiente impacto."
     }
 ]
