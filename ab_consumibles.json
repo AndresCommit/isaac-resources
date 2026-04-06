@@ -258,6 +258,12 @@
         "tipo": "Carta"
     },
     {
+        "id": "44",
+        "nombre": "Carta de las Reglas",
+        "descripcion": "Muestra un mensaje críptico en la pantalla que da pistas sobre los secretos ocultos del juego (como cómo desbloquear personajes o encontrar salas especiales)",
+        "tipo": "Carta"
+    },
+    {
         "id": "45",
         "nombre": "Una Carta Contra la Humanidad",
         "descripcion": "Llena toda la habitación de caca",
@@ -318,9 +324,273 @@
         "tipo": "Carta"
     },
     {
+        "id": "55",
+        "nombre": "0 - El Bufón?",
+        "descripcion": "Suelta temporalmente en el suelo todos los corazones, {{Coin}} monedas, {{Key}} llaves y {{Bomb}} bombas que tengas",
+        "tipo": "Carta"
+    },
+    {
+        "id": "56",
+        "nombre": "I - El Mago?",
+        "descripcion": "{{Timer}} Crea un aura a tu alrededor que rechaza y desvía los proyectiles enemigos durante 1 minuto",
+        "tipo": "Carta"
+    },
+    {
+        "id": "57",
+        "nombre": "II - La Suma Sacerdotisa?",
+        "descripcion": "{{Timer}} Un Pie de Mamá esquelético te perseguirá y pisoteará durante 1 minuto, dañando a los enemigos que pille en medio",
+        "tipo": "Carta"
+    },
+    {
+        "id": "58",
+        "nombre": "III - La Emperatriz?",
+        "descripcion": "{{Timer}} Otorga durante 1 minuto:\n{{SoulHeart}} +2 Corazones de alma temporales\n↑ {{Damage}} Daño +1.5\n↑ {{Speed}} Velocidad +0.3",
+        "tipo": "Carta"
+    },
+    {
+        "id": "59",
+        "nombre": "IV - El Emperador?",
+        "descripcion": "Te teletransporta a una {{BossRoom}} Sala de Jefe extra generada en el piso actual, con su respectivo objeto de recompensa",
+        "tipo": "Carta"
+    },
+    {
+        "id": "60",
+        "nombre": "V - El Hierofante?",
+        "descripcion": "{{EmptyBoneHeart}} Genera 2 corazones de hueso en el suelo",
+        "tipo": "Carta"
+    },
+    {
+        "id": "61",
+        "nombre": "VI - Los Enamorados?",
+        "descripcion": "{{Warning}} Genera un objeto de la Sala del Diablo o del Ángel a cambio de otorgarte un Corazón Roto (reduce tu salud máxima)",
+        "tipo": "Carta"
+    },
+    {
+        "id": "62",
+        "nombre": "VII - El Carruaje?",
+        "descripcion": "{{Timer}} Te convierte en una estatua de sal invencible e inmóvil durante 10 segundos, con una altísima cadencia de disparo",
+        "tipo": "Carta"
+    },
+    {
+        "id": "63",
+        "nombre": "VIII - Justicia?",
+        "descripcion": "{{GoldenChest}} Genera entre 2 y 4 cofres dorados en la habitación",
+        "tipo": "Carta"
+    },
+    {
+        "id": "64",
+        "nombre": "IX - El Ermitaño?",
+        "descripcion": "Vende automáticamente todos los objetos y consumibles del suelo de la sala actual a cambio de {{Coin}} monedas",
+        "tipo": "Carta"
+    },
+    {
+        "id": "65",
+        "nombre": "X - La Rueda de la Fortuna?",
+        "descripcion": "Genera un dado de sala aleatorio en el suelo (D1, D4, D6, D20, etc.)",
+        "tipo": "Carta"
+    },
+    {
+        "id": "66",
+        "nombre": "XI - Fuerza?",
+        "descripcion": "{{Slow}} Ralentiza y debilita permanentemente a todos los enemigos de la sala actual",
+        "tipo": "Carta"
+    },
+    {
+        "id": "67",
+        "nombre": "XII - El Colgado?",
+        "descripcion": "{{Timer}} Otorga el efecto de Keeper: recibes daño en monedas y disparas un tiro triple durante la habitación",
+        "tipo": "Carta"
+    },
+    {
+        "id": "68",
+        "nombre": "XIII - Muerte?",
+        "descripcion": "Invoca el efecto del Libro de los Muertos, creando orbitales de hueso por cada enemigo muerto en la sala",
+        "tipo": "Carta"
+    },
+    {
+        "id": "69",
+        "nombre": "XIV - Templanza?",
+        "descripcion": "{{Pill}} Obliga a Isaac a tragar 5 píldoras aleatorias de golpe",
+        "tipo": "Carta"
+    },
+    {
+        "id": "70",
+        "nombre": "XV - El Diablo?",
+        "descripcion": "{{Timer}} Otorga el efecto de la Biblia Satánica y el Libro de Belial durante la habitación actual",
+        "tipo": "Carta"
+    },
+    {
+        "id": "71",
+        "nombre": "XVI - La Torre?",
+        "descripcion": "Genera de forma aleatoria un montón de rocas, vasijas y obstáculos por toda la sala",
+        "tipo": "Carta"
+    },
+    {
+        "id": "72",
+        "nombre": "XVII - Las Estrellas?",
+        "descripcion": "{{Warning}} Elimina tu objeto pasivo más antiguo y, a cambio, genera 2 objetos aleatorios de la {{TreasureRoom}} Sala del Tesoro",
+        "tipo": "Carta"
+    },
+    {
+        "id": "73",
+        "nombre": "XVIII - La Luna?",
+        "descripcion": "{{SuperSecretRoom}} Te teletransporta a la Habitación Ultra Secreta (la sala roja del mapa)",
+        "tipo": "Carta"
+    },
+    {
+        "id": "74",
+        "nombre": "XIX - El Sol?",
+        "descripcion": "↑ {{Damage}} Otorga un gran aumento de daño temporal pero envuelve la habitación en una maldición de oscuridad total",
+        "tipo": "Carta"
+    },
+    {
+        "id": "75",
+        "nombre": "XX - Juicio?",
+        "descripcion": "{{RestockMachine}} Genera una máquina de reabastecimiento (Restock Machine)",
+        "tipo": "Carta"
+    },
+    {
+        "id": "76",
+        "nombre": "XXI - El Mundo?",
+        "descripcion": "{{Crawlspace}} Genera una trampilla en el suelo que siempre lleva a un mercado subterráneo",
+        "tipo": "Carta"
+    },
+    {
+        "id": "77",
+        "nombre": "Alma de Isaac",
+        "descripcion": "Aplica el efecto de 'Más Opciones' en un pedestal de objeto, permitiéndote alternar entre dos objetos diferentes",
+        "tipo": "Carta"
+    },
+    {
+        "id": "78",
+        "nombre": "Alma de Magdalene",
+        "descripcion": "{{Heart}} Genera un montón de corazones rojos a tu alrededor que desaparecen rápidamente",
+        "tipo": "Carta"
+    },
+    {
+        "id": "79",
+        "nombre": "Alma de Cain",
+        "descripcion": "{{SecretRoom}} Revela el mapa completo y abre instantáneamente todas las puertas del piso, incluidas las secretas",
+        "tipo": "Carta"
+    },
+    {
+        "id": "80",
+        "nombre": "Alma de Judas",
+        "descripcion": "Desata el efecto de Artes Oscuras: paraliza todo, cruza enemigos y daña a todos los objetivos marcados",
+        "tipo": "Carta"
+    },
+    {
+        "id": "81",
+        "nombre": "Alma de ???",
+        "descripcion": "Genera 7 familiares de caca explosivos o tóxicos que rebotan por la habitación y atacan",
+        "tipo": "Carta"
+    },
+    {
+        "id": "82",
+        "nombre": "Alma de Eve",
+        "descripcion": "Dispara 14 pájaros muertos que persiguen y despedazan a los enemigos de la sala",
+        "tipo": "Carta"
+    },
+    {
+        "id": "83",
+        "nombre": "Alma de Samson",
+        "descripcion": "Te otorga el efecto de ira sanguinaria: matas cuerpo a cuerpo con un arma brutal durante unos segundos",
+        "tipo": "Carta"
+    },
+    {
+        "id": "84",
+        "nombre": "Alma de Azazel",
+        "descripcion": "Dispara un mega rayo de azufre (Brimstone) colosal que barre a todos los enemigos de la pantalla",
+        "tipo": "Carta"
+    },
+    {
+        "id": "85",
+        "nombre": "Alma de Lazarus",
+        "descripcion": "Si mueres en la habitación actual, revivirás instantáneamente con medio corazón sin perder el progreso",
+        "tipo": "Carta"
+    },
+    {
+        "id": "86",
+        "nombre": "Alma de Eden",
+        "descripcion": "Genera un pedestal de objeto totalmente aleatorio de cualquier grupo de objetos del juego",
+        "tipo": "Carta"
+    },
+    {
+        "id": "87",
+        "nombre": "Alma de The Lost",
+        "descripcion": "Si la usas, te quitas el cuerpo temporalmente, evadiendo daño y pudiendo robar objetos tras barreras",
+        "tipo": "Carta"
+    },
+    {
+        "id": "88",
+        "nombre": "Alma de Lilith",
+        "descripcion": "Genera un familiar pasivo aleatorio permanente para el resto de la partida",
+        "tipo": "Carta"
+    },
+    {
+        "id": "89",
+        "nombre": "Alma de Keeper",
+        "descripcion": "{{Coin}} Genera un montón de monedas en el suelo alrededor de los enemigos de la habitación",
+        "tipo": "Carta"
+    },
+    {
+        "id": "90",
+        "nombre": "Alma de Apollyon",
+        "descripcion": "Consume los objetos de pedestal de la sala y los convierte en enjambres de moscas aliadas rojas",
+        "tipo": "Carta"
+    },
+    {
+        "id": "91",
+        "nombre": "Alma de The Forgotten",
+        "descripcion": "Invoca a The Forgotten en forma de esqueleto para que luche contigo de forma autónoma en la habitación",
+        "tipo": "Carta"
+    },
+    {
+        "id": "92",
+        "nombre": "Alma de Bethany",
+        "descripcion": "Genera 6 llamas orbitales mágicas protectoras que bloquean proyectiles y disparan lágrimas",
+        "tipo": "Carta"
+    },
+    {
+        "id": "93",
+        "nombre": "Alma de Jacob",
+        "descripcion": "Invoca temporalmente a Esaú, que disparará junto a ti durante el resto de la habitación",
+        "tipo": "Carta"
+    },
+    {
+        "id": "94",
+        "nombre": "Fragmento de Runa",
+        "descripcion": "Actúa como una runa aleatoria, pero con un efecto mucho más débil (ej: revela solo parte del mapa, genera menos consumibles o hace menos daño)",
+        "tipo": "Carta"
+    },
+    {
+        "id": "95",
+        "nombre": "Reina de Corazones",
+        "descripcion": "{{Heart}} Genera una gran variedad de corazones rojos al azar en el suelo a tu alrededor\nAumenta la probabilidad de generar corazones dobles",
+        "tipo": "Carta"
+    },
+    {
+        "id": "96",
+        "nombre": "Comodín",
+        "descripcion": "Copia exactamente el efecto del último consumible ({{Card}} carta, {{Pill}} píldora o {{Rune}} runa) u objeto activo que hayas utilizado previamente",
+        "tipo": "Carta"
+    },
+    {
+        "id": "97",
+        "nombre": "Llave Rota",
+        "descripcion": "Consumible de un solo uso que actúa como el objeto Llave Roja\nCrea una sala roja inexplorada en la pared en la que la uses (vital para desbloquear personajes Tainted)",
+        "tipo": "Carta"
+    },
+    {
         "id": "0",
         "nombre": "Vaya pedo",
         "descripcion": "Te tiras un pedo!\n{{Poison}} Envenena a los enemigos cercanos",
+        "tipo": "Píldora"
+    },
+    {
+        "id": "1",
+        "nombre": "Mal Viaje",
+        "descripcion": "{{Warning}} Te inflige un corazón de daño\nSi solo te queda un corazón o menos, actúa como una píldora de Salud Completa",
         "tipo": "Píldora"
     },
     {
@@ -345,6 +615,12 @@
         "id": "5",
         "nombre": "Salud completa",
         "descripcion": "{{HealingRed}} Salud al maximo",
+        "tipo": "Píldora"
+    },
+    {
+        "id": "6",
+        "nombre": "Telepíldoras",
+        "descripcion": "Te teletransporta a una habitación aleatoria del mapa",
         "tipo": "Píldora"
     },
     {
@@ -417,6 +693,12 @@
         "id": "18",
         "nombre": "Más suerte",
         "descripcion": "↑ {{Luck}} Suerte +1",
+        "tipo": "Píldora"
+    },
+    {
+        "id": "19",
+        "nombre": "Menos salud",
+        "descripcion": "↓ Elimina un contenedor de corazón rojo vacío\nSi tienes 1 o ningún contenedor, se convierte en Más Salud",
         "tipo": "Píldora"
     },
     {
@@ -582,6 +864,24 @@
         "tipo": "Píldora"
     },
     {
+        "id": "47",
+        "nombre": "Menos vel. de lágrimas",
+        "descripcion": "↓ {{Shotspeed}} Vel. de lágrimas -0.12",
+        "tipo": "Píldora"
+    },
+    {
+        "id": "48",
+        "nombre": "Más vel. de lágrimas",
+        "descripcion": "↑ {{Shotspeed}} Vel. de lágrimas +0.15",
+        "tipo": "Píldora"
+    },
+    {
+        "id": "49",
+        "nombre": "Píldora experimental",
+        "descripcion": "↑ Aumenta una estadística aleatoria\n↓ Disminuye otra estadística aleatoria",
+        "tipo": "Píldora"
+    },
+    {
         "id": "1",
         "nombre": "Moneda tragada",
         "descripcion": "{{Coin}} Genera una moneda al recibir daño",
@@ -714,6 +1014,12 @@
         "tipo": "Trinket"
     },
     {
+        "id": "23",
+        "nombre": "Cartel de Desaparición",
+        "descripcion": "Si mueres en una Sala de Sacrificio, revives como The Lost. Si ya lo eres, revives con medio corazón",
+        "tipo": "Trinket"
+    },
+    {
         "id": "24",
         "nombre": "Moneda de Trasero",
         "descripcion": "{{Coin}} 20% de probabilidad de generar una moneda al destruir una caca\nSoltarás un pedo al recoger una moneda",
@@ -735,6 +1041,12 @@
         "id": "27",
         "nombre": "Gusano Fugáz",
         "descripcion": "↑ {{Shotspeed}} Vel. de lágrimas +0.5",
+        "tipo": "Trinket"
+    },
+    {
+        "id": "28",
+        "nombre": "Ankh Roto",
+        "descripcion": "Otorga una probabilidad del 22% de revivir como ??? al morir",
         "tipo": "Trinket"
     },
     {
@@ -1324,305 +1636,5 @@
         "nombre": "Hueso del Dedo",
         "descripcion": "{{EmptyBoneHeart}} 2% de probabilidad de obtener un corazón de hueso al recibir daño",
         "tipo": "Trinket"
-    },
-    {
-        "id": "1",
-        "nombre": "Mal Viaje",
-        "descripcion": "{{Warning}} Te inflige un corazón de daño\nSi solo te queda un corazón o menos, actúa como una píldora de Salud Completa",
-        "tipo": "Píldora"
-    },
-    {
-        "id": "6",
-        "nombre": "Telepíldoras",
-        "descripcion": "Te teletransporta a una habitación aleatoria del mapa",
-        "tipo": "Píldora"
-    },
-    {
-        "id": "19",
-        "nombre": "Menos salud",
-        "descripcion": "↓ Elimina un contenedor de corazón rojo vacío\nSi tienes 1 o ningún contenedor, se convierte en Más Salud",
-        "tipo": "Píldora"
-    },
-    {
-        "id": "47",
-        "nombre": "Menos vel. de lágrimas",
-        "descripcion": "↓ {{Shotspeed}} Vel. de lágrimas -0.12",
-        "tipo": "Píldora"
-    },
-    {
-        "id": "48",
-        "nombre": "Más vel. de lágrimas",
-        "descripcion": "↑ {{Shotspeed}} Vel. de lágrimas +0.15",
-        "tipo": "Píldora"
-    },
-    {
-        "id": "49",
-        "nombre": "Píldora experimental",
-        "descripcion": "↑ Aumenta una estadística aleatoria\n↓ Disminuye otra estadística aleatoria",
-        "tipo": "Píldora"
-    },
-    {
-        "id": "55",
-        "nombre": "0 - El Bufón?",
-        "descripcion": "Suelta temporalmente en el suelo todos los corazones, {{Coin}} monedas, {{Key}} llaves y {{Bomb}} bombas que tengas",
-        "tipo": "Carta"
-    },
-    {
-        "id": "56",
-        "nombre": "I - El Mago?",
-        "descripcion": "{{Timer}} Crea un aura a tu alrededor que rechaza y desvía los proyectiles enemigos durante 1 minuto",
-        "tipo": "Carta"
-    },
-    {
-        "id": "57",
-        "nombre": "II - La Suma Sacerdotisa?",
-        "descripcion": "{{Timer}} Un Pie de Mamá esquelético te perseguirá y pisoteará durante 1 minuto, dañando a los enemigos que pille en medio",
-        "tipo": "Carta"
-    },
-    {
-        "id": "58",
-        "nombre": "III - La Emperatriz?",
-        "descripcion": "{{Timer}} Otorga durante 1 minuto:\n{{SoulHeart}} +2 Corazones de alma temporales\n↑ {{Damage}} Daño +1.5\n↑ {{Speed}} Velocidad +0.3",
-        "tipo": "Carta"
-    },
-    {
-        "id": "59",
-        "nombre": "IV - El Emperador?",
-        "descripcion": "Te teletransporta a una {{BossRoom}} Sala de Jefe extra generada en el piso actual, con su respectivo objeto de recompensa",
-        "tipo": "Carta"
-    },
-    {
-        "id": "60",
-        "nombre": "V - El Hierofante?",
-        "descripcion": "{{EmptyBoneHeart}} Genera 2 corazones de hueso en el suelo",
-        "tipo": "Carta"
-    },
-    {
-        "id": "61",
-        "nombre": "VI - Los Enamorados?",
-        "descripcion": "{{Warning}} Genera un objeto de la Sala del Diablo o del Ángel a cambio de otorgarte un Corazón Roto (reduce tu salud máxima)",
-        "tipo": "Carta"
-    },
-    {
-        "id": "62",
-        "nombre": "VII - El Carruaje?",
-        "descripcion": "{{Timer}} Te convierte en una estatua de sal invencible e inmóvil durante 10 segundos, con una altísima cadencia de disparo",
-        "tipo": "Carta"
-    },
-    {
-        "id": "63",
-        "nombre": "VIII - Justicia?",
-        "descripcion": "{{GoldenChest}} Genera entre 2 y 4 cofres dorados en la habitación",
-        "tipo": "Carta"
-    },
-    {
-        "id": "64",
-        "nombre": "IX - El Ermitaño?",
-        "descripcion": "Vende automáticamente todos los objetos y consumibles del suelo de la sala actual a cambio de {{Coin}} monedas",
-        "tipo": "Carta"
-    },
-    {
-        "id": "65",
-        "nombre": "X - La Rueda de la Fortuna?",
-        "descripcion": "Genera un dado de sala aleatorio en el suelo (D1, D4, D6, D20, etc.)",
-        "tipo": "Carta"
-    },
-    {
-        "id": "66",
-        "nombre": "XI - Fuerza?",
-        "descripcion": "{{Slow}} Ralentiza y debilita permanentemente a todos los enemigos de la sala actual",
-        "tipo": "Carta"
-    },
-    {
-        "id": "67",
-        "nombre": "XII - El Colgado?",
-        "descripcion": "{{Timer}} Otorga el efecto de Keeper: recibes daño en monedas y disparas un tiro triple durante la habitación",
-        "tipo": "Carta"
-    },
-    {
-        "id": "68",
-        "nombre": "XIII - Muerte?",
-        "descripcion": "Invoca el efecto del Libro de los Muertos, creando orbitales de hueso por cada enemigo muerto en la sala",
-        "tipo": "Carta"
-    },
-    {
-        "id": "69",
-        "nombre": "XIV - Templanza?",
-        "descripcion": "{{Pill}} Obliga a Isaac a tragar 5 píldoras aleatorias de golpe",
-        "tipo": "Carta"
-    },
-    {
-        "id": "70",
-        "nombre": "XV - El Diablo?",
-        "descripcion": "{{Timer}} Otorga el efecto de la Biblia Satánica y el Libro de Belial durante la habitación actual",
-        "tipo": "Carta"
-    },
-    {
-        "id": "71",
-        "nombre": "XVI - La Torre?",
-        "descripcion": "Genera de forma aleatoria un montón de rocas, vasijas y obstáculos por toda la sala",
-        "tipo": "Carta"
-    },
-    {
-        "id": "72",
-        "nombre": "XVII - Las Estrellas?",
-        "descripcion": "{{Warning}} Elimina tu objeto pasivo más antiguo y, a cambio, genera 2 objetos aleatorios de la {{TreasureRoom}} Sala del Tesoro",
-        "tipo": "Carta"
-    },
-    {
-        "id": "73",
-        "nombre": "XVIII - La Luna?",
-        "descripcion": "{{SuperSecretRoom}} Te teletransporta a la Habitación Ultra Secreta (la sala roja del mapa)",
-        "tipo": "Carta"
-    },
-    {
-        "id": "74",
-        "nombre": "XIX - El Sol?",
-        "descripcion": "↑ {{Damage}} Otorga un gran aumento de daño temporal pero envuelve la habitación en una maldición de oscuridad total",
-        "tipo": "Carta"
-    },
-    {
-        "id": "75",
-        "nombre": "XX - Juicio?",
-        "descripcion": "{{RestockMachine}} Genera una máquina de reabastecimiento (Restock Machine)",
-        "tipo": "Carta"
-    },
-    {
-        "id": "76",
-        "nombre": "XXI - El Mundo?",
-        "descripcion": "{{Crawlspace}} Genera una trampilla en el suelo que siempre lleva a un mercado subterráneo",
-        "tipo": "Carta"
-    },
-    {
-        "id": "77",
-        "nombre": "Alma de Isaac",
-        "descripcion": "Aplica el efecto de 'Más Opciones' en un pedestal de objeto, permitiéndote alternar entre dos objetos diferentes",
-        "tipo": "Carta"
-    },
-    {
-        "id": "78",
-        "nombre": "Alma de Magdalene",
-        "descripcion": "{{Heart}} Genera un montón de corazones rojos a tu alrededor que desaparecen rápidamente",
-        "tipo": "Carta"
-    },
-    {
-        "id": "79",
-        "nombre": "Alma de Cain",
-        "descripcion": "{{SecretRoom}} Revela el mapa completo y abre instantáneamente todas las puertas del piso, incluidas las secretas",
-        "tipo": "Carta"
-    },
-    {
-        "id": "80",
-        "nombre": "Alma de Judas",
-        "descripcion": "Desata el efecto de Artes Oscuras: paraliza todo, cruza enemigos y daña a todos los objetivos marcados",
-        "tipo": "Carta"
-    },
-    {
-        "id": "81",
-        "nombre": "Alma de ???",
-        "descripcion": "Genera 7 familiares de caca explosivos o tóxicos que rebotan por la habitación y atacan",
-        "tipo": "Carta"
-    },
-    {
-        "id": "82",
-        "nombre": "Alma de Eve",
-        "descripcion": "Dispara 14 pájaros muertos que persiguen y despedazan a los enemigos de la sala",
-        "tipo": "Carta"
-    },
-    {
-        "id": "83",
-        "nombre": "Alma de Samson",
-        "descripcion": "Te otorga el efecto de ira sanguinaria: matas cuerpo a cuerpo con un arma brutal durante unos segundos",
-        "tipo": "Carta"
-    },
-    {
-        "id": "84",
-        "nombre": "Alma de Azazel",
-        "descripcion": "Dispara un mega rayo de azufre (Brimstone) colosal que barre a todos los enemigos de la pantalla",
-        "tipo": "Carta"
-    },
-    {
-        "id": "85",
-        "nombre": "Alma de Lazarus",
-        "descripcion": "Si mueres en la habitación actual, revivirás instantáneamente con medio corazón sin perder el progreso",
-        "tipo": "Carta"
-    },
-    {
-        "id": "86",
-        "nombre": "Alma de Eden",
-        "descripcion": "Genera un pedestal de objeto totalmente aleatorio de cualquier grupo de objetos del juego",
-        "tipo": "Carta"
-    },
-    {
-        "id": "87",
-        "nombre": "Alma de The Lost",
-        "descripcion": "Si la usas, te quitas el cuerpo temporalmente, evadiendo daño y pudiendo robar objetos tras barreras",
-        "tipo": "Carta"
-    },
-    {
-        "id": "88",
-        "nombre": "Alma de Lilith",
-        "descripcion": "Genera un familiar pasivo aleatorio permanente para el resto de la partida",
-        "tipo": "Carta"
-    },
-    {
-        "id": "89",
-        "nombre": "Alma de Keeper",
-        "descripcion": "{{Coin}} Genera un montón de monedas en el suelo alrededor de los enemigos de la habitación",
-        "tipo": "Carta"
-    },
-    {
-        "id": "90",
-        "nombre": "Alma de Apollyon",
-        "descripcion": "Consume los objetos de pedestal de la sala y los convierte en enjambres de moscas aliadas rojas",
-        "tipo": "Carta"
-    },
-    {
-        "id": "91",
-        "nombre": "Alma de The Forgotten",
-        "descripcion": "Invoca a The Forgotten en forma de esqueleto para que luche contigo de forma autónoma en la habitación",
-        "tipo": "Carta"
-    },
-    {
-        "id": "92",
-        "nombre": "Alma de Bethany",
-        "descripcion": "Genera 6 llamas orbitales mágicas protectoras que bloquean proyectiles y disparan lágrimas",
-        "tipo": "Carta"
-    },
-    {
-        "id": "93",
-        "nombre": "Alma de Jacob",
-        "descripcion": "Invoca temporalmente a Esaú, que disparará junto a ti durante el resto de la habitación",
-        "tipo": "Carta"
-    },
-    {
-        "id": "44",
-        "nombre": "Carta de las Reglas",
-        "descripcion": "Muestra un mensaje críptico en la pantalla que da pistas sobre los secretos ocultos del juego (como cómo desbloquear personajes o encontrar salas especiales)",
-        "tipo": "Carta"
-    },
-    {
-        "id": "94",
-        "nombre": "Fragmento de Runa",
-        "descripcion": "Actúa como una runa aleatoria, pero con un efecto mucho más débil (ej: revela solo parte del mapa, genera menos consumibles o hace menos daño)",
-        "tipo": "Carta"
-    },
-    {
-        "id": "95",
-        "nombre": "Reina de Corazones",
-        "descripcion": "{{Heart}} Genera una gran variedad de corazones rojos al azar en el suelo a tu alrededor\nAumenta la probabilidad de generar corazones dobles",
-        "tipo": "Carta"
-    },
-    {
-        "id": "96",
-        "nombre": "Comodín",
-        "descripcion": "Copia exactamente el efecto del último consumible ({{Card}} carta, {{Pill}} píldora o {{Rune}} runa) u objeto activo que hayas utilizado previamente",
-        "tipo": "Carta"
-    },
-    {
-        "id": "97",
-        "nombre": "Llave Rota",
-        "descripcion": "Consumible de un solo uso que actúa como el objeto Llave Roja\nCrea una sala roja inexplorada en la pared en la que la uses (vital para desbloquear personajes Tainted)",
-        "tipo": "Carta"
     }
 ]
