@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "Magdalena",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Consigue 7 contenedores de corazón o más a la vez.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "nombre": "Caín",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Llega a tener 55 monedas en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "nombre": "Judas",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Derrota a Satán",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "nombre": "La Matriz",
-    "descripcion": "Capítulo 4 - La Matriz desbloqueada.",
+    "descripcion": "Derrota a Mamá",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "nombre": "Los Heraldos",
-    "descripcion": "Los Jinetes están sueltos.",
+    "descripcion": "Derrota a Mamá",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "nombre": "Cubo de Carne",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mamá",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "nombre": "El Libro de las Revelaciones",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a un Jinete del Apocalipsis",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "nombre": "Transcendencia",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 3 veces",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "nombre": "El Clavo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "nombre": "Un Cuarto",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 8 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "nombre": "Un Feto en un Jarro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 9 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "nombre": "Una Roca Pequeña",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Destruye 100 rocas marcadas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "nombre": "Diente de Monstro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Supera el capítulo 1 .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "nombre": "Pequeño Chubby",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Supera el capítulo 2 .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "nombre": "Cuernos de Loki",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Lokii .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "nombre": "Algo Desde el Futuro",
-    "descripcion": "Nuevo jefe en el sótano!",
+    "descripcion": "Supera el Sótano 40 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "nombre": "Algo Lindo",
-    "descripcion": "Nuevo jefe en las cuevas!",
+    "descripcion": "Supera el capítulo 2 30 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "nombre": "Algo Pegajoso",
-    "descripcion": "Nuevo jefe en las profundidades!",
+    "descripcion": "Supera el capítulo 3 20 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -164,7 +164,7 @@
   {
     "id": 19,
     "nombre": "Una Venda",
-    "descripcion": "Nuevo objeto desbloqueado..",
+    "descripcion": "Crea una Super Bandage Girl recogiendo 4 Bola de Vendas en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "nombre": "Una Cruz",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -182,7 +182,7 @@
   {
     "id": 21,
     "nombre": "Bolsa de Centavos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -191,7 +191,7 @@
   {
     "id": 22,
     "nombre": "El libro del Pecado",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a todos los 7 pecados capitales",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -200,7 +200,7 @@
   {
     "id": 23,
     "nombre": "Pequeño Gish",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Gish .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "nombre": "Pequeño Steven",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Steven .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -218,7 +218,7 @@
   {
     "id": 25,
     "nombre": "Pequeño C.H.A.D.",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a C.H.A.D. .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "nombre": "El Gamekid",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Visita 10 Arcades",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "nombre": "El Halo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mamá , Corazón de Mamá o ¡Está Vivo! usando La Biblia .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -245,7 +245,7 @@
   {
     "id": 28,
     "nombre": "Sr. Mega",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Destruye 10 rocas marcadas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "nombre": "El D6",
-    "descripcion": "Isaac ahora tiene El D6!",
+    "descripcion": "Derrota a Isaac como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "nombre": "Las Tijeras",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Muere 100 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -272,7 +272,7 @@
   {
     "id": 31,
     "nombre": "El Parásito",
-    "descripcion": "Nuevo objeto desbloqueado..",
+    "descripcion": "Consigue 2 de los siguientes objetos en una misma partida: Cabeza Podrida de Bob , Gato Muerto , Cabeza de Cricket , Cabeza de Tammy . ( RP 2 objetos que tengan la etiqueta de muerto",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -281,7 +281,7 @@
   {
     "id": 32,
     "nombre": "???",
-    "descripcion": "Nuevo personaje Desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 10 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -290,7 +290,7 @@
   {
     "id": 33,
     "nombre": "¡¡¡Todo Está Terrible!!!",
-    "descripcion": "¡El juego se hizo más difícil!",
+    "descripcion": "Derrota a Corazón de Mamá 5 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -299,7 +299,7 @@
   {
     "id": 34,
     "nombre": "¡Está Vivo!",
-    "descripcion": "El pasado de tu futuro espera.",
+    "descripcion": "Derrota a Corazón de Mamá 11 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -308,7 +308,7 @@
   {
     "id": 35,
     "nombre": "Lentillas de Mamá",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue 3 objetos de mamá en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "nombre": "El Necronomicón",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Usa XIII - Muerte 4 veces",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -326,7 +326,7 @@
   {
     "id": 37,
     "nombre": "Chico del Sótano",
-    "descripcion": "Supera el sótano sin recibir daño.",
+    "descripcion": "Supera el capítulo 1 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -335,7 +335,7 @@
   {
     "id": 38,
     "nombre": "Chico Espeleologo",
-    "descripcion": "Supera las cuevas sin recibir daño.",
+    "descripcion": "Supera el capítulo 2 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -344,7 +344,7 @@
   {
     "id": 39,
     "nombre": "Chico Oscuro",
-    "descripcion": "Supera las profundidades sin recibir daño.",
+    "descripcion": "Supera el capítulo 3 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -353,7 +353,7 @@
   {
     "id": 40,
     "nombre": "Chico de Mamá",
-    "descripcion": "Supera la matriz sin recibir daño.",
+    "descripcion": "Supera el capítulo 4 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -362,7 +362,7 @@
   {
     "id": 41,
     "nombre": "¡Dios Dorado!",
-    "descripcion": "¡¡Eres el mejor!!",
+    "descripcion": "Derrota a ??? y El Cordero .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -371,7 +371,7 @@
   {
     "id": 42,
     "nombre": "Eva",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "No recojas ningún tipo de corazón en 2 pisos seguidos.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -380,7 +380,7 @@
   {
     "id": 43,
     "nombre": "Cuchillo de Mamá",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -389,7 +389,7 @@
   {
     "id": 44,
     "nombre": "Hoja de Afeitar",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "nombre": "Ángel Guardián",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -407,7 +407,7 @@
   {
     "id": 46,
     "nombre": "Bolsa de Bombas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -416,7 +416,7 @@
   {
     "id": 47,
     "nombre": "Bebé Demonio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -425,7 +425,7 @@
   {
     "id": 48,
     "nombre": "Olvídame Ya",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -434,7 +434,7 @@
   {
     "id": 49,
     "nombre": "El D20",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -443,7 +443,7 @@
   {
     "id": 50,
     "nombre": "Cruz Celta",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -452,7 +452,7 @@
   {
     "id": 51,
     "nombre": "Abel",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -461,7 +461,7 @@
   {
     "id": 52,
     "nombre": "Cuerno Curvo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -470,7 +470,7 @@
   {
     "id": 53,
     "nombre": "Daga de Sacrificio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -479,7 +479,7 @@
   {
     "id": 54,
     "nombre": "Lujuria de Sangre",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -488,7 +488,7 @@
   {
     "id": 55,
     "nombre": "Moneda Sangrienta",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -497,7 +497,7 @@
   {
     "id": 56,
     "nombre": "Derechos de Sangre",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -506,7 +506,7 @@
   {
     "id": 57,
     "nombre": "La Polaroid",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac 5 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -515,7 +515,7 @@
   {
     "id": 58,
     "nombre": "Llave de Papá",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue las 2 piezas de llaves de los Ángeles en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -524,7 +524,7 @@
   {
     "id": 59,
     "nombre": "Vela Azul",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Dona 900 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -533,7 +533,7 @@
   {
     "id": 60,
     "nombre": "Moneda Quemada",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #13: ¡FRIJOLES! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -542,7 +542,7 @@
   {
     "id": 61,
     "nombre": "Dedo de la Suerte",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Haz explotar a 20 tenderos .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -551,7 +551,7 @@
   {
     "id": 62,
     "nombre": "Fetus Épico",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #19: Hombre de Familia .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -560,7 +560,7 @@
   {
     "id": 63,
     "nombre": "SMB Súper Fan",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #14: Está en las Cartas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -569,7 +569,7 @@
   {
     "id": 64,
     "nombre": "Moneda Falsificada",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Juega al trile o RP Juego Infernal 100 veces",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -578,7 +578,7 @@
   {
     "id": 65,
     "nombre": "Bola de Pelo de Guppy",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Conviértete en Guppy",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -587,7 +587,7 @@
   {
     "id": 66,
     "nombre": "El Jinete Olvidado",
-    "descripcion": "Nuevo jefe desbloqueado!",
+    "descripcion": "Toma 10 objetos de la habitación del ángel.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -596,7 +596,7 @@
   {
     "id": 67,
     "nombre": "Sansón",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Supera 2 pisos seguidos sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -605,7 +605,7 @@
   {
     "id": 68,
     "nombre": "¡Algo Repulsivo!",
-    "descripcion": "¡Nuevo jefe en la Matriz!",
+    "descripcion": "Derrota a Isaac 10 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -614,7 +614,7 @@
   {
     "id": 69,
     "nombre": "¡Dios Platino!",
-    "descripcion": "¡Por Dios!",
+    "descripcion": "Consigue todos los objetos de rebirth (sin incluir DLCs), desbloquea todos los secretos y finales, excepto El Perdido y sus desbloqueables.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -623,7 +623,7 @@
   {
     "id": 70,
     "nombre": "Cabeza de Isaac",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -632,7 +632,7 @@
   {
     "id": 71,
     "nombre": "La Fe de Maggy",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -641,7 +641,7 @@
   {
     "id": 72,
     "nombre": "La Lengua de Judas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -650,7 +650,7 @@
   {
     "id": 73,
     "nombre": "Alma de ???",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -659,7 +659,7 @@
   {
     "id": 74,
     "nombre": "Mechón de Sansón",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -668,7 +668,7 @@
   {
     "id": 75,
     "nombre": "Ojo de Caín",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -677,7 +677,7 @@
   {
     "id": 76,
     "nombre": "Pata del Ave de Eva",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -686,7 +686,7 @@
   {
     "id": 77,
     "nombre": "La Mano Izquierda",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Orgullo con cualquier personaje, o a ??? como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -695,7 +695,7 @@
   {
     "id": 78,
     "nombre": "El Negativo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán 5 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -704,7 +704,7 @@
   {
     "id": 79,
     "nombre": "Azazel",
-    "descripcion": "Nuevo personaje desbloquado.",
+    "descripcion": "Realiza 3 pactos con el demonio en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -713,7 +713,7 @@
   {
     "id": 80,
     "nombre": "Lázaro",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Llega a tener 4 o más corazones de alma a la vez.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -722,7 +722,7 @@
   {
     "id": 81,
     "nombre": "Edén",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Completa el capítulo 4 .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -731,7 +731,7 @@
   {
     "id": 82,
     "nombre": "El Perdido",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "RB Desbloquea a The Lost . A AB Muere en una Habitación del Sacrificio mientras sostienes Cartel de Desaparecido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -740,7 +740,7 @@
   {
     "id": 83,
     "nombre": "Chico Muerto",
-    "descripcion": "Supera el Cofre o el Cuarto Oscuro sin recibir daño.",
+    "descripcion": "Completa el capítulo 6 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -749,7 +749,7 @@
   {
     "id": 84,
     "nombre": "¡Dios Platino Real!",
-    "descripcion": "111% ¡Ahora deja de jugar!",
+    "descripcion": "Consigue todos los objetos (sin contar DLCs) y desbloquea todos los finales.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -758,7 +758,7 @@
   {
     "id": 85,
     "nombre": "Roca de la Suerte",
-    "descripcion": "Destruye 100 rocas.",
+    "descripcion": "Destruye 100 rocas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -767,7 +767,7 @@
   {
     "id": 86,
     "nombre": "La Bodega",
-    "descripcion": "Piso alternativo al sótano.",
+    "descripcion": "Derrota a todos los jefes de El Sótano ( RP Excepto Ciruelita )(no es necesario derrotarlos en El Sótano ).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -776,7 +776,7 @@
   {
     "id": 87,
     "nombre": "Las Catacumbas",
-    "descripcion": "Piso alternaticvo a las cuevas.",
+    "descripcion": "Derrota a todos los jefes de las Cuevas ( RP Excepto Bumbino ) (no es necesario derrotarlos en las Cuevas ).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -785,7 +785,7 @@
   {
     "id": 88,
     "nombre": "Necrópolis",
-    "descripcion": "Piso alternativo a las profundidades.",
+    "descripcion": "Derrota a todos los jefes de las Profundidades ( RP Excepto Trepadora Reina (no es necesario derrotarlos en las Profundidades ).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -794,7 +794,7 @@
   {
     "id": 89,
     "nombre": "La Runa de Hagalaz",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #1: Todo Oscuro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -803,7 +803,7 @@
   {
     "id": 90,
     "nombre": "La Runa de Jera",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #2: Frente en Alto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -812,7 +812,7 @@
   {
     "id": 91,
     "nombre": "La Runa de Ehwaz",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #3: Trauma Craneal .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -821,7 +821,7 @@
   {
     "id": 92,
     "nombre": "La Runa de Dagaz",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #4: Cae la Oscuridad .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -830,7 +830,7 @@
   {
     "id": 93,
     "nombre": "La Runa de Anusuz",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #5: El Tanque .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -839,7 +839,7 @@
   {
     "id": 94,
     "nombre": "La Runa de Perthro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #6: Sistema Solar .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -848,7 +848,7 @@
   {
     "id": 95,
     "nombre": "La Runa de Berkano",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #20: Purista .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -857,7 +857,7 @@
   {
     "id": 96,
     "nombre": "La Runa de Algiz",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #8: El Gato Tiene tu Lengua .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -866,7 +866,7 @@
   {
     "id": 97,
     "nombre": "Carta del Caos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #9: Demoledor .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -875,7 +875,7 @@
   {
     "id": 98,
     "nombre": "Tarjeta de Credito",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #10: ¡Maldito! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -884,7 +884,7 @@
   {
     "id": 99,
     "nombre": "Carta de Reglas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #11: Cañón de Cristal (Challenge) .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -893,7 +893,7 @@
   {
     "id": 100,
     "nombre": "Carta Contra la Humanidad",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #12: Cuando la Vida te da Limones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -902,7 +902,7 @@
   {
     "id": 101,
     "nombre": "Moneda Tragada",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #15: Ve Lento .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -911,7 +911,7 @@
   {
     "id": 102,
     "nombre": "Robo-Baby 2.0",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #16: Genio Informático .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -920,7 +920,7 @@
   {
     "id": 103,
     "nombre": "Toque de la Muerte",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #17: Waka Waka .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -929,7 +929,7 @@
   {
     "id": 104,
     "nombre": "Tech .5",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #18: El Huésped .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -938,7 +938,7 @@
   {
     "id": 105,
     "nombre": "Missing No.",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -947,7 +947,7 @@
   {
     "id": 106,
     "nombre": "Lágrimas de Isaac",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -956,7 +956,7 @@
   {
     "id": 107,
     "nombre": "La Guillotina",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -965,7 +965,7 @@
   {
     "id": 108,
     "nombre": "Sombra de Judas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -974,7 +974,7 @@
   {
     "id": 109,
     "nombre": "Moño de Maggy",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -983,7 +983,7 @@
   {
     "id": 110,
     "nombre": "El Otro Ojo de Caín",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -992,7 +992,7 @@
   {
     "id": 111,
     "nombre": "Labial Negro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1001,7 +1001,7 @@
   {
     "id": 112,
     "nombre": "Rímel de Eva",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1010,7 +1010,7 @@
   {
     "id": 113,
     "nombre": "Destino",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1019,7 +1019,7 @@
   {
     "id": 114,
     "nombre": "Único Amigo de ???",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1028,7 +1028,7 @@
   {
     "id": 115,
     "nombre": "Cadena de Sansón",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1037,7 +1037,7 @@
   {
     "id": 116,
     "nombre": "Harapos de Lázaro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1046,7 +1046,7 @@
   {
     "id": 117,
     "nombre": "Anj Roto",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1055,7 +1055,7 @@
   {
     "id": 118,
     "nombre": "Credito de Tienda",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1064,7 +1064,7 @@
   {
     "id": 119,
     "nombre": "Caja de Pandora",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1073,7 +1073,7 @@
   {
     "id": 120,
     "nombre": "Rey Suicida",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #7: Rey Suicida (Challenge) .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1082,7 +1082,7 @@
   {
     "id": 121,
     "nombre": "Una Carta en Blanco",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1091,7 +1091,7 @@
   {
     "id": 122,
     "nombre": "El Libro de los Secretos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1100,7 +1100,7 @@
   {
     "id": 123,
     "nombre": "Papel Misterioso",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Edén",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1109,7 +1109,7 @@
   {
     "id": 124,
     "nombre": "Bolsa Misteriosa",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1118,7 +1118,7 @@
   {
     "id": 125,
     "nombre": "Undefined",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1127,7 +1127,7 @@
   {
     "id": 126,
     "nombre": "La Biblia Satánica",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1136,7 +1136,7 @@
   {
     "id": 127,
     "nombre": "Cola de Demonio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1145,7 +1145,7 @@
   {
     "id": 128,
     "nombre": "Abaddón",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1154,7 +1154,7 @@
   {
     "id": 129,
     "nombre": "Corazón de Isaac",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1163,7 +1163,7 @@
   {
     "id": 130,
     "nombre": "La Mente",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1172,7 +1172,7 @@
   {
     "id": 131,
     "nombre": "El Cuerpo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1181,7 +1181,7 @@
   {
     "id": 132,
     "nombre": "El Alma",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1190,7 +1190,7 @@
   {
     "id": 133,
     "nombre": "El D100",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1199,7 +1199,7 @@
   {
     "id": 134,
     "nombre": "Mapa Azul",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Dona 10 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1208,7 +1208,7 @@
   {
     "id": 135,
     "nombre": "Hay Opciones",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Dona 50 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1217,7 +1217,7 @@
   {
     "id": 136,
     "nombre": "Vela Negra",
-    "descripcion": "Nuevo objeto desbloqueado",
+    "descripcion": "Dona 150 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1226,7 +1226,7 @@
   {
     "id": 137,
     "nombre": "Vela Roja",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Dona 400 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1235,7 +1235,7 @@
   {
     "id": 138,
     "nombre": "El Cronometro",
-    "descripcion": "Nuevo objeto desbloqueado",
+    "descripcion": "Dona 999 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1244,7 +1244,7 @@
   {
     "id": 139,
     "nombre": "Percha de Alambre",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 4 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1253,7 +1253,7 @@
   {
     "id": 140,
     "nombre": "Ipecac",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 6 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1262,7 +1262,7 @@
   {
     "id": 141,
     "nombre": "Tratamiento Experimental",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 7 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1271,7 +1271,7 @@
   {
     "id": 142,
     "nombre": "Krampus",
-    "descripcion": "¡Otro mini-jefe desbloqueado!",
+    "descripcion": "Consigue 20 objetos de la Habitación del Diablo .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1280,7 +1280,7 @@
   {
     "id": 143,
     "nombre": "Cabeza de Krampus",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Krampus .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1289,7 +1289,7 @@
   {
     "id": 144,
     "nombre": "Super Meat Boy",
-    "descripcion": "Construido con cubos de carne.",
+    "descripcion": "Crea un Super Meat Boy consiguiendo 4 Cubo de Carne en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1298,7 +1298,7 @@
   {
     "id": 145,
     "nombre": "Frijol Mantequilla",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Destruye 100 pilas de popó .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1307,7 +1307,7 @@
   {
     "id": 146,
     "nombre": "Pequeña Bolsa",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue dos de cualquiera de los objetos que tengan el tag de \"jeringas\".",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1316,7 +1316,7 @@
   {
     "id": 147,
     "nombre": "Bolsa de Sangre",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Usa la máquina de donación de sangre 30 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1325,7 +1325,7 @@
   {
     "id": 148,
     "nombre": "El D4",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Explota 30 máquinas de Arcade .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1334,7 +1334,7 @@
   {
     "id": 149,
     "nombre": "Cartel de Desaparecido",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1343,7 +1343,7 @@
   {
     "id": 150,
     "nombre": "Pegamento Elástico",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 2 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1352,7 +1352,7 @@
   {
     "id": 151,
     "nombre": "Mejoramiento de Tienda Nivel 1",
-    "descripcion": "Donaste 20 monedas a la tienda.",
+    "descripcion": "Dona 20 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1361,7 +1361,7 @@
   {
     "id": 152,
     "nombre": "Mejoramiento de Tienda Nivel 2",
-    "descripcion": "Donaste 100 monedas a la tienda.",
+    "descripcion": "Dona 100 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1370,7 +1370,7 @@
   {
     "id": 153,
     "nombre": "Mejoramiento de Tienda Nivel 3",
-    "descripcion": "Donaste 200 monedas a la tienda.",
+    "descripcion": "Dona 200 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1379,7 +1379,7 @@
   {
     "id": 154,
     "nombre": "Mejoramiento de Tienda Nivel 4",
-    "descripcion": "Donaste 600 monedas a la tienda.",
+    "descripcion": "Dona 600 monedas a la máquina de donaciones .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1388,7 +1388,7 @@
   {
     "id": 155,
     "nombre": "Ángeles",
-    "descripcion": "Te Esperan.",
+    "descripcion": "Completa el capítulo 6",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1397,7 +1397,7 @@
   {
     "id": 156,
     "nombre": "Deidad",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue todas las marcas en modo difícil con El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1406,7 +1406,7 @@
   {
     "id": 157,
     "nombre": "Cae la Oscuridad",
-    "descripcion": "Desbloqueaste desafío #4.",
+    "descripcion": "Derrota a ??? con Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1415,7 +1415,7 @@
   {
     "id": 158,
     "nombre": "El Tanque",
-    "descripcion": "Desbloqueaste desafío #5.",
+    "descripcion": "Consigue tener 7 o más contenedores de corazón rojo a la vez.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1424,7 +1424,7 @@
   {
     "id": 159,
     "nombre": "Sistema Solar",
-    "descripcion": "Desbloqueaste desafío #6.",
+    "descripcion": "Derrota a Corazón de Mamá 3 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1433,7 +1433,7 @@
   {
     "id": 160,
     "nombre": "Rey Suicida",
-    "descripcion": "Desbloqueaste desafío #7.",
+    "descripcion": "Derrota a Corazón de Mamá 11 veces y desbloquea a Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1442,7 +1442,7 @@
   {
     "id": 161,
     "nombre": "El Gato Tiene tu Lengua",
-    "descripcion": "Desbloqueaste desafío #8.",
+    "descripcion": "Conviértete en Guppy",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1451,7 +1451,7 @@
   {
     "id": 162,
     "nombre": "Demoledor",
-    "descripcion": "Desbloqueaste desafío #9.",
+    "descripcion": "Derrota a Corazón de Mamá 9 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1460,7 +1460,7 @@
   {
     "id": 163,
     "nombre": "¡Maldito!",
-    "descripcion": "Desbloqueaste desafío #10.",
+    "descripcion": "Consigue tener 7 o más contenedores de corazón rojo a la vez.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1469,7 +1469,7 @@
   {
     "id": 164,
     "nombre": "Cañón de Cristal",
-    "descripcion": "Desbloqueaste desafío #11.",
+    "descripcion": "Derrota a Lokii y completa el desafío #19: Hombre de Familia .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1478,7 +1478,7 @@
   {
     "id": 165,
     "nombre": "Hombre de Familia",
-    "descripcion": "Desbloqueaste desafío #19.",
+    "descripcion": "Consigue las 2 piezas de llaves de los ángeles en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1487,7 +1487,7 @@
   {
     "id": 166,
     "nombre": "Purista",
-    "descripcion": "Desbloqueaste desafío #20.",
+    "descripcion": "Derrota a Mamá .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1496,7 +1496,7 @@
   {
     "id": 167,
     "nombre": "Bebé Perdido",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1505,7 +1505,7 @@
   {
     "id": 168,
     "nombre": "Bebé Lindo",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1514,7 +1514,7 @@
   {
     "id": 169,
     "nombre": "Bebé Cuervo",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1523,7 +1523,7 @@
   {
     "id": 170,
     "nombre": "Bebé Sombra",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1532,7 +1532,7 @@
   {
     "id": 171,
     "nombre": "Bebé de Cristal",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1541,7 +1541,7 @@
   {
     "id": 172,
     "nombre": "Bebé Envuelto",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "RB Derrota a Corazón de Mamá en modo difícil como Azazel . AB+ Derrota a Corazón de Mamá en modo difícil como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1550,7 +1550,7 @@
   {
     "id": 173,
     "nombre": "Bebé Engendrado",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "RB Derrota a Corazón de Mamá en modo difícil como Lázaro . AB+ Derrota a Corazón de Mamá en modo difícil como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1559,7 +1559,7 @@
   {
     "id": 174,
     "nombre": "Bebé Muerto",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1568,7 +1568,7 @@
   {
     "id": 175,
     "nombre": "Bebé -0-",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1577,7 +1577,7 @@
   {
     "id": 176,
     "nombre": "Bebé con Falla",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1586,7 +1586,7 @@
   {
     "id": 177,
     "nombre": "Bebé Luchador",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1595,7 +1595,7 @@
   {
     "id": 178,
     "nombre": "El Señor de las Moscas",
-    "descripcion": "Te convertiste en el señor de las moscas.",
+    "descripcion": "Conviértete en Beelzebub",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1604,7 +1604,7 @@
   {
     "id": 179,
     "nombre": "Bebé Tira-Pedos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1613,7 +1613,7 @@
   {
     "id": 180,
     "nombre": "Pureza",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1622,7 +1622,7 @@
   {
     "id": 181,
     "nombre": "D12",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1631,7 +1631,7 @@
   {
     "id": 182,
     "nombre": "Traición",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1640,7 +1640,7 @@
   {
     "id": 183,
     "nombre": "Premio del Destino",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1649,7 +1649,7 @@
   {
     "id": 184,
     "nombre": "Athame",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1658,7 +1658,7 @@
   {
     "id": 185,
     "nombre": "Furia del Ciego",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1667,7 +1667,7 @@
   {
     "id": 186,
     "nombre": "Fauces del Vacío",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1676,7 +1676,7 @@
   {
     "id": 187,
     "nombre": "Recipiente Vacío",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1685,7 +1685,7 @@
   {
     "id": 188,
     "nombre": "Bendición de Edén",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1694,7 +1694,7 @@
   {
     "id": 189,
     "nombre": "Protector Fiel",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1703,7 +1703,7 @@
   {
     "id": 190,
     "nombre": "Íncubo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1712,7 +1712,7 @@
   {
     "id": 191,
     "nombre": "Keeper ahora tiene... ¡Una Moneda!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1721,7 +1721,7 @@
   {
     "id": 192,
     "nombre": "Mini-Cofre",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1730,7 +1730,7 @@
   {
     "id": 193,
     "nombre": "Incensario",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1739,7 +1739,7 @@
   {
     "id": 194,
     "nombre": "Mal de Ojo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1748,7 +1748,7 @@
   {
     "id": 195,
     "nombre": "Mi Sombra",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1757,7 +1757,7 @@
   {
     "id": 196,
     "nombre": "Dado Roto",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1766,7 +1766,7 @@
   {
     "id": 197,
     "nombre": "Pluma Negra",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1775,7 +1775,7 @@
   {
     "id": 198,
     "nombre": "Sangre Lujuriosa",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1784,7 +1784,7 @@
   {
     "id": 199,
     "nombre": "Lilith",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1793,7 +1793,7 @@
   {
     "id": 200,
     "nombre": "Pordiosero de Llaves",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1802,7 +1802,7 @@
   {
     "id": 201,
     "nombre": "Error-Crítico",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1811,7 +1811,7 @@
   {
     "id": 202,
     "nombre": "Zodiaco",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1820,7 +1820,7 @@
   {
     "id": 203,
     "nombre": "Caja de Amigos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1829,7 +1829,7 @@
   {
     "id": 204,
     "nombre": "Costilla de Codicia",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1838,7 +1838,7 @@
   {
     "id": 205,
     "nombre": "Bebé Llorón",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1847,7 +1847,7 @@
   {
     "id": 206,
     "nombre": "Bebé Rojo",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1856,7 +1856,7 @@
   {
     "id": 207,
     "nombre": "Bebé Verde",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1865,7 +1865,7 @@
   {
     "id": 208,
     "nombre": "Bebé Café",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1874,7 +1874,7 @@
   {
     "id": 209,
     "nombre": "Bebé Azul",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1883,7 +1883,7 @@
   {
     "id": 210,
     "nombre": "Mini-Bebé",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1892,7 +1892,7 @@
   {
     "id": 211,
     "nombre": "Bebé Enojado",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1901,7 +1901,7 @@
   {
     "id": 212,
     "nombre": "Bebé Negro",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1910,7 +1910,7 @@
   {
     "id": 213,
     "nombre": "Bebé Alargado",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1919,7 +1919,7 @@
   {
     "id": 214,
     "nombre": "Bebé Amarillo",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1928,7 +1928,7 @@
   {
     "id": 215,
     "nombre": "Bebé Blanco",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1937,7 +1937,7 @@
   {
     "id": 216,
     "nombre": "Gran Bebé",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1946,7 +1946,7 @@
   {
     "id": 217,
     "nombre": "Bebé Soga",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1955,7 +1955,7 @@
   {
     "id": 218,
     "nombre": "Bolsa de Runas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1964,7 +1964,7 @@
   {
     "id": 219,
     "nombre": "Impura Concepción",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1973,7 +1973,7 @@
   {
     "id": 220,
     "nombre": "Beso de Serpiente",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1982,7 +1982,7 @@
   {
     "id": 221,
     "nombre": "Súcubo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -1991,7 +1991,7 @@
   {
     "id": 222,
     "nombre": "Inmaculada Concepción",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2000,7 +2000,7 @@
   {
     "id": 223,
     "nombre": "Bebé Cabeza de Cabra",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2009,7 +2009,7 @@
   {
     "id": 224,
     "nombre": "Corazón de Oro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #21: XXXXXXXXL .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2018,7 +2018,7 @@
   {
     "id": 225,
     "nombre": "Carta Sal Libre de Prisión",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #22: ¡RÁPIDO! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2027,7 +2027,7 @@
   {
     "id": 226,
     "nombre": "Bomba de Oro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #23: Bombardero Azul .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2036,7 +2036,7 @@
   {
     "id": 227,
     "nombre": "2 Nuevas Píldoras",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #24: PAY TO PLAY .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2045,7 +2045,7 @@
   {
     "id": 228,
     "nombre": "2 Nuevas Píldoras 2",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #25: Un Corazón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2054,7 +2054,7 @@
   {
     "id": 229,
     "nombre": "Ficha de Póker",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #26: ¡YO MANDO! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2063,7 +2063,7 @@
   {
     "id": 230,
     "nombre": "Detector de Clavos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #27: ¡CEREBROS! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2072,7 +2072,7 @@
   {
     "id": 231,
     "nombre": "D8",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #28: ¡DÍA DEL ORGULLO! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2081,7 +2081,7 @@
   {
     "id": 232,
     "nombre": "Piedra de Riñon",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "AB Completa el desafío #30: El Guardián . AB+ Completa el desafío #29: Pulso de Onán .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2090,7 +2090,7 @@
   {
     "id": 233,
     "nombre": "Runa en Blanco",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "AB Completa el desafío #29: Pulso de Onán . AB+ Completa el desafío #30: El Guardián .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2099,7 +2099,7 @@
   {
     "id": 234,
     "nombre": "La Matriz Azul",
-    "descripcion": "Capítulo oculto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 10 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2108,7 +2108,7 @@
   {
     "id": 235,
     "nombre": "1001%",
-    "descripcion": "Nerd x 1000000",
+    "descripcion": "Desbloquea todos los secretos y finales, y consigue todos los objetos (hasta Afterbirth).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2117,7 +2117,7 @@
   {
     "id": 236,
     "nombre": "Keeper Ahora Tiene Moneda de Madera",
-    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "descripcion": "Derrota a Isaac como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2126,7 +2126,7 @@
   {
     "id": 237,
     "nombre": "Keeper Ahora Tiene Llave de Tienda",
-    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "descripcion": "Derrota a Satán como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2135,7 +2135,7 @@
   {
     "id": 238,
     "nombre": "Bolsillos Profundos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2144,7 +2144,7 @@
   {
     "id": 239,
     "nombre": "Karma",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2153,7 +2153,7 @@
   {
     "id": 240,
     "nombre": "Monedas Pegajosas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2162,7 +2162,7 @@
   {
     "id": 241,
     "nombre": "Bebé Súper Codicioso",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Corazón de Mamá en modo difícil como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2171,7 +2171,7 @@
   {
     "id": 242,
     "nombre": "Monedas de la Suerte",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Dona 1 moneda a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2180,7 +2180,7 @@
   {
     "id": 243,
     "nombre": "¡Tendero Colgado Especial!",
-    "descripcion": "Desbloqueaste un secreto.",
+    "descripcion": "Dona 10 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2189,7 +2189,7 @@
   {
     "id": 244,
     "nombre": "Moneda de Madera",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Dona 30 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2198,7 +2198,7 @@
   {
     "id": 245,
     "nombre": "Caín Ahora Tiene Clip de Papel",
-    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "descripcion": "Dona 68 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2207,7 +2207,7 @@
   {
     "id": 246,
     "nombre": "¡¡¡Todo Está Terrible 2!!!",
-    "descripcion": "¡Modo codicia se hizo más difícil!",
+    "descripcion": "Dona 111 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2216,7 +2216,7 @@
   {
     "id": 247,
     "nombre": "Tendero Especial",
-    "descripcion": "Desbloqueaste un secreto.",
+    "descripcion": "Dona 234 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2225,7 +2225,7 @@
   {
     "id": 248,
     "nombre": "Eva Ahora Tiene Hoja de Afeitar",
-    "descripcion": "Unlocked a new starting item.",
+    "descripcion": "Dona 439 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2234,7 +2234,7 @@
   {
     "id": 249,
     "nombre": "Llave de Tienda",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Dona 666 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2243,7 +2243,7 @@
   {
     "id": 250,
     "nombre": "El Perdido Ahora Tiene Manto Sagrado",
-    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "descripcion": "Dona 879 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2252,7 +2252,7 @@
   {
     "id": 251,
     "nombre": "Keeper",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Dona 1000 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2261,7 +2261,7 @@
   {
     "id": 252,
     "nombre": "Bebé Colmena",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2270,7 +2270,7 @@
   {
     "id": 253,
     "nombre": "Bebé Amigo",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2279,7 +2279,7 @@
   {
     "id": 254,
     "nombre": "Bebé Colorido",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2288,7 +2288,7 @@
   {
     "id": 255,
     "nombre": "Bebé Ramera",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2297,7 +2297,7 @@
   {
     "id": 256,
     "nombre": "Bebé Quebrado",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2306,7 +2306,7 @@
   {
     "id": 257,
     "nombre": "Bebé Goteante",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2315,7 +2315,7 @@
   {
     "id": 258,
     "nombre": "Bebé Cegador",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Usa Carta en Blanco con XIX - El Sol .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2324,7 +2324,7 @@
   {
     "id": 259,
     "nombre": "Bebé Sorbos",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2333,7 +2333,7 @@
   {
     "id": 260,
     "nombre": "Bebé Oscuro",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2342,7 +2342,7 @@
   {
     "id": 261,
     "nombre": "Bebé Fastidioso",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2351,7 +2351,7 @@
   {
     "id": 262,
     "nombre": "Bebé Vengativo",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2360,7 +2360,7 @@
   {
     "id": 263,
     "nombre": "Bebé Belial",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2369,7 +2369,7 @@
   {
     "id": 264,
     "nombre": "Bebé Descontado",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2378,7 +2378,7 @@
   {
     "id": 265,
     "nombre": "XXXXXXXXL",
-    "descripcion": "Desbloqueaste desafío #21.",
+    "descripcion": "Derrota a Mamá .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2387,7 +2387,7 @@
   {
     "id": 266,
     "nombre": "¡RÁPIDO!",
-    "descripcion": "Desbloqueaste desafío #22.",
+    "descripcion": "Derrota a Mamá .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2396,7 +2396,7 @@
   {
     "id": 267,
     "nombre": "Bombardero Azul",
-    "descripcion": "Desbloqueaste desafío #23.",
+    "descripcion": "Destruye 10 rocas marcadas y derrota a Corazón de Mamá 11 veces",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2405,7 +2405,7 @@
   {
     "id": 268,
     "nombre": "PAY TO PLAY",
-    "descripcion": "Desbloqueaste desafío #24.",
+    "descripcion": "Derrota a Isaac como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2414,7 +2414,7 @@
   {
     "id": 269,
     "nombre": "Un Corazón",
-    "descripcion": "Desbloqueaste desafío #25.",
+    "descripcion": "Derrota a Mamá .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2423,7 +2423,7 @@
   {
     "id": 270,
     "nombre": "¡YO MANDO!",
-    "descripcion": "Desbloqueaste desafío #26.",
+    "descripcion": "AB Derrota a ??? o El Cordero , y derrota a Satán como Isaac y desbloquea El Negativo . AB+ Derrota a ??? o El Cordero , y derrota a Satán como Isaac . RP Derrota a Mega Satán y desbloquea El Negativo",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2432,7 +2432,7 @@
   {
     "id": 271,
     "nombre": "¡CEREBROS!",
-    "descripcion": "Desbloqueaste desafío #27.",
+    "descripcion": "Derrota a Isaac 5 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2441,7 +2441,7 @@
   {
     "id": 272,
     "nombre": "¡DÍA DEL ORGULLO!",
-    "descripcion": "Desbloqueaste desafío #28.",
+    "descripcion": "Derrota a Mamá .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2450,7 +2450,7 @@
   {
     "id": 273,
     "nombre": "Pulso de Onán",
-    "descripcion": "Desbloqueaste desafío #29.",
+    "descripcion": "Derrota a Mamá .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2459,7 +2459,7 @@
   {
     "id": 274,
     "nombre": "El Guardián",
-    "descripcion": "Desbloqueaste desafío #30.",
+    "descripcion": "AB Derrota a Mamá . RP Desbloquea a Judas y a ¡Está Vivo! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2468,7 +2468,7 @@
   {
     "id": 275,
     "nombre": "Generosidad",
-    "descripcion": "Si todos fueran tan generosos como tú...",
+    "descripcion": "Dona 999 monedas a la máquina de donaciones de Greed .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2477,7 +2477,7 @@
   {
     "id": 276,
     "nombre": "Mega",
-    "descripcion": "Desbloqueado...",
+    "descripcion": "Derrota a Mega Satán con todos los personajes.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2486,7 +2486,7 @@
   {
     "id": 277,
     "nombre": "Vade Retro",
-    "descripcion": "Nuevo desafío desbloqueado.",
+    "descripcion": "AB+ Derrota a ??? o El Cordero . RP Derrota a Mega Satán y desbloquea El Negativo",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2495,7 +2495,7 @@
   {
     "id": 278,
     "nombre": "Inocente Palomita",
-    "descripcion": "Nuevo desafío desbloqueado.",
+    "descripcion": "Derrota a Mamá .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2504,7 +2504,7 @@
   {
     "id": 279,
     "nombre": "Pokey Mans",
-    "descripcion": "Nuevo desafío desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá 11 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2513,7 +2513,7 @@
   {
     "id": 280,
     "nombre": "Ultra Difícil",
-    "descripcion": "Nuevo desafío desbloqueado.",
+    "descripcion": "AB+ Derrota a ??? o El Cordero . Es necesario tener La Polaroid o El Negativo , y no contará si se llega a través de la Habitación del Sacrificio . RP Derrota a Mega Satán y desbloquea El Negativo",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2522,7 +2522,7 @@
   {
     "id": 281,
     "nombre": "PONG",
-    "descripcion": "Nuevo desafío desbloqueado.",
+    "descripcion": "Derrota a Isaac 5 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2531,7 +2531,7 @@
   {
     "id": 282,
     "nombre": "D Infinito",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2540,7 +2540,7 @@
   {
     "id": 283,
     "nombre": "Eucaristía",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2549,7 +2549,7 @@
   {
     "id": 284,
     "nombre": "Dólar de Plata",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2558,7 +2558,7 @@
   {
     "id": 285,
     "nombre": "Sombra",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2567,7 +2567,7 @@
   {
     "id": 286,
     "nombre": "Rey Bebé",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Delirio como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2576,7 +2576,7 @@
   {
     "id": 287,
     "nombre": "Corona Sangrienta",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2585,7 +2585,7 @@
   {
     "id": 288,
     "nombre": "Hoja sin Filo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2594,7 +2594,7 @@
   {
     "id": 289,
     "nombre": "Alma de Edén",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2603,7 +2603,7 @@
   {
     "id": 290,
     "nombre": "Corona del Principe Oscuro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2612,7 +2612,7 @@
   {
     "id": 291,
     "nombre": "Fractura Compuesta",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2621,7 +2621,7 @@
   {
     "id": 292,
     "nombre": "Eutanasia",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2630,7 +2630,7 @@
   {
     "id": 293,
     "nombre": "Carta Sagrada",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2639,7 +2639,7 @@
   {
     "id": 294,
     "nombre": "Moneda Doblada",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2648,7 +2648,7 @@
   {
     "id": 295,
     "nombre": "Vacío",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2657,7 +2657,7 @@
   {
     "id": 296,
     "nombre": "D1",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2666,7 +2666,7 @@
   {
     "id": 297,
     "nombre": "Glifo del Equilibrio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2675,7 +2675,7 @@
   {
     "id": 298,
     "nombre": "Bolsa de Bolsas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2684,7 +2684,7 @@
   {
     "id": 299,
     "nombre": "Ojo de Belial",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2693,7 +2693,7 @@
   {
     "id": 300,
     "nombre": "Meconio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2702,7 +2702,7 @@
   {
     "id": 301,
     "nombre": "Célula Madre",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2711,7 +2711,7 @@
   {
     "id": 302,
     "nombre": "Corazón de Cuervo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2720,7 +2720,7 @@
   {
     "id": 303,
     "nombre": "Metrónomo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2729,7 +2729,7 @@
   {
     "id": 304,
     "nombre": "Ala de Murciélago",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2738,7 +2738,7 @@
   {
     "id": 305,
     "nombre": "Plan C",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2747,7 +2747,7 @@
   {
     "id": 306,
     "nombre": "Dualidad",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2756,7 +2756,7 @@
   {
     "id": 307,
     "nombre": "Moneda Perdida de Papá",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2765,7 +2765,7 @@
   {
     "id": 308,
     "nombre": "Ojo de Codicia",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2774,7 +2774,7 @@
   {
     "id": 309,
     "nombre": "Runa Negra",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2783,7 +2783,7 @@
   {
     "id": 310,
     "nombre": "Langosta de Guerra",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2792,7 +2792,7 @@
   {
     "id": 311,
     "nombre": "Langosta de Pestilencia",
-    "descripcion": "Unlocked a new item.",
+    "descripcion": "Derrota a Satán como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2801,7 +2801,7 @@
   {
     "id": 312,
     "nombre": "Langosta de Hambruna",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2810,7 +2810,7 @@
   {
     "id": 313,
     "nombre": "Langosta de Muerte",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2819,7 +2819,7 @@
   {
     "id": 314,
     "nombre": "Langosta de Conquista",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2828,7 +2828,7 @@
   {
     "id": 315,
     "nombre": "Shhh...",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2837,7 +2837,7 @@
   {
     "id": 316,
     "nombre": "Nugget Café",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2846,7 +2846,7 @@
   {
     "id": 317,
     "nombre": "Bebé Difunto",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2855,7 +2855,7 @@
   {
     "id": 318,
     "nombre": "Fundidora",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá o ¡Está Vivo! en modo difícil como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2864,7 +2864,7 @@
   {
     "id": 319,
     "nombre": "Bebé Apolión",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2873,7 +2873,7 @@
   {
     "id": 320,
     "nombre": "Nueva Area",
-    "descripcion": "Desbloqueaste una nueva area.",
+    "descripcion": "Derrota a Silencio... .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2882,7 +2882,7 @@
   {
     "id": 321,
     "nombre": "¡Una Vez Más con Ánimo!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa una Vuelta de Victoria después de derrotar a El Cordero .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2891,7 +2891,7 @@
   {
     "id": 322,
     "nombre": "¡Truco de Sombrero!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue una racha de 3 victorias.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2900,7 +2900,7 @@
   {
     "id": 323,
     "nombre": "5 Noches en lo de Mamá",
-    "descripcion": "Desbloqueaste rocas súper especiales.",
+    "descripcion": "Consigue una racha de 5 victorias ( RP racha de 3 victorias) usando personajes diferentes.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2909,7 +2909,7 @@
   {
     "id": 324,
     "nombre": "Colector de Pecados",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el bestiario (Buggeado v190 - Enemigos que no existen en el bestiario son contados. Esto permito desbloquear Colector de Pecados sin un bestiario completo.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2918,7 +2918,7 @@
   {
     "id": 325,
     "nombre": "Dedicación",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Participa en 31 desafíos diarios (no tienen que ser consecutivos, y se cuentan aunque el jugador muera en la primera habitación).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2927,7 +2927,7 @@
   {
     "id": 326,
     "nombre": "¡ZIP!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero en menos de 20 minutos.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2936,7 +2936,7 @@
   {
     "id": 327,
     "nombre": "¡Es la Llave!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero sin tomar corazones, monedas ni bombas durante toda la partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2945,7 +2945,7 @@
   {
     "id": 328,
     "nombre": "¡Sr. Reiniciador!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Reinicia 7 veces seguidas. Consolas consigue una racha de 10 derrotas.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2954,7 +2954,7 @@
   {
     "id": 329,
     "nombre": "Viviendo al límite",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa un capítulo (Pisos I y II) después de el Sótano , de principio a fin, con con sólo medio corazón de vida (puede usarse a El Perdido ).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2963,7 +2963,7 @@
   {
     "id": 330,
     "nombre": "¡Lo rompizte!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue 50 objetos en una misma partida (Objetos pasivos/familiares duplicados cuentan para el total) .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2972,7 +2972,7 @@
   {
     "id": 331,
     "nombre": "¡Laz Sangra Más!",
-    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "descripcion": "Completa el desafío #31: Vade Retro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2981,7 +2981,7 @@
   {
     "id": 332,
     "nombre": "¡Maggy Ahora Tiene una Pildora!",
-    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "descripcion": "Completa el desafío #32: Inocente Palomita .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2990,7 +2990,7 @@
   {
     "id": 333,
     "nombre": "Llave Recargada",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #33: Pokey Mans .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -2999,7 +2999,7 @@
   {
     "id": 334,
     "nombre": "¡Sansón se Siente Saludable!",
-    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "descripcion": "Completa el desafío #34: Ultra Difícil .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3008,7 +3008,7 @@
   {
     "id": 335,
     "nombre": "Esófago de Codicia",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa el desafío #35: Pong .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3017,7 +3017,7 @@
   {
     "id": 336,
     "nombre": "La Maratón",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue una racha de 5 victorias en los desafíos diarios (No tienen que ser consecutivos, solo las partidas que juegas cuentan).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3026,7 +3026,7 @@
   {
     "id": 337,
     "nombre": "¡De Nuevo!",
-    "descripcion": "Desbloqueas el poder de ¡De Nuevo!.",
+    "descripcion": "Completa 3 Vuelta de Vitoria y comienza la cuarta.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3035,7 +3035,7 @@
   {
     "id": 338,
     "nombre": "Delirious",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3044,7 +3044,7 @@
   {
     "id": 339,
     "nombre": "1000000%",
-    "descripcion": "¡Ya detente!",
+    "descripcion": "Consigue todos los objetos, desbloquea todos los secretos y finales, y completa el bestiario .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3053,7 +3053,7 @@
   {
     "id": 340,
     "nombre": "Apolión",
-    "descripcion": "Desbloqueaste un nuevo personaje.",
+    "descripcion": "Derrota a Mega Satán .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3062,7 +3062,7 @@
   {
     "id": 341,
     "nombre": "¡Codicioso!",
-    "descripcion": "¡Nuevo modo desbloqueado!",
+    "descripcion": "Dona 500 monedas a la máquina de donaciones de Codicia .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3071,7 +3071,7 @@
   {
     "id": 342,
     "nombre": "Sotano en Llamas",
-    "descripcion": "Piso alternativo al sótano.",
+    "descripcion": "Derrota a Corazón de Mamá 11 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3080,7 +3080,7 @@
   {
     "id": 343,
     "nombre": "Cuevas Inundadas",
-    "descripcion": "Piso alternativo a las cuevas.",
+    "descripcion": "Derrota a ¡Está Vivo! 16 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3089,7 +3089,7 @@
   {
     "id": 344,
     "nombre": "Profundidades Viscosas",
-    "descripcion": "Piso alternativo a las profundidades.",
+    "descripcion": "Derrota a ¡Está Vivo! 21 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3098,7 +3098,7 @@
   {
     "id": 345,
     "nombre": "Matriz Rasgada",
-    "descripcion": "Piso alternativo a la matriz.",
+    "descripcion": "Derrota a ¡Está Vivo! 30 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3107,7 +3107,7 @@
   {
     "id": 346,
     "nombre": "Algo Malvado !Se va Acercando!",
-    "descripcion": "¡Nuevos jefes desbloqueados!",
+    "descripcion": "Derrota a ??? con 3 personajes diferentes.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3116,7 +3116,7 @@
   {
     "id": 347,
     "nombre": "Algo Malvado ¡Se Va Acercando+!",
-    "descripcion": "¡Más jefes desbloqueados!",
+    "descripcion": "Derrota a ??? con 6 personajes diferentes.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3125,7 +3125,7 @@
   {
     "id": 348,
     "nombre": "¡El Portal Está Abierto!",
-    "descripcion": "¡Nuevos enemigos desbloqueados!",
+    "descripcion": "Derrota a El Cordero .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3134,7 +3134,7 @@
   {
     "id": 349,
     "nombre": "Un Agujero Negro",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota 20 portales .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3143,7 +3143,7 @@
   {
     "id": 350,
     "nombre": "Regalo Misterioso",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Destruye 500 rocas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3152,7 +3152,7 @@
   {
     "id": 351,
     "nombre": "Aspersor",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Supera el capítulo 1 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3161,7 +3161,7 @@
   {
     "id": 352,
     "nombre": "Mosca Enojada",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Conviértete en Beelzebub",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3170,7 +3170,7 @@
   {
     "id": 353,
     "nombre": "Bozo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Destruye 5 cacas arcoiris .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3179,7 +3179,7 @@
   {
     "id": 354,
     "nombre": "Módem Roto",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa 7 desafíos diarios (tocando el trofeo del final).",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3188,7 +3188,7 @@
   {
     "id": 355,
     "nombre": "Compañero Encajonado",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue 5 familiares en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3197,7 +3197,7 @@
   {
     "id": 356,
     "nombre": "Bombas Rápidas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Cuernito 20 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3206,7 +3206,7 @@
   {
     "id": 357,
     "nombre": "Mini-Delirio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio por primera vez.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3215,7 +3215,7 @@
   {
     "id": 358,
     "nombre": "Horquilla",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Recarga usando baterías 20 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3224,7 +3224,7 @@
   {
     "id": 359,
     "nombre": "Cruz de Madera",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Duerme en una cama .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3233,7 +3233,7 @@
   {
     "id": 360,
     "nombre": "¡Mantequilla!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa 2 Vueltas de Victoria y comienza la tercera.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3242,7 +3242,7 @@
   {
     "id": 361,
     "nombre": "Gran Crecimiento",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Crece de tamaño 5 veces en una misma partida. Pueden usarse el efecto de píldoras de \"Una te hace más grande\", XI - Fuerza , Hongo Mágico , etc.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3251,7 +3251,7 @@
   {
     "id": 362,
     "nombre": "Recuerdo Antiguo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Usa cartas y runas 20 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3260,7 +3260,7 @@
   {
     "id": 363,
     "nombre": "Caminando una Era",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Agrega Reloj Roto y Cronómetro a tu Colección .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3269,7 +3269,7 @@
   {
     "id": 364,
     "nombre": "Cupón",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Compra en las tiendas , habitaciones del diablo o mercados negro 50 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3278,7 +3278,7 @@
   {
     "id": 365,
     "nombre": "Telequinesis",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Supera el capítulo 2 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3287,7 +3287,7 @@
   {
     "id": 366,
     "nombre": "Caja de Mudanza",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Usa la Caja de Pandora en el Cuarto Oscuro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3296,7 +3296,7 @@
   {
     "id": 367,
     "nombre": "Cables de Salto",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue 3 de los siguientes objetos/baratijas en una misma partida: 9 Voltios , La Batería , Batería de Coche , Batería AAA , Batería de Reloj .( RP Cualquier objeto con la etiqueta de Batería )",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3305,7 +3305,7 @@
   {
     "id": 368,
     "nombre": "Lepra",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Supera el capítulo 3 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3314,7 +3314,7 @@
   {
     "id": 369,
     "nombre": "Tecnología Cero",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue 2 objetos de tecnología en una misma partida ( RP Cualquier objeto con la etiqueta de tech .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3323,7 +3323,7 @@
   {
     "id": 370,
     "nombre": "Pluma de Filigrana",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue las 2 piezas de llaves de los ángeles en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3332,7 +3332,7 @@
   {
     "id": 371,
     "nombre": "¡Sr. Yo!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Abre 20 cofres dorados .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3341,7 +3341,7 @@
   {
     "id": 372,
     "nombre": "7 Sellos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a los 5 Jinetes del Apocalipsis .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3350,7 +3350,7 @@
   {
     "id": 373,
     "nombre": "Prisma Angelical",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a un Ángel 10 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3359,7 +3359,7 @@
   {
     "id": 374,
     "nombre": "¡Pop!",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Supera el capítulo 4 sin recibir daño.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3368,7 +3368,7 @@
   {
     "id": 375,
     "nombre": "Tope de Puerta",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Rompe las puertas y los muros de la Habitación Secreta 50 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3377,7 +3377,7 @@
   {
     "id": 376,
     "nombre": "Lista de la Muerte",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Realiza 25 pactos con el diablo .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3386,7 +3386,7 @@
   {
     "id": 377,
     "nombre": "Hemolacria",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue Coágulo 10 veces",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3395,7 +3395,7 @@
   {
     "id": 378,
     "nombre": "Lacrifagia",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue 10 Objetos o Píldoras de +lagrimas una partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3404,7 +3404,7 @@
   {
     "id": 379,
     "nombre": "Mochila",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Entra a 6 tiendas en una partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3413,7 +3413,7 @@
   {
     "id": 380,
     "nombre": "Trisagio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue 25 objetos de la habitación del ángel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3422,7 +3422,7 @@
   {
     "id": 381,
     "nombre": "Cable de Extensión",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue La Batería , 9 Voltios y Batería de Coche en tu Colección .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3431,7 +3431,7 @@
   {
     "id": 382,
     "nombre": "Piedra Plana",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Consigue Pegamento Elástico 5 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3440,7 +3440,7 @@
   {
     "id": 383,
     "nombre": "Altar de Sacrificio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Realiza 50 pactos con el diablo .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3449,7 +3449,7 @@
   {
     "id": 384,
     "nombre": "Mini-Vómitos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Muere por tu propia explosión de Ipecac , Cabeza Podrida de Bob o ¡Puaj! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3458,7 +3458,7 @@
   {
     "id": 385,
     "nombre": "Manto",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Duerme en 10 camas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3467,7 +3467,7 @@
   {
     "id": 386,
     "nombre": "Canicas",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Usa 5 píldoras de ¡Gulp! en una partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3476,7 +3476,7 @@
   {
     "id": 387,
     "nombre": "Huevo Misterioso",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Ten 3 monstruos aliados en una misma habitación.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3485,7 +3485,7 @@
   {
     "id": 388,
     "nombre": "Moneda Podrida",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Ten 20 moscas azules a la vez.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3494,7 +3494,7 @@
   {
     "id": 389,
     "nombre": "Bebé Doblador",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Usa I - El Mago o Telepatía para Tontos mientras ya tienes un efecto de lágrimas teledirigidas.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3503,7 +3503,7 @@
   {
     "id": 390,
     "nombre": "El Olvidado",
-    "descripcion": "Nuevo personaje desbloqueado.",
+    "descripcion": "Es complicado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3512,7 +3512,7 @@
   {
     "id": 391,
     "nombre": "Corazón de Hueso",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Es complicado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3521,7 +3521,7 @@
   {
     "id": 392,
     "nombre": "Médula",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Corazón de Mamá o ¡Está Vivo! en modo difícil como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3530,7 +3530,7 @@
   {
     "id": 393,
     "nombre": "Costilla Deslizante",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Isaac como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3539,7 +3539,7 @@
   {
     "id": 394,
     "nombre": "Costilla con Punta",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Satán como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3548,7 +3548,7 @@
   {
     "id": 395,
     "nombre": "Hueso de Mandíbula",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a ??? como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3557,7 +3557,7 @@
   {
     "id": 396,
     "nombre": "Huesos Frágiles",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a El Cordero como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3566,7 +3566,7 @@
   {
     "id": 397,
     "nombre": "Papeles de Divorcio",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Completa la Boss Rush como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3575,7 +3575,7 @@
   {
     "id": 398,
     "nombre": "Suelo Santificado",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Silencio... como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3584,7 +3584,7 @@
   {
     "id": 399,
     "nombre": "Hueso del Dedo",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Ultra Codicia como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3593,7 +3593,7 @@
   {
     "id": 400,
     "nombre": "Anillo de Papá",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3602,7 +3602,7 @@
   {
     "id": 401,
     "nombre": "El Libro de los Muertos",
-    "descripcion": "Nuevo objeto desbloqueado.",
+    "descripcion": "Derrota a Delirio como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3611,7 +3611,7 @@
   {
     "id": 402,
     "nombre": "Bebé Huesos",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Consigue todas las marcas en modo difícil como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3620,7 +3620,7 @@
   {
     "id": 403,
     "nombre": "Bebé Atado",
-    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "descripcion": "Derrota a Mega Satán como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3629,7 +3629,7 @@
   {
     "id": 404,
     "nombre": "Bethany",
-    "descripcion": "Supera modo difícil como Lázaro sin perder una vida.",
+    "descripcion": "Derrota a Corazón de Mamá o ¡Está Vivo! en modo difícil como Lazarus sin morir.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3638,7 +3638,7 @@
   {
     "id": 405,
     "nombre": "Jacob & Esaú",
-    "descripcion": "Eres igual a tu padre...",
+    "descripcion": "Derrota a Madre .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3647,7 +3647,7 @@
   {
     "id": 406,
     "nombre": "El Planetario",
-    "descripcion": "Los niños no deberían creer en las fortunas...",
+    "descripcion": "Consigue 3 objetos con la etiqueta de \"Estrellas\" .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3656,7 +3656,7 @@
   {
     "id": 407,
     "nombre": "Una Salida Secreta",
-    "descripcion": "Completa ??? tres veces.",
+    "descripcion": "Derrota a Silencio... 3 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3665,7 +3665,7 @@
   {
     "id": 408,
     "nombre": "Canción de Cuna Olvidada",
-    "descripcion": "Saca esa canción de su cabeza.",
+    "descripcion": "Explota el cráneo de La Sirena tras derrotarla.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3674,7 +3674,7 @@
   {
     "id": 409,
     "nombre": "Ciruela Frutal",
-    "descripcion": "Derrota a ciruelita 10 veces.",
+    "descripcion": "Derrota a Ciruelita 10 veces.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3683,7 +3683,7 @@
   {
     "id": 410,
     "nombre": "Flauta Ciruela",
-    "descripcion": "¡Haz una nueva amiga!",
+    "descripcion": "Deja que Ciruelita escape en lugar de derrotarla.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3692,7 +3692,7 @@
   {
     "id": 411,
     "nombre": "Corazón Podrido",
-    "descripcion": "Entra en el cadáver.",
+    "descripcion": "Entra a el Cadáver por primera vez.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3701,7 +3701,7 @@
   {
     "id": 412,
     "nombre": "Desechos",
-    "descripcion": "Derrota a todos los jefe en aguacero.",
+    "descripcion": "Derrota a todos los jefes de Aguacero .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3710,7 +3710,7 @@
   {
     "id": 413,
     "nombre": "Foso de Cenizas",
-    "descripcion": "Derrota a todos los jefe en las minas.",
+    "descripcion": "Derrota a todos los jefes de Minas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3719,7 +3719,7 @@
   {
     "id": 414,
     "nombre": "Gehena",
-    "descripcion": "Derrota a todos los jefes en el mausoleo.",
+    "descripcion": "Derrota a todos los jefes de Mausoleo .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3728,7 +3728,7 @@
   {
     "id": 415,
     "nombre": "La Llave Roja",
-    "descripcion": "El otro lado está llamando...",
+    "descripcion": "Abre el cofre de mamá en Casa .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3737,7 +3737,7 @@
   {
     "id": 416,
     "nombre": "Bebé Llameante",
-    "descripcion": "Súpera el juego en modo difícil con Bethany.",
+    "descripcion": "Derrota a Corazón de Mamá o ¡Está Vivo! en modo difícil como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3746,7 +3746,7 @@
   {
     "id": 417,
     "nombre": "Libro de Virtudes",
-    "descripcion": "Completa la Catedral con Bethany.",
+    "descripcion": "Derrota a Isaac como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3755,7 +3755,7 @@
   {
     "id": 418,
     "nombre": "Urna de Almas",
-    "descripcion": "Completa Sheol con Bethany.",
+    "descripcion": "Derrota a Satán como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3764,7 +3764,7 @@
   {
     "id": 419,
     "nombre": "Moneda Bendecida",
-    "descripcion": "Completa el Cofre con Bethany.",
+    "descripcion": "Derrota a ??? como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3773,7 +3773,7 @@
   {
     "id": 420,
     "nombre": "Caja de Alabastro",
-    "descripcion": "Completa el Cuarto Oscuro con Bethany.",
+    "descripcion": "Derrota al Cordero como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3782,7 +3782,7 @@
   {
     "id": 421,
     "nombre": "Fe de Beth",
-    "descripcion": "Completa Boss Rush con Bethany.",
+    "descripcion": "Completa la Boss Rush como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3791,7 +3791,7 @@
   {
     "id": 422,
     "nombre": "Medallón de Alma",
-    "descripcion": "Supera modo Codicia con Bethany.",
+    "descripcion": "Derrota a Ultra Codicia como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3800,7 +3800,7 @@
   {
     "id": 423,
     "nombre": "Intervención Divina",
-    "descripcion": "Completa ??? con Bethany.",
+    "descripcion": "Derrota a Silencio... como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3809,7 +3809,7 @@
   {
     "id": 424,
     "nombre": "Vade Retro",
-    "descripcion": "Supera modo Codicioso con Bethany.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3818,7 +3818,7 @@
   {
     "id": 425,
     "nombre": "Estrella de Belén",
-    "descripcion": "Supera el Vacío con Bethany.",
+    "descripcion": "Derrota a Delirio como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3827,7 +3827,7 @@
   {
     "id": 426,
     "nombre": "Bebé Esperanza",
-    "descripcion": "Supera todo en modo difícil con Bethany.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3836,7 +3836,7 @@
   {
     "id": 427,
     "nombre": "Bebé Brillante",
-    "descripcion": "Derrota a Mega Satán con Bethany.",
+    "descripcion": "Derrota a Mega Satán como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3845,7 +3845,7 @@
   {
     "id": 428,
     "nombre": "Bebé Doble",
-    "descripcion": "Completa el juego en modo difícil con Jacob & Esaú.",
+    "descripcion": "Derrota a Corazón de Mamá o ¡Está Vivo! como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3854,7 +3854,7 @@
   {
     "id": 429,
     "nombre": "La Escalerilla",
-    "descripcion": "Completa la Catedral con Jacob & Esaú.",
+    "descripcion": "Derrota a Isaac como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3863,7 +3863,7 @@
   {
     "id": 430,
     "nombre": "Guisado Rojo",
-    "descripcion": "Completa Sheol con Jacob & Esaú.",
+    "descripcion": "Derrota a Satán como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3872,7 +3872,7 @@
   {
     "id": 431,
     "nombre": "Primogenitura",
-    "descripcion": "Completa el Cofre con Jacob & Esaú.",
+    "descripcion": "Derrota a ??? como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3881,7 +3881,7 @@
   {
     "id": 432,
     "nombre": "Damocles",
-    "descripcion": "Completa el Cuarto Oscuro con Jacon & Esaú.",
+    "descripcion": "Derrota al Cordero como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3890,7 +3890,7 @@
   {
     "id": 433,
     "nombre": "Fondo Rocoso",
-    "descripcion": "Completa Boss Rush con Jacob & Esaú.",
+    "descripcion": "Completa la Boss Rush como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3899,7 +3899,7 @@
   {
     "id": 434,
     "nombre": "Niño Interior",
-    "descripcion": "Supera modo Codicia con Jacob & Esaú.",
+    "descripcion": "Derrota a Ultra Codicia como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3908,7 +3908,7 @@
   {
     "id": 435,
     "nombre": "Gemelo Desvaneciente",
-    "descripcion": "Completa ??? con Jacob & Esaú.",
+    "descripcion": "Derrota a Silencio... como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3917,7 +3917,7 @@
   {
     "id": 436,
     "nombre": "Génesis",
-    "descripcion": "Supera modo Codicioso con Jacob & Esaú.",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3926,7 +3926,7 @@
   {
     "id": 437,
     "nombre": "¡Suplex!",
-    "descripcion": "Completa el Vacío con Jacob & Esaú.",
+    "descripcion": "Derrota a Delirio como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3935,7 +3935,7 @@
   {
     "id": 438,
     "nombre": "Bebé de Salomón",
-    "descripcion": "Supera todo en modo difícil con Jacob & Esaú.",
+    "descripcion": "Consigue todas las marcas en modo difícil como Jacob y Esau .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3944,7 +3944,7 @@
   {
     "id": 439,
     "nombre": "Bebé Ilusorio",
-    "descripcion": "Derrota a Mega Satán con Jacob & Esaú.",
+    "descripcion": "Derrota a Mega Satán como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3953,7 +3953,7 @@
   {
     "id": 440,
     "nombre": "Cuchillo de Carnicero",
-    "descripcion": "Completa el Cadáver con Isaac.",
+    "descripcion": "Derrota a Madre como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3962,7 +3962,7 @@
   {
     "id": 441,
     "nombre": "¿Opciones?",
-    "descripcion": "Completa el capítulo final con Isaac.",
+    "descripcion": "Derrota a La Bestia como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3971,7 +3971,7 @@
   {
     "id": 442,
     "nombre": "Corazón Asqueroso",
-    "descripcion": "Completa el Cadáver con Magdalena.",
+    "descripcion": "Derrota a Madre como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3980,7 +3980,7 @@
   {
     "id": 443,
     "nombre": "Dulce de Corazón",
-    "descripcion": "Completa el capítulo final con Magdalena.",
+    "descripcion": "Derrota a La Bestia como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3989,7 +3989,7 @@
   {
     "id": 444,
     "nombre": "Ojo de Guppy",
-    "descripcion": "Completa el Cadáver con Caín.",
+    "descripcion": "Derrota a Madre como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -3998,7 +3998,7 @@
   {
     "id": 445,
     "nombre": "Una Libra de Carne",
-    "descripcion": "Completa el capítulo final con Caín.",
+    "descripcion": "Derrota a La Bestia como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4007,7 +4007,7 @@
   {
     "id": 446,
     "nombre": "Aceldama",
-    "descripcion": "Completa el Cadáver con Judas.",
+    "descripcion": "Derrota a Madre como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4016,7 +4016,7 @@
   {
     "id": 447,
     "nombre": "Redención",
-    "descripcion": "Completa el capítulo final con Judas.",
+    "descripcion": "Derrota a La Bestia como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4025,7 +4025,7 @@
   {
     "id": 448,
     "nombre": "D6 Eterno",
-    "descripcion": "Completa el Cadáver con ???.",
+    "descripcion": "Derrota a Madre como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4034,7 +4034,7 @@
   {
     "id": 449,
     "nombre": "Venganza de Moctezuma",
-    "descripcion": "Completa el capítulo final con ???.",
+    "descripcion": "Derrota a La Bestia como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4043,7 +4043,7 @@
   {
     "id": 450,
     "nombre": "Pecho de Ave",
-    "descripcion": "Completa el Cadáver con Eva.",
+    "descripcion": "Derrota a Madre como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4052,7 +4052,7 @@
   {
     "id": 451,
     "nombre": "Orbe Roto",
-    "descripcion": "Completa el capítulo final con Eva.",
+    "descripcion": "Derrota a La Bestia como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4061,7 +4061,7 @@
   {
     "id": 452,
     "nombre": "Ventarrón Sangriento",
-    "descripcion": "Completa el Cadáver con Sansón.",
+    "descripcion": "Derrota a Madre como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4070,7 +4070,7 @@
   {
     "id": 453,
     "nombre": "Corazón Vacío",
-    "descripcion": "Completa el capítulo final con Sansón.",
+    "descripcion": "Derrota a La Bestia como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4079,7 +4079,7 @@
   {
     "id": 454,
     "nombre": "Corona del Diablo",
-    "descripcion": "Completa el Cadáver con Azazel.",
+    "descripcion": "Derrota a Madre como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4088,7 +4088,7 @@
   {
     "id": 455,
     "nombre": "Mini-Abaddón",
-    "descripcion": "Completa el capítulo final con Azazel.",
+    "descripcion": "Derrota a La Bestia como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4097,7 +4097,7 @@
   {
     "id": 456,
     "nombre": "Mini-Toma",
-    "descripcion": "Completa el Cadáver con Lázaro.",
+    "descripcion": "Derrota a Madre como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4106,7 +4106,7 @@
   {
     "id": 457,
     "nombre": "Proyección Astral",
-    "descripcion": "Completa el capítulo final con Lázaro.",
+    "descripcion": "Derrota a La Bestia como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4115,7 +4115,7 @@
   {
     "id": 458,
     "nombre": "'M",
-    "descripcion": "Completa el Cadáver con Edén.",
+    "descripcion": "Derrota a Madre como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4124,7 +4124,7 @@
   {
     "id": 459,
     "nombre": "Jarra para Todo",
-    "descripcion": "Completa el capítulo final con Edén.",
+    "descripcion": "Derrota a La Bestia como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4133,7 +4133,7 @@
   {
     "id": 460,
     "nombre": "Alma Perdida",
-    "descripcion": "Completa el Cadáver con el Perdido.",
+    "descripcion": "Derrota a Madre como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4142,7 +4142,7 @@
   {
     "id": 461,
     "nombre": "Alma Hambrienta",
-    "descripcion": "Completa el capítulo final con el Perdido.",
+    "descripcion": "Derrota a La Bestia como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4151,7 +4151,7 @@
   {
     "id": 462,
     "nombre": "Cachorro de Sangre",
-    "descripcion": "Completa el Cadáver con Lilith.",
+    "descripcion": "Derrota a Madre como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4160,7 +4160,7 @@
   {
     "id": 463,
     "nombre": "Cesárea",
-    "descripcion": "Completa el capítulo final con Lilith.",
+    "descripcion": "Derrota a La Bestia como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4169,7 +4169,7 @@
   {
     "id": 464,
     "nombre": "Bolsa de Keeper",
-    "descripcion": "Completa el Cadáver con Keeper.",
+    "descripcion": "Derrota a Madre como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4178,7 +4178,7 @@
   {
     "id": 465,
     "nombre": "Caja de Keeper",
-    "descripcion": "Completa el capítulo final con Keeper.",
+    "descripcion": "Derrota a La Bestia como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4187,7 +4187,7 @@
   {
     "id": 466,
     "nombre": "Mini-Portal",
-    "descripcion": "Completa el Cadáver con Apolión.",
+    "descripcion": "Derrota a Madre como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4196,7 +4196,7 @@
   {
     "id": 467,
     "nombre": "Gusano Amigo",
-    "descripcion": "Completa el capítulo final con Apolión.",
+    "descripcion": "Derrota a La Bestia como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4205,7 +4205,7 @@
   {
     "id": 468,
     "nombre": "Espuelas de Hueso",
-    "descripcion": "Completa el Cadáver con El Olvidado.",
+    "descripcion": "Derrota a Madre como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4214,7 +4214,7 @@
   {
     "id": 469,
     "nombre": "Grilletes Espirituales",
-    "descripcion": "Completa el capítulo final con El Olvidado.",
+    "descripcion": "Derrota a La Bestia como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4223,7 +4223,7 @@
   {
     "id": 470,
     "nombre": "Revelación",
-    "descripcion": "Completa el Cadáver con Bethany.",
+    "descripcion": "Derrota a Madre como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4232,7 +4232,7 @@
   {
     "id": 471,
     "nombre": "Jarro de Fuegos Fatuos",
-    "descripcion": "Completa el Cadáver con Bethany.",
+    "descripcion": "Derrota a La Bestia como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4241,7 +4241,7 @@
   {
     "id": 472,
     "nombre": "Piel Mágica",
-    "descripcion": "Completa el Cadáver con Jacob & Esaú.",
+    "descripcion": "Derrota a Madre como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4250,7 +4250,7 @@
   {
     "id": 473,
     "nombre": "Buscador de Amigos",
-    "descripcion": "Completa el capítulo final con Jacob & Esaú.",
+    "descripcion": "Derrota a La Bestia como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4259,7 +4259,7 @@
   {
     "id": 474,
     "nombre": "El Roto",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4268,7 +4268,7 @@
   {
     "id": 475,
     "nombre": "La Intrépida",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Magdalena .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4277,7 +4277,7 @@
   {
     "id": 476,
     "nombre": "El Acaparador",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Caín .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4286,7 +4286,7 @@
   {
     "id": 477,
     "nombre": "El Mentiroso",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Judas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4295,7 +4295,7 @@
   {
     "id": 478,
     "nombre": "El Sucio",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como ??? .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4304,7 +4304,7 @@
   {
     "id": 479,
     "nombre": "La Cortada",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Eva .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4313,7 +4313,7 @@
   {
     "id": 480,
     "nombre": "El Feroz",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Sansón .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4322,7 +4322,7 @@
   {
     "id": 481,
     "nombre": "El Ignorante",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Azazel .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4331,7 +4331,7 @@
   {
     "id": 482,
     "nombre": "El Enigma",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Lázaro .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4340,7 +4340,7 @@
   {
     "id": 483,
     "nombre": "El Caprichoso",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Edén .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4349,7 +4349,7 @@
   {
     "id": 484,
     "nombre": "El Funesto",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como El Perdido .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4358,7 +4358,7 @@
   {
     "id": 485,
     "nombre": "La Puta",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Lilith .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4367,7 +4367,7 @@
   {
     "id": 486,
     "nombre": "El Tacaño",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Keeper .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4376,7 +4376,7 @@
   {
     "id": 487,
     "nombre": "El Vacío",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Apolión .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4385,7 +4385,7 @@
   {
     "id": 488,
     "nombre": "El Encadenado",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como El Olvidado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4394,7 +4394,7 @@
   {
     "id": 489,
     "nombre": "La Fanática",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Bethany .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4403,7 +4403,7 @@
   {
     "id": 490,
     "nombre": "El Desertor",
-    "descripcion": "???",
+    "descripcion": "Usa la Llave Roja o Llave Rota en Casa como Jacob & Esaú .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4412,7 +4412,7 @@
   {
     "id": 491,
     "nombre": "Corona con Falla",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Isaac Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4421,7 +4421,7 @@
   {
     "id": 492,
     "nombre": "Belly Jelly",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Magdalena Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4430,7 +4430,7 @@
   {
     "id": 493,
     "nombre": "Llave Azul",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Caín Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4439,7 +4439,7 @@
   {
     "id": 494,
     "nombre": "Vínculo de Sangre",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Judas Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4448,7 +4448,7 @@
   {
     "id": 495,
     "nombre": "El Enjambre",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como ??? Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4457,7 +4457,7 @@
   {
     "id": 496,
     "nombre": "Corazón Roto",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Eva Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4466,7 +4466,7 @@
   {
     "id": 497,
     "nombre": "Laringe",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Sansón Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4475,7 +4475,7 @@
   {
     "id": 498,
     "nombre": "Furia de Azazel",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Azazel Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4484,7 +4484,7 @@
   {
     "id": 499,
     "nombre": "Salvación",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Lázaro Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4493,7 +4493,7 @@
   {
     "id": 500,
     "nombre": "TMTRAINER",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Edén Corrupte .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4502,7 +4502,7 @@
   {
     "id": 501,
     "nombre": "Orbe Sagrado",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como El Perdido Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4511,7 +4511,7 @@
   {
     "id": 502,
     "nombre": "Dúo Retorcido",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Lilith Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4520,7 +4520,7 @@
   {
     "id": 503,
     "nombre": "Hombre de Trapo",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Keeper Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4529,7 +4529,7 @@
   {
     "id": 504,
     "nombre": "Cámara de Ecos",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Apolión Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4538,7 +4538,7 @@
   {
     "id": 505,
     "nombre": "Tumba de Isaac",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como El Olvidado Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4547,7 +4547,7 @@
   {
     "id": 506,
     "nombre": "Espiritu Vengativo",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Bethany Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4556,7 +4556,7 @@
   {
     "id": 507,
     "nombre": "Esaú Jr.",
-    "descripcion": "???",
+    "descripcion": "Derrota a La Bestia como Jacob Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4565,7 +4565,7 @@
   {
     "id": 508,
     "nombre": "María la Sangrienta",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Desbloquea a Bethany , Bolsa de Sangre y ¡Está Vivo!",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4574,7 +4574,7 @@
   {
     "id": 509,
     "nombre": "Bautismo por Fuego",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Derrota a Satán como Bethany , derrota a Corazón de Mamá 11 veces y desbloqua La Fe de Maggy .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4583,7 +4583,7 @@
   {
     "id": 510,
     "nombre": "El Despertar de Isaac",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Derrota a Madre .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4592,7 +4592,7 @@
   {
     "id": 511,
     "nombre": "Viendo Doble",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Derrota a Madre .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4601,7 +4601,7 @@
   {
     "id": 512,
     "nombre": "Partida con Pica",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Derrota a Corazón de Mamá 11 veces y desbloquea Canicas .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4610,7 +4610,7 @@
   {
     "id": 513,
     "nombre": "Papa Caliente",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Desbloquea Al Olvidado Contaminado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4619,7 +4619,7 @@
   {
     "id": 514,
     "nombre": "¡Cantrip!",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Desbloquea a Caín Contaminado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4628,7 +4628,7 @@
   {
     "id": 515,
     "nombre": "Redención Roja",
-    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "descripcion": "Desbloquea a Jacob Contaminado .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4637,7 +4637,7 @@
   {
     "id": 516,
     "nombre": "DELETE THIS",
-    "descripcion": "TODO: delete this achievement.",
+    "descripcion": "Desbloquea a Edén Contaminade .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4646,7 +4646,7 @@
   {
     "id": 517,
     "nombre": "Mente Sucia",
-    "descripcion": "Completa el desafío #36.",
+    "descripcion": "Completa el desafío #36: El Sucio .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4655,7 +4655,7 @@
   {
     "id": 518,
     "nombre": "Sello de Baphomet",
-    "descripcion": "Completa el desafío #37.",
+    "descripcion": "Completa el desafío #37: María la Sangrienta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4664,7 +4664,7 @@
   {
     "id": 519,
     "nombre": "Purgatorio",
-    "descripcion": "Completa el desafío #38.",
+    "descripcion": "Completa el desafío #38: Bautismo por Fuego .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4673,7 +4673,7 @@
   {
     "id": 520,
     "nombre": "Espada Espiritual",
-    "descripcion": "Completa el desafío #39.",
+    "descripcion": "Completa el desafío #39: El Despertar de Isaac .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4682,7 +4682,7 @@
   {
     "id": 521,
     "nombre": "Lentes Rotos",
-    "descripcion": "Completa el desafío #40.",
+    "descripcion": "Completa el desafío #40: Viendo Doble .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4691,7 +4691,7 @@
   {
     "id": 522,
     "nombre": "Cubo de Hielo",
-    "descripcion": "Completa el desafío #41.",
+    "descripcion": "Completa el desafío #41: Partida con Pica .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4700,7 +4700,7 @@
   {
     "id": 523,
     "nombre": "Moneda Recargada",
-    "descripcion": "Te recargaran...\nPor un pequeño costo.",
+    "descripcion": "Dona a un Vago de Baterías 5 veces hasta que entregue un objeto.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4709,7 +4709,7 @@
   {
     "id": 524,
     "nombre": "El Bufón",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como El Perdido Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4718,7 +4718,7 @@
   {
     "id": 525,
     "nombre": "El Mago",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Judas Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4727,7 +4727,7 @@
   {
     "id": 526,
     "nombre": "La Gran Sacerdotisa",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Lilith Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4736,7 +4736,7 @@
   {
     "id": 527,
     "nombre": "La Emperatriz",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Eva Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4745,7 +4745,7 @@
   {
     "id": 528,
     "nombre": "El Emperador",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como ??? Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4754,7 +4754,7 @@
   {
     "id": 529,
     "nombre": "El Sumo Sacerdote",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Bethany Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4763,7 +4763,7 @@
   {
     "id": 530,
     "nombre": "Los Enamorados",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Magdalena Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4772,7 +4772,7 @@
   {
     "id": 531,
     "nombre": "El Carruaje",
-    "descripcion": "Completa el desafío #42",
+    "descripcion": "Completa el desafío #42: Papa Caliente .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4781,7 +4781,7 @@
   {
     "id": 532,
     "nombre": "Justicia",
-    "descripcion": "Completa el desafío #43",
+    "descripcion": "Completa el desafío #43: ¡Cantrip! .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4790,7 +4790,7 @@
   {
     "id": 533,
     "nombre": "El Hermitaño",
-    "descripcion": "Completa el desafío #44",
+    "descripcion": "Completa el desafío #44: Redención Roja .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4799,7 +4799,7 @@
   {
     "id": 534,
     "nombre": "La Rueda de la Fortuna",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Caín Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4808,7 +4808,7 @@
   {
     "id": 535,
     "nombre": "Fuerza",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Sansón Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4817,7 +4817,7 @@
   {
     "id": 536,
     "nombre": "El Colgado",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Keeper Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4826,7 +4826,7 @@
   {
     "id": 537,
     "nombre": "Muerte",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como El Olvidado Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4835,7 +4835,7 @@
   {
     "id": 538,
     "nombre": "Templanza",
-    "descripcion": "INVALID_DESCRIPTION",
+    "descripcion": "Completa el desafío #45: DELETE THIS .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4844,7 +4844,7 @@
   {
     "id": 539,
     "nombre": "El Diablo",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Azazel Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4853,7 +4853,7 @@
   {
     "id": 540,
     "nombre": "La Torre",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Apolión Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4862,7 +4862,7 @@
   {
     "id": 541,
     "nombre": "Las Estrellas",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Isaac Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4871,7 +4871,7 @@
   {
     "id": 542,
     "nombre": "El Sol y La Luna",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Jacob Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4880,7 +4880,7 @@
   {
     "id": 543,
     "nombre": "El Juicio",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Lázaro Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4889,7 +4889,7 @@
   {
     "id": 544,
     "nombre": "El Mundo",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Ultra-Codicia como Edén Corrupte .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4898,7 +4898,7 @@
   {
     "id": 545,
     "nombre": "Condensador Viejo",
-    "descripcion": "Mata 10 mendigos de baterías",
+    "descripcion": "Mata a 10 mendigos de baterías .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4907,7 +4907,7 @@
   {
     "id": 546,
     "nombre": "Bombas de Azufre",
-    "descripcion": "¡Mata a Corneante antes de que escape!",
+    "descripcion": "Mata a Corneante antes de que pueda escapar después de romper su carro de mina.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4916,7 +4916,7 @@
   {
     "id": 547,
     "nombre": "Mega Hongo",
-    "descripcion": "Supera todo en modo difícil con todos los personajes",
+    "descripcion": "Supera todo en modo difícil con todos los personajes no corruptos.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4925,7 +4925,7 @@
   {
     "id": 548,
     "nombre": "Mechón de Mamá",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Isaac Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4934,7 +4934,7 @@
   {
     "id": 549,
     "nombre": "Bolsa de Dados",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Isaac Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4943,7 +4943,7 @@
   {
     "id": 550,
     "nombre": "Corona Sagrada",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Magdalena Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4952,7 +4952,7 @@
   {
     "id": 551,
     "nombre": "Beso de Mamá",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Magdalena Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4961,7 +4961,7 @@
   {
     "id": 552,
     "nombre": "Llave Dorada",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Caín Corrupto",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4970,7 +4970,7 @@
   {
     "id": 553,
     "nombre": "Bolsa de la Suerte",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Caín Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4979,7 +4979,7 @@
   {
     "id": 554,
     "nombre": "Tu Alma",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Judas Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4988,7 +4988,7 @@
   {
     "id": 555,
     "nombre": "Número Magnético",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Judas Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -4997,7 +4997,7 @@
   {
     "id": 556,
     "nombre": "Pedacito de Popó",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como ??? Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5006,7 +5006,7 @@
   {
     "id": 557,
     "nombre": "Fulminantes",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como ??? Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5015,7 +5015,7 @@
   {
     "id": 558,
     "nombre": "Llave Extraña",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Eva Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5024,7 +5024,7 @@
   {
     "id": 559,
     "nombre": "Mini-Coágulo",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Eva Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5033,7 +5033,7 @@
   {
     "id": 560,
     "nombre": "Tatuaje Temporal",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Sansón Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5042,7 +5042,7 @@
   {
     "id": 561,
     "nombre": "M80 Tragado",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Sansón Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5051,7 +5051,7 @@
   {
     "id": 562,
     "nombre": "Corona Maldita",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Azazel Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5060,7 +5060,7 @@
   {
     "id": 563,
     "nombre": "Muñon de Azazel",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Azazel Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5069,7 +5069,7 @@
   {
     "id": 564,
     "nombre": "Bolsillo Roto",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Lázaro Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5078,7 +5078,7 @@
   {
     "id": 565,
     "nombre": "Carta Rota",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Lázaro Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5087,7 +5087,7 @@
   {
     "id": 566,
     "nombre": "¡Nah!",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Edén Corrupte .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5096,7 +5096,7 @@
   {
     "id": 567,
     "nombre": "Arcilla de Modelar",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Edén Corrupte .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5105,7 +5105,7 @@
   {
     "id": 568,
     "nombre": "Dibujo de Niño",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como El Perdido Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5114,7 +5114,7 @@
   {
     "id": 569,
     "nombre": "Llave de Cristal",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como El Perdido Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5123,7 +5123,7 @@
   {
     "id": 570,
     "nombre": "Los Gemelos",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Lilith Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5132,7 +5132,7 @@
   {
     "id": 571,
     "nombre": "Papeles de Adopción",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Lilith Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5141,7 +5141,7 @@
   {
     "id": 572,
     "nombre": "Regateo de Keeper",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Keeper Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5150,7 +5150,7 @@
   {
     "id": 573,
     "nombre": "Moneda Maldita",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Keeper Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5159,7 +5159,7 @@
   {
     "id": 574,
     "nombre": "Pata de Grillo",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Apolión Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5168,7 +5168,7 @@
   {
     "id": 575,
     "nombre": "Mejor Amigo de Apolión",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Apolión Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5177,7 +5177,7 @@
   {
     "id": 576,
     "nombre": "Hueso Pulido",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como El Olvidado Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5186,7 +5186,7 @@
   {
     "id": 577,
     "nombre": "Corazón Hueco",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como El Olvidado Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5195,7 +5195,7 @@
   {
     "id": 578,
     "nombre": "Paquete de Expansión",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Bethany Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5204,7 +5204,7 @@
   {
     "id": 579,
     "nombre": "Esencia de Beth",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Bethany Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5213,7 +5213,7 @@
   {
     "id": 580,
     "nombre": "RC Remoto",
-    "descripcion": "???",
+    "descripcion": "Derrota a Isaac , ??? , Satán y El Cordero como Jacob Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5222,7 +5222,7 @@
   {
     "id": 581,
     "nombre": "Alma Encontrada",
-    "descripcion": "???",
+    "descripcion": "Derrota a Madre como Jacob Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5231,7 +5231,7 @@
   {
     "id": 582,
     "nombre": "Tarjeta de Miembro",
-    "descripcion": "Gasta 40+ monedas en una misma tienda",
+    "descripcion": "Gasta 40 monedas o más en una misma tienda .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5240,7 +5240,7 @@
   {
     "id": 583,
     "nombre": "Hoja Dorada",
-    "descripcion": "Consigue 99 monedas y después gasta cada una",
+    "descripcion": "Consigue 99 monedas, y después gástalas todas en una misma partida.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5249,7 +5249,7 @@
   {
     "id": 584,
     "nombre": "Dado Reductor",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Isaac Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5258,7 +5258,7 @@
   {
     "id": 585,
     "nombre": "Hipercoagulación",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Magdalena Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5267,7 +5267,7 @@
   {
     "id": 586,
     "nombre": "Bolsa de Crafteo",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Caín Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5276,7 +5276,7 @@
   {
     "id": 587,
     "nombre": "Artes Oscuras",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Judas Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5285,7 +5285,7 @@
   {
     "id": 588,
     "nombre": "IBS",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como ??? Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5294,7 +5294,7 @@
   {
     "id": 589,
     "nombre": "Sumptorium",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Eva Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5303,7 +5303,7 @@
   {
     "id": 590,
     "nombre": "¡Berserk!",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Sansón Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5312,7 +5312,7 @@
   {
     "id": 591,
     "nombre": "Hemoptisis",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Azazel Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5321,7 +5321,7 @@
   {
     "id": 592,
     "nombre": "Cambio",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Lázaro Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5330,7 +5330,7 @@
   {
     "id": 593,
     "nombre": "Corrupted Data",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Edén Corrupte .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5339,7 +5339,7 @@
   {
     "id": 594,
     "nombre": "Bombas Fantasmas",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como El Perdido Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5348,7 +5348,7 @@
   {
     "id": 595,
     "nombre": "Gello",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Lilith Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5357,7 +5357,7 @@
   {
     "id": 596,
     "nombre": "Parientes de Keeper",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Keeper Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5366,7 +5366,7 @@
   {
     "id": 597,
     "nombre": "Abismo",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Apolión Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5375,7 +5375,7 @@
   {
     "id": 598,
     "nombre": "Ataque Decapitado",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como El Olvidado Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5384,7 +5384,7 @@
   {
     "id": 599,
     "nombre": "Lemegeton",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Bethany Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5393,7 +5393,7 @@
   {
     "id": 600,
     "nombre": "Anima Sola",
-    "descripcion": "???",
+    "descripcion": "Derrota a Delirio como Jacob Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5402,7 +5402,7 @@
   {
     "id": 601,
     "nombre": "Mega Cofre",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Isaac Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5411,7 +5411,7 @@
   {
     "id": 602,
     "nombre": "Reina de Corazones",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Magdalena Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5420,7 +5420,7 @@
   {
     "id": 603,
     "nombre": "Píldora Dorada",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Caín Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5429,7 +5429,7 @@
   {
     "id": 604,
     "nombre": "Bolsa Negra",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Judas Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5438,7 +5438,7 @@
   {
     "id": 605,
     "nombre": "Popó Encantadora",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como ??? Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5447,7 +5447,7 @@
   {
     "id": 606,
     "nombre": "Píldora de Caballo",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Eva Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5456,7 +5456,7 @@
   {
     "id": 607,
     "nombre": "Maquina de Garra",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Sansón Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5465,7 +5465,7 @@
   {
     "id": 608,
     "nombre": "Juego Infernal",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Azazel Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5474,7 +5474,7 @@
   {
     "id": 609,
     "nombre": "Cofre de Madera",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Lázaro Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5483,7 +5483,7 @@
   {
     "id": 610,
     "nombre": "Comodín",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Edén Corrupte .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5492,7 +5492,7 @@
   {
     "id": 611,
     "nombre": "Cofre Encantado",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como El Perdido Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5501,7 +5501,7 @@
   {
     "id": 612,
     "nombre": "Oro de Tontos",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Lilith Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5510,7 +5510,7 @@
   {
     "id": 613,
     "nombre": "Moneda Dorada",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Keeper Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5519,7 +5519,7 @@
   {
     "id": 614,
     "nombre": "Pordiosero Podrido",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Apolión Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5528,7 +5528,7 @@
   {
     "id": 615,
     "nombre": "Batería Dorada",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como El Olvidado Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5537,7 +5537,7 @@
   {
     "id": 616,
     "nombre": "Confesional",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Bethany Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5546,7 +5546,7 @@
   {
     "id": 617,
     "nombre": "Baratija Dorada",
-    "descripcion": "???",
+    "descripcion": "Derrota a Mega Satán como Jacob Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5555,7 +5555,7 @@
   {
     "id": 618,
     "nombre": "Alma de Isaac",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Isaac Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5564,7 +5564,7 @@
   {
     "id": 619,
     "nombre": "Alma de Magdalena",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Magdalena Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5573,7 +5573,7 @@
   {
     "id": 620,
     "nombre": "Alma de Caín",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Caín Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5582,7 +5582,7 @@
   {
     "id": 621,
     "nombre": "Alma de Judas",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Judas Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5591,7 +5591,7 @@
   {
     "id": 622,
     "nombre": "Alma de ???",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como ??? Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5600,7 +5600,7 @@
   {
     "id": 623,
     "nombre": "Alma de Eva",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Eva Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5609,7 +5609,7 @@
   {
     "id": 624,
     "nombre": "Alma de Sansón",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Sansón Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5618,7 +5618,7 @@
   {
     "id": 625,
     "nombre": "Alma de Azazel",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Azazel Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5627,7 +5627,7 @@
   {
     "id": 626,
     "nombre": "Alma de Lázaro",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Lázaro Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5636,7 +5636,7 @@
   {
     "id": 627,
     "nombre": "Alma de Edén",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Edén Corrupte .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5645,7 +5645,7 @@
   {
     "id": 628,
     "nombre": "Alma del Perdido",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como El Perdido Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5654,7 +5654,7 @@
   {
     "id": 629,
     "nombre": "Alma de Lilith",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Lilith Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5663,7 +5663,7 @@
   {
     "id": 630,
     "nombre": "Alma de Keeper",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Keeper Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5672,7 +5672,7 @@
   {
     "id": 631,
     "nombre": "Alma de Apolión",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Apolión Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5681,7 +5681,7 @@
   {
     "id": 632,
     "nombre": "Alma del Olvidado",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como El Olvidado Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5690,7 +5690,7 @@
   {
     "id": 633,
     "nombre": "Alma de Bethany",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Bethany Corrupta .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5699,7 +5699,7 @@
   {
     "id": 634,
     "nombre": "Alma de Jacob & Esau",
-    "descripcion": "???",
+    "descripcion": "Supera la Boss Rush y derrota a Silencio... como Jacob Corrupto .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5708,7 +5708,7 @@
   {
     "id": 635,
     "nombre": "Una Puerta Extraña",
-    "descripcion": "A dónde podría conducir?",
+    "descripcion": "Derrota a Madre .",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5717,7 +5717,7 @@
   {
     "id": 636,
     "nombre": "Acta de Defunción",
-    "descripcion": "...",
+    "descripcion": "Consigue todas las marcas en modo difícil con todos los personajes, incluyendo las versiones corruptas.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5726,7 +5726,7 @@
   {
     "id": 637,
     "nombre": "Dios Muerto",
-    "descripcion": "",
+    "descripcion": "Consigue todos los logros y objetos del Juego.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5735,7 +5735,7 @@
   {
     "id": 638,
     "nombre": "Juega Online",
-    "descripcion": "Juega una partida online",
+    "descripcion": "Jugando una partida online.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5744,7 +5744,7 @@
   {
     "id": 639,
     "nombre": "Gana Online",
-    "descripcion": "Gana una partida online",
+    "descripcion": "Ganando una partida online.",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
@@ -5753,7 +5753,7 @@
   {
     "id": 640,
     "nombre": "Gana Online Diario",
-    "descripcion": "Gana una partida diaria online",
+    "descripcion": "Ganando una partida diaria online",
     "desbloqueado": false,
     "desbloquea_personaje_id": null,
     "desbloquea_objeto_id": null,
