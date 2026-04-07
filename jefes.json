@@ -1,0 +1,254 @@
+[
+{
+"id": 1,
+"nombre": "Monstro",
+"vida_base": 250,
+"descripcion": "Uno de los jefes más icónicos del Capítulo 1.",
+"comportamiento": "Salta hacia el jugador y escupe ráfagas de sangre de forma errática.",
+"notas": "Sus saltos grandes son una oportunidad para atacar mientras está en el aire.",
+"piso_id": 1
+},
+{
+"id": 2,
+"nombre": "Larry Jr.",
+"vida_base": 22,
+"descripcion": "Un jefe compuesto por múltiples segmentos de gusano.",
+"comportamiento": "Se mueve por la sala dejando caca y se divide si se golpea en los segmentos centrales.",
+"notas": "Cada segmento tiene su propia vida; las bombas son muy efectivas.",
+"piso_id": 1
+},
+{
+"id": 3,
+"nombre": "Chub",
+"vida_base": 250,
+"descripcion": "Un gusano gigante que carga contra el jugador.",
+"comportamiento": "Carga en línea recta e invoca pequeños gusanos (Chargers).",
+"notas": "Si se traga una bomba mientras carga, recibirá daño masivo y se detendrá.",
+"piso_id": 3
+},
+{
+"id": 4,
+"nombre": "Gurdy",
+"vida_base": 650,
+"descripcion": "Una masa de carne estática de gran tamaño.",
+"comportamiento": "Dispara ráfagas de lágrimas e invoca moscas o Boils.",
+"notas": "Al ser estático, es fácil de golpear con objetos de daño constante.",
+"piso_id": 5
+},
+{
+"id": 5,
+"nombre": "Monstro II",
+"vida_base": 600,
+"descripcion": "Una versión más oscura y poderosa de Monstro.",
+"comportamiento": "Dispara un láser de sangre (Brimstone) horizontal e invoca moscas al saltar.",
+"notas": "Siempre intenta alinearse horizontalmente para disparar su láser.",
+"piso_id": 5
+},
+{
+"id": 6,
+"nombre": "Mom",
+"vida_base": 645,
+"descripcion": "El primer gran obstáculo del juego, representando a la madre de Isaac.",
+"comportamiento": "Ataca pisando con su pie, usando sus manos desde las puertas o invocando enemigos básicos.",
+"piso_id": 6,
+"notas": "Es vulnerable a la Biblia, que la derrota instantáneamente."
+},
+{
+"id": 7,
+"nombre": "Mom's Heart",
+"vida_base": 950,
+"descripcion": "El corazón de la madre de Isaac, custodiado en el útero.",
+"comportamiento": "Dispara ráfagas de proyectiles en patrones circulares e invoca jefes de los primeros pisos.",
+"piso_id": 8,
+"notas": "Al ser derrotado 11 veces, es reemplazado permanentemente por 'It Lives'."
+},
+{
+"id": 8,
+"nombre": "Gemini",
+"vida_base": 140,
+"descripcion": "Dos bebés unidos por un cordón umbilical.",
+"comportamiento": "El hermano mayor persigue al jugador mientras el pequeño dispara desde lejos.",
+"piso_id": 1,
+"notas": "Si matas primero al grande, el pequeño se enfurece y carga rápido."
+},
+{
+"id": 9,
+"nombre": "The Fallen",
+"vida_base": 500,
+"descripcion": "Un ángel caído que aparece frecuentemente en salas del demonio.",
+"comportamiento": "Se divide en dos a mitad de vida y dispara ráfagas cuádruples de Brimstone.",
+"piso_id": 0,
+"notas": "Siempre suelta un objeto de la reserva del Diablo al morir."
+},
+{
+"id": 10,
+"nombre": "Famine",
+"vida_base": 240,
+"descripcion": "El primero de los cuatro jinetes del apocalipsis.",
+"comportamiento": "Carga horizontalmente e invoca moscas. En su segunda fase, su cabeza vuela y dispara.",
+"piso_id": 1,
+"notas": "Suelta un trozo de carne o una bola de vendajes."
+},
+{
+"id": 11,
+"nombre": "Gurdy Jr.",
+"vida_base": 250,
+"descripcion": "Una versión más pequeña y móvil de Gurdy.",
+"comportamiento": "Rebota a gran velocidad por la sala y dispara lágrimas en cruz.",
+"piso_id": 3,
+"notas": "Su patrón de rebote puede ser difícil de predecir."
+},
+{
+"id": 14,
+"nombre": "Duke of Flies",
+"vida_base": 110,
+"descripcion": "Un cadáver hinchado lleno de moscas.",
+"comportamiento": "Flota lentamente e invoca moscas de diferentes tipos para protegerse.",
+"piso_id": 1,
+"notas": "Es uno de los jefes más fáciles si tienes daño de área."
+},
+{
+"id": 15,
+"nombre": "Peep",
+"vida_base": 250,
+"descripcion": "Un ser gordo que orina y pierde sus ojos.",
+"comportamiento": "Salta sobre el jugador y deja charcos de orina. Sus ojos rebotan por la sala al perder vida.",
+"piso_id": 3,
+"notas": "Los ojos son invulnerables y son el mayor peligro de la pelea."
+},
+{
+"id": 16,
+"nombre": "Loki",
+"vida_base": 350,
+"descripcion": "Un demonio pequeño y juguetón.",
+"comportamiento": "Se teletransporta e invoca moscas explosivas. Dispara ráfagas en 8 direcciones.",
+"piso_id": 5,
+"notas": "Su versión 'Lokii' se divide en dos desde el inicio."
+},
+{
+"id": 21,
+"nombre": "Gish",
+"vida_base": 240,
+"descripcion": "Un jefe de alquitrán, pariente de Monstro.",
+"comportamiento": "Lanza proyectiles que ralentizan al jugador e invoca pequeños Clots.",
+"piso_id": 4,
+"notas": "Siempre suelta el objeto 'Little Gish'."
+},
+{
+"id": 22,
+"nombre": "Steven",
+"vida_base": 140,
+"descripcion": "Una versión alternativa de Gemini basada en el juego Time Fcuk.",
+"comportamiento": "Similar a Gemini pero más rápido y agresivo.",
+"piso_id": 1,
+"notas": "Tiene probabilidad de soltar 'Steven' (daño) o 'Little Steven'."
+},
+{
+"id": 24,
+"nombre": "The Hollow",
+"vida_base": 22,
+"descripcion": "La versión evolucionada de Larry Jr. en las Cuevas.",
+"comportamiento": "Vuela diagonalmente por la sala y se divide en segmentos más pequeños.",
+"piso_id": 3,
+"notas": "Sus segmentos se mueven mucho más rápido que los de Larry Jr."
+},
+{
+"id": 27,
+"nombre": "The Bloat",
+"vida_base": 450,
+"descripcion": "La evolución de Peep y pesadilla de muchos jugadores.",
+"comportamiento": "Dispara Brimstone instantáneo hacia los lados y abajo. Deja charcos de sangre permanentes.",
+"piso_id": 5,
+"notas": "Atacarle desde arriba es la estrategia más segura."
+},
+{
+"id": 62,
+"nombre": "Baby Plum",
+"vida_base": 300,
+"descripcion": "Un jefe introducido en Repentance con apariencia de mosca bebé.",
+"comportamiento": "Rebota por las paredes disparando lágrimas y hace un ataque de 'choque' circular.",
+"piso_id": 1,
+"notas": "Si no le disparas y solo esquivas, se irá pacíficamente y te dejará un objeto especial."
+},
+{
+"id": 71,
+"nombre": "Wormwood",
+"vida_base": 350,
+"descripcion": "Jefe de la ruta Downpour/Dross.",
+"comportamiento": "Sale de los pozos de agua para embestir o morder, y puede inundar la sala.",
+"piso_id": 7,
+"notas": "Es vulnerable cuando está enganchado en el centro de la sala."
+},
+{
+"id": 79,
+"nombre": "The Siren",
+"vida_base": 550,
+"descripcion": "Jefe musical de Mausoleum.",
+"comportamiento": "Utiliza ataques basados en sonido y puede robar los familiares del jugador.",
+"piso_id": 9,
+"notas": "Si te roba un familiar, debes derrotarlo para recuperarlo."
+},
+{
+"id": 84,
+"nombre": "Satan",
+"vida_base": 600,
+"descripcion": "El señor del Sheol y la contraparte oscura de Isaac.",
+"comportamiento": "Fase 1: El caído. Fase 2: Dispara sangre estática y ráfagas. Fase 3: Sus pies pisotean constantemente.",
+"piso_id": 10,
+"notas": "Usar la Biblia contra él matará instantáneamente al jugador."
+},
+{
+"id": 102,
+"nombre": "Isaac",
+"vida_base": 2000,
+"descripcion": "Una versión angelical de Isaac que lucha en la Catedral.",
+"comportamiento": "Tres fases. Lágrimas, rayos de luz del cielo y finalmente vuelo con proyectiles divididos.",
+"piso_id": 9,
+"notas": "Sus rayos de luz siempre dejan un rincón seguro en las esquinas superiores."
+},
+{
+"id": 400,
+"nombre": "Mega Satan",
+"vida_base": 3000,
+"descripcion": "El jefe máximo de la ruta estándar, detrás de la puerta dorada.",
+"comportamiento": "Invoca versiones oscuras de los siete pecados capitales y a los cuatro jinetes.",
+"piso_id": 13,
+"notas": "Tiene una armadura que reduce el daño según la potencia del jugador."
+},
+{
+"id": 407,
+"nombre": "Hush",
+"vida_base": 6666,
+"descripcion": "La personificación de la asfixia de Isaac en el Blue Womb.",
+"comportamiento": "Utiliza patrones de 'infierno de balas', chorros de agua y lágrimas trascendentes.",
+"piso_id": 85,
+"notas": "Posee escalado de daño extremo."
+},
+{
+"id": 412,
+"nombre": "Delirium",
+"vida_base": 10000,
+"descripcion": "La manifestación final de la mente agonizante de Isaac.",
+"comportamiento": "Se transforma aleatoriamente en cualquier jefe derrotado en la partida.",
+"piso_id": 14,
+"notas": "Sus ataques pueden volverse injustos debido a la velocidad de transformación."
+},
+{
+"id": 636,
+"nombre": "Mother",
+"vida_base": 4222,
+"descripcion": "La verdadera forma monstruosa de la madre de Isaac.",
+"comportamiento": "Lanza cuchillos gigantes, usa ataques de embestida y succiona proyectiles.",
+"piso_id": 90,
+"notas": "Es el jefe final de la ruta alternativa."
+},
+{
+"id": 637,
+"nombre": "The Beast",
+"vida_base": 10000,
+"descripcion": "El enfrentamiento final de la historia de Isaac.",
+"comportamiento": "Combate en scroll lateral tras derrotar a los 4 Jinetes del Apocalipsis Dogma.",
+"piso_id": 95,
+"notas": "Es el único jefe con perspectiva lateral."
+}
+]
