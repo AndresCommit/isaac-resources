@@ -1,0 +1,5762 @@
+[
+  {
+    "id": 1,
+    "nombre": "Magdalena",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 2,
+    "nombre": "Caín",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 3,
+    "nombre": "Judas",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 4,
+    "nombre": "La Matriz",
+    "descripcion": "Capítulo 4 - La Matriz desbloqueada.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 5,
+    "nombre": "Los Heraldos",
+    "descripcion": "Los Jinetes están sueltos.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 6,
+    "nombre": "Cubo de Carne",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 7,
+    "nombre": "El Libro de las Revelaciones",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 8,
+    "nombre": "Transcendencia",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 9,
+    "nombre": "El Clavo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 10,
+    "nombre": "Un Cuarto",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 11,
+    "nombre": "Un Feto en un Jarro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 12,
+    "nombre": "Una Roca Pequeña",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 13,
+    "nombre": "Diente de Monstro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 14,
+    "nombre": "Pequeño Chubby",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 15,
+    "nombre": "Cuernos de Loki",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 16,
+    "nombre": "Algo Desde el Futuro",
+    "descripcion": "Nuevo jefe en el sótano!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 17,
+    "nombre": "Algo Lindo",
+    "descripcion": "Nuevo jefe en las cuevas!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 18,
+    "nombre": "Algo Pegajoso",
+    "descripcion": "Nuevo jefe en las profundidades!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 19,
+    "nombre": "Una Venda",
+    "descripcion": "Nuevo objeto desbloqueado..",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 20,
+    "nombre": "Una Cruz",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 21,
+    "nombre": "Bolsa de Centavos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 22,
+    "nombre": "El libro del Pecado",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 23,
+    "nombre": "Pequeño Gish",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 24,
+    "nombre": "Pequeño Steven",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 25,
+    "nombre": "Pequeño C.H.A.D.",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 26,
+    "nombre": "El Gamekid",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 27,
+    "nombre": "El Halo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 28,
+    "nombre": "Sr. Mega",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 29,
+    "nombre": "El D6",
+    "descripcion": "Isaac ahora tiene El D6!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 30,
+    "nombre": "Las Tijeras",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 31,
+    "nombre": "El Parásito",
+    "descripcion": "Nuevo objeto desbloqueado..",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 32,
+    "nombre": "???",
+    "descripcion": "Nuevo personaje Desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 33,
+    "nombre": "¡¡¡Todo Está Terrible!!!",
+    "descripcion": "¡El juego se hizo más difícil!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 34,
+    "nombre": "¡Está Vivo!",
+    "descripcion": "El pasado de tu futuro espera.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 35,
+    "nombre": "Lentillas de Mamá",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 36,
+    "nombre": "El Necronomicón",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 37,
+    "nombre": "Chico del Sótano",
+    "descripcion": "Supera el sótano sin recibir daño.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 38,
+    "nombre": "Chico Espeleologo",
+    "descripcion": "Supera las cuevas sin recibir daño.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 39,
+    "nombre": "Chico Oscuro",
+    "descripcion": "Supera las profundidades sin recibir daño.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 40,
+    "nombre": "Chico de Mamá",
+    "descripcion": "Supera la matriz sin recibir daño.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 41,
+    "nombre": "¡Dios Dorado!",
+    "descripcion": "¡¡Eres el mejor!!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 42,
+    "nombre": "Eva",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 43,
+    "nombre": "Cuchillo de Mamá",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 44,
+    "nombre": "Hoja de Afeitar",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 45,
+    "nombre": "Ángel Guardián",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 46,
+    "nombre": "Bolsa de Bombas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 47,
+    "nombre": "Bebé Demonio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 48,
+    "nombre": "Olvídame Ya",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 49,
+    "nombre": "El D20",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 50,
+    "nombre": "Cruz Celta",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 51,
+    "nombre": "Abel",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 52,
+    "nombre": "Cuerno Curvo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 53,
+    "nombre": "Daga de Sacrificio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 54,
+    "nombre": "Lujuria de Sangre",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 55,
+    "nombre": "Moneda Sangrienta",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 56,
+    "nombre": "Derechos de Sangre",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 57,
+    "nombre": "La Polaroid",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 58,
+    "nombre": "Llave de Papá",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 59,
+    "nombre": "Vela Azul",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 60,
+    "nombre": "Moneda Quemada",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 61,
+    "nombre": "Dedo de la Suerte",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 62,
+    "nombre": "Fetus Épico",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 63,
+    "nombre": "SMB Súper Fan",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 64,
+    "nombre": "Moneda Falsificada",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 65,
+    "nombre": "Bola de Pelo de Guppy",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 66,
+    "nombre": "El Jinete Olvidado",
+    "descripcion": "Nuevo jefe desbloqueado!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 67,
+    "nombre": "Sansón",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 68,
+    "nombre": "¡Algo Repulsivo!",
+    "descripcion": "¡Nuevo jefe en la Matriz!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 69,
+    "nombre": "¡Dios Platino!",
+    "descripcion": "¡Por Dios!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 70,
+    "nombre": "Cabeza de Isaac",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 71,
+    "nombre": "La Fe de Maggy",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 72,
+    "nombre": "La Lengua de Judas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 73,
+    "nombre": "Alma de ???",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 74,
+    "nombre": "Mechón de Sansón",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 75,
+    "nombre": "Ojo de Caín",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 76,
+    "nombre": "Pata del Ave de Eva",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 77,
+    "nombre": "La Mano Izquierda",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 78,
+    "nombre": "El Negativo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 79,
+    "nombre": "Azazel",
+    "descripcion": "Nuevo personaje desbloquado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 80,
+    "nombre": "Lázaro",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 81,
+    "nombre": "Edén",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 82,
+    "nombre": "El Perdido",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 83,
+    "nombre": "Chico Muerto",
+    "descripcion": "Supera el Cofre o el Cuarto Oscuro sin recibir daño.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 84,
+    "nombre": "¡Dios Platino Real!",
+    "descripcion": "111% ¡Ahora deja de jugar!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 85,
+    "nombre": "Roca de la Suerte",
+    "descripcion": "Destruye 100 rocas.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 86,
+    "nombre": "La Bodega",
+    "descripcion": "Piso alternativo al sótano.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 87,
+    "nombre": "Las Catacumbas",
+    "descripcion": "Piso alternaticvo a las cuevas.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 88,
+    "nombre": "Necrópolis",
+    "descripcion": "Piso alternativo a las profundidades.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 89,
+    "nombre": "La Runa de Hagalaz",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 90,
+    "nombre": "La Runa de Jera",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 91,
+    "nombre": "La Runa de Ehwaz",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 92,
+    "nombre": "La Runa de Dagaz",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 93,
+    "nombre": "La Runa de Anusuz",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 94,
+    "nombre": "La Runa de Perthro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 95,
+    "nombre": "La Runa de Berkano",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 96,
+    "nombre": "La Runa de Algiz",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 97,
+    "nombre": "Carta del Caos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 98,
+    "nombre": "Tarjeta de Credito",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 99,
+    "nombre": "Carta de Reglas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 100,
+    "nombre": "Carta Contra la Humanidad",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 101,
+    "nombre": "Moneda Tragada",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 102,
+    "nombre": "Robo-Baby 2.0",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 103,
+    "nombre": "Toque de la Muerte",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 104,
+    "nombre": "Tech .5",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 105,
+    "nombre": "Missing No.",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 106,
+    "nombre": "Lágrimas de Isaac",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 107,
+    "nombre": "La Guillotina",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 108,
+    "nombre": "Sombra de Judas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 109,
+    "nombre": "Moño de Maggy",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 110,
+    "nombre": "El Otro Ojo de Caín",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 111,
+    "nombre": "Labial Negro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 112,
+    "nombre": "Rímel de Eva",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 113,
+    "nombre": "Destino",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 114,
+    "nombre": "Único Amigo de ???",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 115,
+    "nombre": "Cadena de Sansón",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 116,
+    "nombre": "Harapos de Lázaro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 117,
+    "nombre": "Anj Roto",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 118,
+    "nombre": "Credito de Tienda",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 119,
+    "nombre": "Caja de Pandora",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 120,
+    "nombre": "Rey Suicida",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 121,
+    "nombre": "Una Carta en Blanco",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 122,
+    "nombre": "El Libro de los Secretos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 123,
+    "nombre": "Papel Misterioso",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 124,
+    "nombre": "Bolsa Misteriosa",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 125,
+    "nombre": "Undefined",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 126,
+    "nombre": "La Biblia Satánica",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 127,
+    "nombre": "Cola de Demonio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 128,
+    "nombre": "Abaddón",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 129,
+    "nombre": "Corazón de Isaac",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 130,
+    "nombre": "La Mente",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 131,
+    "nombre": "El Cuerpo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 132,
+    "nombre": "El Alma",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 133,
+    "nombre": "El D100",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 134,
+    "nombre": "Mapa Azul",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 135,
+    "nombre": "Hay Opciones",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 136,
+    "nombre": "Vela Negra",
+    "descripcion": "Nuevo objeto desbloqueado",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 137,
+    "nombre": "Vela Roja",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 138,
+    "nombre": "El Cronometro",
+    "descripcion": "Nuevo objeto desbloqueado",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 139,
+    "nombre": "Percha de Alambre",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 140,
+    "nombre": "Ipecac",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 141,
+    "nombre": "Tratamiento Experimental",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 142,
+    "nombre": "Krampus",
+    "descripcion": "¡Otro mini-jefe desbloqueado!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 143,
+    "nombre": "Cabeza de Krampus",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 144,
+    "nombre": "Super Meat Boy",
+    "descripcion": "Construido con cubos de carne.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 145,
+    "nombre": "Frijol Mantequilla",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 146,
+    "nombre": "Pequeña Bolsa",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 147,
+    "nombre": "Bolsa de Sangre",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 148,
+    "nombre": "El D4",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 149,
+    "nombre": "Cartel de Desaparecido",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 150,
+    "nombre": "Pegamento Elástico",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 151,
+    "nombre": "Mejoramiento de Tienda Nivel 1",
+    "descripcion": "Donaste 20 monedas a la tienda.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 152,
+    "nombre": "Mejoramiento de Tienda Nivel 2",
+    "descripcion": "Donaste 100 monedas a la tienda.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 153,
+    "nombre": "Mejoramiento de Tienda Nivel 3",
+    "descripcion": "Donaste 200 monedas a la tienda.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 154,
+    "nombre": "Mejoramiento de Tienda Nivel 4",
+    "descripcion": "Donaste 600 monedas a la tienda.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 155,
+    "nombre": "Ángeles",
+    "descripcion": "Te Esperan.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 156,
+    "nombre": "Deidad",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 157,
+    "nombre": "Cae la Oscuridad",
+    "descripcion": "Desbloqueaste desafío #4.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 158,
+    "nombre": "El Tanque",
+    "descripcion": "Desbloqueaste desafío #5.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 159,
+    "nombre": "Sistema Solar",
+    "descripcion": "Desbloqueaste desafío #6.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 160,
+    "nombre": "Rey Suicida",
+    "descripcion": "Desbloqueaste desafío #7.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 161,
+    "nombre": "El Gato Tiene tu Lengua",
+    "descripcion": "Desbloqueaste desafío #8.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 162,
+    "nombre": "Demoledor",
+    "descripcion": "Desbloqueaste desafío #9.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 163,
+    "nombre": "¡Maldito!",
+    "descripcion": "Desbloqueaste desafío #10.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 164,
+    "nombre": "Cañón de Cristal",
+    "descripcion": "Desbloqueaste desafío #11.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 165,
+    "nombre": "Hombre de Familia",
+    "descripcion": "Desbloqueaste desafío #19.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 166,
+    "nombre": "Purista",
+    "descripcion": "Desbloqueaste desafío #20.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 167,
+    "nombre": "Bebé Perdido",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 168,
+    "nombre": "Bebé Lindo",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 169,
+    "nombre": "Bebé Cuervo",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 170,
+    "nombre": "Bebé Sombra",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 171,
+    "nombre": "Bebé de Cristal",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 172,
+    "nombre": "Bebé Envuelto",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 173,
+    "nombre": "Bebé Engendrado",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 174,
+    "nombre": "Bebé Muerto",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 175,
+    "nombre": "Bebé -0-",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 176,
+    "nombre": "Bebé con Falla",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 177,
+    "nombre": "Bebé Luchador",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 178,
+    "nombre": "El Señor de las Moscas",
+    "descripcion": "Te convertiste en el señor de las moscas.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 179,
+    "nombre": "Bebé Tira-Pedos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 180,
+    "nombre": "Pureza",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 181,
+    "nombre": "D12",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 182,
+    "nombre": "Traición",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 183,
+    "nombre": "Premio del Destino",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 184,
+    "nombre": "Athame",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 185,
+    "nombre": "Furia del Ciego",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 186,
+    "nombre": "Fauces del Vacío",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 187,
+    "nombre": "Recipiente Vacío",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 188,
+    "nombre": "Bendición de Edén",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 189,
+    "nombre": "Protector Fiel",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 190,
+    "nombre": "Íncubo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 191,
+    "nombre": "Keeper ahora tiene... ¡Una Moneda!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 192,
+    "nombre": "Mini-Cofre",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 193,
+    "nombre": "Incensario",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 194,
+    "nombre": "Mal de Ojo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 195,
+    "nombre": "Mi Sombra",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 196,
+    "nombre": "Dado Roto",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 197,
+    "nombre": "Pluma Negra",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 198,
+    "nombre": "Sangre Lujuriosa",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 199,
+    "nombre": "Lilith",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 200,
+    "nombre": "Pordiosero de Llaves",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 201,
+    "nombre": "Error-Crítico",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 202,
+    "nombre": "Zodiaco",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 203,
+    "nombre": "Caja de Amigos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 204,
+    "nombre": "Costilla de Codicia",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 205,
+    "nombre": "Bebé Llorón",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 206,
+    "nombre": "Bebé Rojo",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 207,
+    "nombre": "Bebé Verde",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 208,
+    "nombre": "Bebé Café",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 209,
+    "nombre": "Bebé Azul",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 210,
+    "nombre": "Mini-Bebé",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 211,
+    "nombre": "Bebé Enojado",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 212,
+    "nombre": "Bebé Negro",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 213,
+    "nombre": "Bebé Alargado",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 214,
+    "nombre": "Bebé Amarillo",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 215,
+    "nombre": "Bebé Blanco",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 216,
+    "nombre": "Gran Bebé",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 217,
+    "nombre": "Bebé Soga",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 218,
+    "nombre": "Bolsa de Runas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 219,
+    "nombre": "Impura Concepción",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 220,
+    "nombre": "Beso de Serpiente",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 221,
+    "nombre": "Súcubo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 222,
+    "nombre": "Inmaculada Concepción",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 223,
+    "nombre": "Bebé Cabeza de Cabra",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 224,
+    "nombre": "Corazón de Oro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 225,
+    "nombre": "Carta Sal Libre de Prisión",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 226,
+    "nombre": "Bomba de Oro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 227,
+    "nombre": "2 Nuevas Píldoras",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 228,
+    "nombre": "2 Nuevas Píldoras 2",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 229,
+    "nombre": "Ficha de Póker",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 230,
+    "nombre": "Detector de Clavos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 231,
+    "nombre": "D8",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 232,
+    "nombre": "Piedra de Riñon",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 233,
+    "nombre": "Runa en Blanco",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 234,
+    "nombre": "La Matriz Azul",
+    "descripcion": "Capítulo oculto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 235,
+    "nombre": "1001%",
+    "descripcion": "Nerd x 1000000",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 236,
+    "nombre": "Keeper Ahora Tiene Moneda de Madera",
+    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 237,
+    "nombre": "Keeper Ahora Tiene Llave de Tienda",
+    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 238,
+    "nombre": "Bolsillos Profundos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 239,
+    "nombre": "Karma",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 240,
+    "nombre": "Monedas Pegajosas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 241,
+    "nombre": "Bebé Súper Codicioso",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 242,
+    "nombre": "Monedas de la Suerte",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 243,
+    "nombre": "¡Tendero Colgado Especial!",
+    "descripcion": "Desbloqueaste un secreto.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 244,
+    "nombre": "Moneda de Madera",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 245,
+    "nombre": "Caín Ahora Tiene Clip de Papel",
+    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 246,
+    "nombre": "¡¡¡Todo Está Terrible 2!!!",
+    "descripcion": "¡Modo codicia se hizo más difícil!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 247,
+    "nombre": "Tendero Especial",
+    "descripcion": "Desbloqueaste un secreto.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 248,
+    "nombre": "Eva Ahora Tiene Hoja de Afeitar",
+    "descripcion": "Unlocked a new starting item.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 249,
+    "nombre": "Llave de Tienda",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 250,
+    "nombre": "El Perdido Ahora Tiene Manto Sagrado",
+    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 251,
+    "nombre": "Keeper",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 252,
+    "nombre": "Bebé Colmena",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 253,
+    "nombre": "Bebé Amigo",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 254,
+    "nombre": "Bebé Colorido",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 255,
+    "nombre": "Bebé Ramera",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 256,
+    "nombre": "Bebé Quebrado",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 257,
+    "nombre": "Bebé Goteante",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 258,
+    "nombre": "Bebé Cegador",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 259,
+    "nombre": "Bebé Sorbos",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 260,
+    "nombre": "Bebé Oscuro",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 261,
+    "nombre": "Bebé Fastidioso",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 262,
+    "nombre": "Bebé Vengativo",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 263,
+    "nombre": "Bebé Belial",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 264,
+    "nombre": "Bebé Descontado",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 265,
+    "nombre": "XXXXXXXXL",
+    "descripcion": "Desbloqueaste desafío #21.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 266,
+    "nombre": "¡RÁPIDO!",
+    "descripcion": "Desbloqueaste desafío #22.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 267,
+    "nombre": "Bombardero Azul",
+    "descripcion": "Desbloqueaste desafío #23.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 268,
+    "nombre": "PAY TO PLAY",
+    "descripcion": "Desbloqueaste desafío #24.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 269,
+    "nombre": "Un Corazón",
+    "descripcion": "Desbloqueaste desafío #25.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 270,
+    "nombre": "¡YO MANDO!",
+    "descripcion": "Desbloqueaste desafío #26.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 271,
+    "nombre": "¡CEREBROS!",
+    "descripcion": "Desbloqueaste desafío #27.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 272,
+    "nombre": "¡DÍA DEL ORGULLO!",
+    "descripcion": "Desbloqueaste desafío #28.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 273,
+    "nombre": "Pulso de Onán",
+    "descripcion": "Desbloqueaste desafío #29.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 274,
+    "nombre": "El Guardián",
+    "descripcion": "Desbloqueaste desafío #30.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 275,
+    "nombre": "Generosidad",
+    "descripcion": "Si todos fueran tan generosos como tú...",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 276,
+    "nombre": "Mega",
+    "descripcion": "Desbloqueado...",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 277,
+    "nombre": "Vade Retro",
+    "descripcion": "Nuevo desafío desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 278,
+    "nombre": "Inocente Palomita",
+    "descripcion": "Nuevo desafío desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 279,
+    "nombre": "Pokey Mans",
+    "descripcion": "Nuevo desafío desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 280,
+    "nombre": "Ultra Difícil",
+    "descripcion": "Nuevo desafío desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 281,
+    "nombre": "PONG",
+    "descripcion": "Nuevo desafío desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 282,
+    "nombre": "D Infinito",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 283,
+    "nombre": "Eucaristía",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 284,
+    "nombre": "Dólar de Plata",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 285,
+    "nombre": "Sombra",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 286,
+    "nombre": "Rey Bebé",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 287,
+    "nombre": "Corona Sangrienta",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 288,
+    "nombre": "Hoja sin Filo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 289,
+    "nombre": "Alma de Edén",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 290,
+    "nombre": "Corona del Principe Oscuro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 291,
+    "nombre": "Fractura Compuesta",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 292,
+    "nombre": "Eutanasia",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 293,
+    "nombre": "Carta Sagrada",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 294,
+    "nombre": "Moneda Doblada",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 295,
+    "nombre": "Vacío",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 296,
+    "nombre": "D1",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 297,
+    "nombre": "Glifo del Equilibrio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 298,
+    "nombre": "Bolsa de Bolsas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 299,
+    "nombre": "Ojo de Belial",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 300,
+    "nombre": "Meconio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 301,
+    "nombre": "Célula Madre",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 302,
+    "nombre": "Corazón de Cuervo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 303,
+    "nombre": "Metrónomo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 304,
+    "nombre": "Ala de Murciélago",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 305,
+    "nombre": "Plan C",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 306,
+    "nombre": "Dualidad",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 307,
+    "nombre": "Moneda Perdida de Papá",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 308,
+    "nombre": "Ojo de Codicia",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 309,
+    "nombre": "Runa Negra",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 310,
+    "nombre": "Langosta de Guerra",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 311,
+    "nombre": "Langosta de Pestilencia",
+    "descripcion": "Unlocked a new item.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 312,
+    "nombre": "Langosta de Hambruna",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 313,
+    "nombre": "Langosta de Muerte",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 314,
+    "nombre": "Langosta de Conquista",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 315,
+    "nombre": "Shhh...",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 316,
+    "nombre": "Nugget Café",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 317,
+    "nombre": "Bebé Difunto",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 318,
+    "nombre": "Fundidora",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 319,
+    "nombre": "Bebé Apolión",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 320,
+    "nombre": "Nueva Area",
+    "descripcion": "Desbloqueaste una nueva area.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 321,
+    "nombre": "¡Una Vez Más con Ánimo!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 322,
+    "nombre": "¡Truco de Sombrero!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 323,
+    "nombre": "5 Noches en lo de Mamá",
+    "descripcion": "Desbloqueaste rocas súper especiales.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 324,
+    "nombre": "Colector de Pecados",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 325,
+    "nombre": "Dedicación",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 326,
+    "nombre": "¡ZIP!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 327,
+    "nombre": "¡Es la Llave!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 328,
+    "nombre": "¡Sr. Reiniciador!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 329,
+    "nombre": "Viviendo al límite",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 330,
+    "nombre": "¡Lo rompizte!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 331,
+    "nombre": "¡Laz Sangra Más!",
+    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 332,
+    "nombre": "¡Maggy Ahora Tiene una Pildora!",
+    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 333,
+    "nombre": "Llave Recargada",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 334,
+    "nombre": "¡Sansón se Siente Saludable!",
+    "descripcion": "Nuevo objeto inicial desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 335,
+    "nombre": "Esófago de Codicia",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 336,
+    "nombre": "La Maratón",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 337,
+    "nombre": "¡De Nuevo!",
+    "descripcion": "Desbloqueas el poder de ¡De Nuevo!.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 338,
+    "nombre": "Delirious",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 339,
+    "nombre": "1000000%",
+    "descripcion": "¡Ya detente!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 340,
+    "nombre": "Apolión",
+    "descripcion": "Desbloqueaste un nuevo personaje.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 341,
+    "nombre": "¡Codicioso!",
+    "descripcion": "¡Nuevo modo desbloqueado!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 342,
+    "nombre": "Sotano en Llamas",
+    "descripcion": "Piso alternativo al sótano.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 343,
+    "nombre": "Cuevas Inundadas",
+    "descripcion": "Piso alternativo a las cuevas.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 344,
+    "nombre": "Profundidades Viscosas",
+    "descripcion": "Piso alternativo a las profundidades.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 345,
+    "nombre": "Matriz Rasgada",
+    "descripcion": "Piso alternativo a la matriz.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 346,
+    "nombre": "Algo Malvado !Se va Acercando!",
+    "descripcion": "¡Nuevos jefes desbloqueados!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 347,
+    "nombre": "Algo Malvado ¡Se Va Acercando+!",
+    "descripcion": "¡Más jefes desbloqueados!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 348,
+    "nombre": "¡El Portal Está Abierto!",
+    "descripcion": "¡Nuevos enemigos desbloqueados!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 349,
+    "nombre": "Un Agujero Negro",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 350,
+    "nombre": "Regalo Misterioso",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 351,
+    "nombre": "Aspersor",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 352,
+    "nombre": "Mosca Enojada",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 353,
+    "nombre": "Bozo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 354,
+    "nombre": "Módem Roto",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 355,
+    "nombre": "Compañero Encajonado",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 356,
+    "nombre": "Bombas Rápidas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 357,
+    "nombre": "Mini-Delirio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 358,
+    "nombre": "Horquilla",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 359,
+    "nombre": "Cruz de Madera",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 360,
+    "nombre": "¡Mantequilla!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 361,
+    "nombre": "Gran Crecimiento",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 362,
+    "nombre": "Recuerdo Antiguo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 363,
+    "nombre": "Caminando una Era",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 364,
+    "nombre": "Cupón",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 365,
+    "nombre": "Telequinesis",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 366,
+    "nombre": "Caja de Mudanza",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 367,
+    "nombre": "Cables de Salto",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 368,
+    "nombre": "Lepra",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 369,
+    "nombre": "Tecnología Cero",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 370,
+    "nombre": "Pluma de Filigrana",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 371,
+    "nombre": "¡Sr. Yo!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 372,
+    "nombre": "7 Sellos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 373,
+    "nombre": "Prisma Angelical",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 374,
+    "nombre": "¡Pop!",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 375,
+    "nombre": "Tope de Puerta",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 376,
+    "nombre": "Lista de la Muerte",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 377,
+    "nombre": "Hemolacria",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 378,
+    "nombre": "Lacrifagia",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 379,
+    "nombre": "Mochila",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 380,
+    "nombre": "Trisagio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 381,
+    "nombre": "Cable de Extensión",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 382,
+    "nombre": "Piedra Plana",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 383,
+    "nombre": "Altar de Sacrificio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 384,
+    "nombre": "Mini-Vómitos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 385,
+    "nombre": "Manto",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 386,
+    "nombre": "Canicas",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 387,
+    "nombre": "Huevo Misterioso",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 388,
+    "nombre": "Moneda Podrida",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 389,
+    "nombre": "Bebé Doblador",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 390,
+    "nombre": "El Olvidado",
+    "descripcion": "Nuevo personaje desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 391,
+    "nombre": "Corazón de Hueso",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 392,
+    "nombre": "Médula",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 393,
+    "nombre": "Costilla Deslizante",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 394,
+    "nombre": "Costilla con Punta",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 395,
+    "nombre": "Hueso de Mandíbula",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 396,
+    "nombre": "Huesos Frágiles",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 397,
+    "nombre": "Papeles de Divorcio",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 398,
+    "nombre": "Suelo Santificado",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 399,
+    "nombre": "Hueso del Dedo",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 400,
+    "nombre": "Anillo de Papá",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 401,
+    "nombre": "El Libro de los Muertos",
+    "descripcion": "Nuevo objeto desbloqueado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 402,
+    "nombre": "Bebé Huesos",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 403,
+    "nombre": "Bebé Atado",
+    "descripcion": "Desbloqueaste un nuevo bebé co-jugador.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 404,
+    "nombre": "Bethany",
+    "descripcion": "Supera modo difícil como Lázaro sin perder una vida.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 405,
+    "nombre": "Jacob & Esaú",
+    "descripcion": "Eres igual a tu padre...",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 406,
+    "nombre": "El Planetario",
+    "descripcion": "Los niños no deberían creer en las fortunas...",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 407,
+    "nombre": "Una Salida Secreta",
+    "descripcion": "Completa ??? tres veces.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 408,
+    "nombre": "Canción de Cuna Olvidada",
+    "descripcion": "Saca esa canción de su cabeza.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 409,
+    "nombre": "Ciruela Frutal",
+    "descripcion": "Derrota a ciruelita 10 veces.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 410,
+    "nombre": "Flauta Ciruela",
+    "descripcion": "¡Haz una nueva amiga!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 411,
+    "nombre": "Corazón Podrido",
+    "descripcion": "Entra en el cadáver.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 412,
+    "nombre": "Desechos",
+    "descripcion": "Derrota a todos los jefe en aguacero.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 413,
+    "nombre": "Foso de Cenizas",
+    "descripcion": "Derrota a todos los jefe en las minas.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 414,
+    "nombre": "Gehena",
+    "descripcion": "Derrota a todos los jefes en el mausoleo.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 415,
+    "nombre": "La Llave Roja",
+    "descripcion": "El otro lado está llamando...",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 416,
+    "nombre": "Bebé Llameante",
+    "descripcion": "Súpera el juego en modo difícil con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 417,
+    "nombre": "Libro de Virtudes",
+    "descripcion": "Completa la Catedral con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 418,
+    "nombre": "Urna de Almas",
+    "descripcion": "Completa Sheol con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 419,
+    "nombre": "Moneda Bendecida",
+    "descripcion": "Completa el Cofre con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 420,
+    "nombre": "Caja de Alabastro",
+    "descripcion": "Completa el Cuarto Oscuro con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 421,
+    "nombre": "Fe de Beth",
+    "descripcion": "Completa Boss Rush con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 422,
+    "nombre": "Medallón de Alma",
+    "descripcion": "Supera modo Codicia con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 423,
+    "nombre": "Intervención Divina",
+    "descripcion": "Completa ??? con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 424,
+    "nombre": "Vade Retro",
+    "descripcion": "Supera modo Codicioso con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 425,
+    "nombre": "Estrella de Belén",
+    "descripcion": "Supera el Vacío con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 426,
+    "nombre": "Bebé Esperanza",
+    "descripcion": "Supera todo en modo difícil con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 427,
+    "nombre": "Bebé Brillante",
+    "descripcion": "Derrota a Mega Satán con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 428,
+    "nombre": "Bebé Doble",
+    "descripcion": "Completa el juego en modo difícil con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 429,
+    "nombre": "La Escalerilla",
+    "descripcion": "Completa la Catedral con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 430,
+    "nombre": "Guisado Rojo",
+    "descripcion": "Completa Sheol con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 431,
+    "nombre": "Primogenitura",
+    "descripcion": "Completa el Cofre con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 432,
+    "nombre": "Damocles",
+    "descripcion": "Completa el Cuarto Oscuro con Jacon & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 433,
+    "nombre": "Fondo Rocoso",
+    "descripcion": "Completa Boss Rush con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 434,
+    "nombre": "Niño Interior",
+    "descripcion": "Supera modo Codicia con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 435,
+    "nombre": "Gemelo Desvaneciente",
+    "descripcion": "Completa ??? con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 436,
+    "nombre": "Génesis",
+    "descripcion": "Supera modo Codicioso con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 437,
+    "nombre": "¡Suplex!",
+    "descripcion": "Completa el Vacío con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 438,
+    "nombre": "Bebé de Salomón",
+    "descripcion": "Supera todo en modo difícil con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 439,
+    "nombre": "Bebé Ilusorio",
+    "descripcion": "Derrota a Mega Satán con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 440,
+    "nombre": "Cuchillo de Carnicero",
+    "descripcion": "Completa el Cadáver con Isaac.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 441,
+    "nombre": "¿Opciones?",
+    "descripcion": "Completa el capítulo final con Isaac.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 442,
+    "nombre": "Corazón Asqueroso",
+    "descripcion": "Completa el Cadáver con Magdalena.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 443,
+    "nombre": "Dulce de Corazón",
+    "descripcion": "Completa el capítulo final con Magdalena.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 444,
+    "nombre": "Ojo de Guppy",
+    "descripcion": "Completa el Cadáver con Caín.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 445,
+    "nombre": "Una Libra de Carne",
+    "descripcion": "Completa el capítulo final con Caín.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 446,
+    "nombre": "Aceldama",
+    "descripcion": "Completa el Cadáver con Judas.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 447,
+    "nombre": "Redención",
+    "descripcion": "Completa el capítulo final con Judas.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 448,
+    "nombre": "D6 Eterno",
+    "descripcion": "Completa el Cadáver con ???.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 449,
+    "nombre": "Venganza de Moctezuma",
+    "descripcion": "Completa el capítulo final con ???.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 450,
+    "nombre": "Pecho de Ave",
+    "descripcion": "Completa el Cadáver con Eva.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 451,
+    "nombre": "Orbe Roto",
+    "descripcion": "Completa el capítulo final con Eva.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 452,
+    "nombre": "Ventarrón Sangriento",
+    "descripcion": "Completa el Cadáver con Sansón.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 453,
+    "nombre": "Corazón Vacío",
+    "descripcion": "Completa el capítulo final con Sansón.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 454,
+    "nombre": "Corona del Diablo",
+    "descripcion": "Completa el Cadáver con Azazel.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 455,
+    "nombre": "Mini-Abaddón",
+    "descripcion": "Completa el capítulo final con Azazel.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 456,
+    "nombre": "Mini-Toma",
+    "descripcion": "Completa el Cadáver con Lázaro.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 457,
+    "nombre": "Proyección Astral",
+    "descripcion": "Completa el capítulo final con Lázaro.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 458,
+    "nombre": "'M",
+    "descripcion": "Completa el Cadáver con Edén.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 459,
+    "nombre": "Jarra para Todo",
+    "descripcion": "Completa el capítulo final con Edén.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 460,
+    "nombre": "Alma Perdida",
+    "descripcion": "Completa el Cadáver con el Perdido.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 461,
+    "nombre": "Alma Hambrienta",
+    "descripcion": "Completa el capítulo final con el Perdido.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 462,
+    "nombre": "Cachorro de Sangre",
+    "descripcion": "Completa el Cadáver con Lilith.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 463,
+    "nombre": "Cesárea",
+    "descripcion": "Completa el capítulo final con Lilith.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 464,
+    "nombre": "Bolsa de Keeper",
+    "descripcion": "Completa el Cadáver con Keeper.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 465,
+    "nombre": "Caja de Keeper",
+    "descripcion": "Completa el capítulo final con Keeper.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 466,
+    "nombre": "Mini-Portal",
+    "descripcion": "Completa el Cadáver con Apolión.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 467,
+    "nombre": "Gusano Amigo",
+    "descripcion": "Completa el capítulo final con Apolión.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 468,
+    "nombre": "Espuelas de Hueso",
+    "descripcion": "Completa el Cadáver con El Olvidado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 469,
+    "nombre": "Grilletes Espirituales",
+    "descripcion": "Completa el capítulo final con El Olvidado.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 470,
+    "nombre": "Revelación",
+    "descripcion": "Completa el Cadáver con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 471,
+    "nombre": "Jarro de Fuegos Fatuos",
+    "descripcion": "Completa el Cadáver con Bethany.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 472,
+    "nombre": "Piel Mágica",
+    "descripcion": "Completa el Cadáver con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 473,
+    "nombre": "Buscador de Amigos",
+    "descripcion": "Completa el capítulo final con Jacob & Esaú.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 474,
+    "nombre": "El Roto",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 475,
+    "nombre": "La Intrépida",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 476,
+    "nombre": "El Acaparador",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 477,
+    "nombre": "El Mentiroso",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 478,
+    "nombre": "El Sucio",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 479,
+    "nombre": "La Cortada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 480,
+    "nombre": "El Feroz",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 481,
+    "nombre": "El Ignorante",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 482,
+    "nombre": "El Enigma",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 483,
+    "nombre": "El Caprichoso",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 484,
+    "nombre": "El Funesto",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 485,
+    "nombre": "La Puta",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 486,
+    "nombre": "El Tacaño",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 487,
+    "nombre": "El Vacío",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 488,
+    "nombre": "El Encadenado",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 489,
+    "nombre": "La Fanática",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 490,
+    "nombre": "El Desertor",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 491,
+    "nombre": "Corona con Falla",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 492,
+    "nombre": "Belly Jelly",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 493,
+    "nombre": "Llave Azul",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 494,
+    "nombre": "Vínculo de Sangre",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 495,
+    "nombre": "El Enjambre",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 496,
+    "nombre": "Corazón Roto",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 497,
+    "nombre": "Laringe",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 498,
+    "nombre": "Furia de Azazel",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 499,
+    "nombre": "Salvación",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 500,
+    "nombre": "TMTRAINER",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 501,
+    "nombre": "Orbe Sagrado",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 502,
+    "nombre": "Dúo Retorcido",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 503,
+    "nombre": "Hombre de Trapo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 504,
+    "nombre": "Cámara de Ecos",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 505,
+    "nombre": "Tumba de Isaac",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 506,
+    "nombre": "Espiritu Vengativo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 507,
+    "nombre": "Esaú Jr.",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 508,
+    "nombre": "María la Sangrienta",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 509,
+    "nombre": "Bautismo por Fuego",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 510,
+    "nombre": "El Despertar de Isaac",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 511,
+    "nombre": "Viendo Doble",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 512,
+    "nombre": "Partida con Pica",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 513,
+    "nombre": "Papa Caliente",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 514,
+    "nombre": "¡Cantrip!",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 515,
+    "nombre": "Redención Roja",
+    "descripcion": "Desbloqueaste un nuevo desafío.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 516,
+    "nombre": "DELETE THIS",
+    "descripcion": "TODO: delete this achievement.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 517,
+    "nombre": "Mente Sucia",
+    "descripcion": "Completa el desafío #36.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 518,
+    "nombre": "Sello de Baphomet",
+    "descripcion": "Completa el desafío #37.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 519,
+    "nombre": "Purgatorio",
+    "descripcion": "Completa el desafío #38.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 520,
+    "nombre": "Espada Espiritual",
+    "descripcion": "Completa el desafío #39.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 521,
+    "nombre": "Lentes Rotos",
+    "descripcion": "Completa el desafío #40.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 522,
+    "nombre": "Cubo de Hielo",
+    "descripcion": "Completa el desafío #41.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 523,
+    "nombre": "Moneda Recargada",
+    "descripcion": "Te recargaran...\nPor un pequeño costo.",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 524,
+    "nombre": "El Bufón",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 525,
+    "nombre": "El Mago",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 526,
+    "nombre": "La Gran Sacerdotisa",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 527,
+    "nombre": "La Emperatriz",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 528,
+    "nombre": "El Emperador",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 529,
+    "nombre": "El Sumo Sacerdote",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 530,
+    "nombre": "Los Enamorados",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 531,
+    "nombre": "El Carruaje",
+    "descripcion": "Completa el desafío #42",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 532,
+    "nombre": "Justicia",
+    "descripcion": "Completa el desafío #43",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 533,
+    "nombre": "El Hermitaño",
+    "descripcion": "Completa el desafío #44",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 534,
+    "nombre": "La Rueda de la Fortuna",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 535,
+    "nombre": "Fuerza",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 536,
+    "nombre": "El Colgado",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 537,
+    "nombre": "Muerte",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 538,
+    "nombre": "Templanza",
+    "descripcion": "INVALID_DESCRIPTION",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 539,
+    "nombre": "El Diablo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 540,
+    "nombre": "La Torre",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 541,
+    "nombre": "Las Estrellas",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 542,
+    "nombre": "El Sol y La Luna",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 543,
+    "nombre": "El Juicio",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 544,
+    "nombre": "El Mundo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 545,
+    "nombre": "Condensador Viejo",
+    "descripcion": "Mata 10 mendigos de baterías",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 546,
+    "nombre": "Bombas de Azufre",
+    "descripcion": "¡Mata a Corneante antes de que escape!",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 547,
+    "nombre": "Mega Hongo",
+    "descripcion": "Supera todo en modo difícil con todos los personajes",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 548,
+    "nombre": "Mechón de Mamá",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 549,
+    "nombre": "Bolsa de Dados",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 550,
+    "nombre": "Corona Sagrada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 551,
+    "nombre": "Beso de Mamá",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 552,
+    "nombre": "Llave Dorada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 553,
+    "nombre": "Bolsa de la Suerte",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 554,
+    "nombre": "Tu Alma",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 555,
+    "nombre": "Número Magnético",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 556,
+    "nombre": "Pedacito de Popó",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 557,
+    "nombre": "Fulminantes",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 558,
+    "nombre": "Llave Extraña",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 559,
+    "nombre": "Mini-Coágulo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 560,
+    "nombre": "Tatuaje Temporal",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 561,
+    "nombre": "M80 Tragado",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 562,
+    "nombre": "Corona Maldita",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 563,
+    "nombre": "Muñon de Azazel",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 564,
+    "nombre": "Bolsillo Roto",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 565,
+    "nombre": "Carta Rota",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 566,
+    "nombre": "¡Nah!",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 567,
+    "nombre": "Arcilla de Modelar",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 568,
+    "nombre": "Dibujo de Niño",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 569,
+    "nombre": "Llave de Cristal",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 570,
+    "nombre": "Los Gemelos",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 571,
+    "nombre": "Papeles de Adopción",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 572,
+    "nombre": "Regateo de Keeper",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 573,
+    "nombre": "Moneda Maldita",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 574,
+    "nombre": "Pata de Grillo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 575,
+    "nombre": "Mejor Amigo de Apolión",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 576,
+    "nombre": "Hueso Pulido",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 577,
+    "nombre": "Corazón Hueco",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 578,
+    "nombre": "Paquete de Expansión",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 579,
+    "nombre": "Esencia de Beth",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 580,
+    "nombre": "RC Remoto",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 581,
+    "nombre": "Alma Encontrada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 582,
+    "nombre": "Tarjeta de Miembro",
+    "descripcion": "Gasta 40+ monedas en una misma tienda",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 583,
+    "nombre": "Hoja Dorada",
+    "descripcion": "Consigue 99 monedas y después gasta cada una",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 584,
+    "nombre": "Dado Reductor",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 585,
+    "nombre": "Hipercoagulación",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 586,
+    "nombre": "Bolsa de Crafteo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 587,
+    "nombre": "Artes Oscuras",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 588,
+    "nombre": "IBS",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 589,
+    "nombre": "Sumptorium",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 590,
+    "nombre": "¡Berserk!",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 591,
+    "nombre": "Hemoptisis",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 592,
+    "nombre": "Cambio",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 593,
+    "nombre": "Corrupted Data",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 594,
+    "nombre": "Bombas Fantasmas",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 595,
+    "nombre": "Gello",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 596,
+    "nombre": "Parientes de Keeper",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 597,
+    "nombre": "Abismo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 598,
+    "nombre": "Ataque Decapitado",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 599,
+    "nombre": "Lemegeton",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 600,
+    "nombre": "Anima Sola",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 601,
+    "nombre": "Mega Cofre",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 602,
+    "nombre": "Reina de Corazones",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 603,
+    "nombre": "Píldora Dorada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 604,
+    "nombre": "Bolsa Negra",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 605,
+    "nombre": "Popó Encantadora",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 606,
+    "nombre": "Píldora de Caballo",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 607,
+    "nombre": "Maquina de Garra",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 608,
+    "nombre": "Juego Infernal",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 609,
+    "nombre": "Cofre de Madera",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 610,
+    "nombre": "Comodín",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 611,
+    "nombre": "Cofre Encantado",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 612,
+    "nombre": "Oro de Tontos",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 613,
+    "nombre": "Moneda Dorada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 614,
+    "nombre": "Pordiosero Podrido",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 615,
+    "nombre": "Batería Dorada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 616,
+    "nombre": "Confesional",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 617,
+    "nombre": "Baratija Dorada",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 618,
+    "nombre": "Alma de Isaac",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 619,
+    "nombre": "Alma de Magdalena",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 620,
+    "nombre": "Alma de Caín",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 621,
+    "nombre": "Alma de Judas",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 622,
+    "nombre": "Alma de ???",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 623,
+    "nombre": "Alma de Eva",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 624,
+    "nombre": "Alma de Sansón",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 625,
+    "nombre": "Alma de Azazel",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 626,
+    "nombre": "Alma de Lázaro",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 627,
+    "nombre": "Alma de Edén",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 628,
+    "nombre": "Alma del Perdido",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 629,
+    "nombre": "Alma de Lilith",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 630,
+    "nombre": "Alma de Keeper",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 631,
+    "nombre": "Alma de Apolión",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 632,
+    "nombre": "Alma del Olvidado",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 633,
+    "nombre": "Alma de Bethany",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 634,
+    "nombre": "Alma de Jacob & Esau",
+    "descripcion": "???",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 635,
+    "nombre": "Una Puerta Extraña",
+    "descripcion": "A dónde podría conducir?",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 636,
+    "nombre": "Acta de Defunción",
+    "descripcion": "...",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 637,
+    "nombre": "Dios Muerto",
+    "descripcion": "",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 638,
+    "nombre": "Juega Online",
+    "descripcion": "Juega una partida online",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 639,
+    "nombre": "Gana Online",
+    "descripcion": "Gana una partida online",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  },
+  {
+    "id": 640,
+    "nombre": "Gana Online Diario",
+    "descripcion": "Gana una partida diaria online",
+    "desbloqueado": false,
+    "desbloquea_personaje_id": null,
+    "desbloquea_objeto_id": null,
+    "desbloquea_consumible_id": null
+  }
+]
