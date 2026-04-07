@@ -4479,7 +4479,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 77
 },
 {
 "id": 499,
@@ -4488,7 +4488,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 78
 },
 {
 "id": 500,
@@ -4497,7 +4497,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 79
 },
 {
 "id": 501,
@@ -4506,7 +4506,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 80
 },
 {
 "id": 502,
@@ -4515,7 +4515,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 81
 },
 {
 "id": 503,
@@ -4524,7 +4524,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 82
 },
 {
 "id": 504,
@@ -4533,7 +4533,7 @@
 "desbloado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 83
 },
 {
 "id": 505,
@@ -4542,7 +4542,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 84
 },
 {
 "id": 506,
@@ -4551,7 +4551,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 85
 },
 {
 "id": 507,
@@ -4560,7 +4560,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 86
 },
 {
 "id": 508,
@@ -4569,7 +4569,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 87
 },
 {
 "id": 509,
@@ -4578,7 +4578,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 88
 },
 {
 "id": 510,
@@ -4587,7 +4587,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 89
 },
 {
 "id": 511,
@@ -4596,7 +4596,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 90
 },
 {
 "id": 512,
@@ -4605,7 +4605,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 91
 },
 {
 "id": 513,
@@ -4614,7 +4614,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 92
 },
 {
 "id": 514,
@@ -4623,7 +4623,7 @@
 "desbloqueado": false,
 "desbloquea_personaje_id": null,
 "desbloquea_objeto_id": null,
-"desbloquea_consumible_id": null
+"desbloquea_consumible_id": 93
 },
 {
 "id": 515,
