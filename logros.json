@@ -1,0 +1,5735 @@
+[
+{
+"id": 1,
+"nombre": "Magdalene",
+"descripcion": "Consigue 7 o más contenedores de corazón rojo en una partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 2,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 2,
+"nombre": "Cain",
+"descripcion": "Ten 55 o más monedas a la vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 3,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 3,
+"nombre": "Judas",
+"descripcion": "Derrota a Mom's Heart por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 4,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 4,
+"nombre": "The Womb",
+"descripcion": "Derrota a Mom por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 5,
+"nombre": "The Harbingers",
+"descripcion": "Derrota a Mom por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 6,
+"nombre": "A Cube of Meat",
+"descripcion": "Derrota a un Jinete del Apocalipsis.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 73,
+"desbloquea_consumible_id": null
+},
+{
+"id": 7,
+"nombre": "Book of Revelations",
+"descripcion": "Derrota a un Jinete del Apocalipsis.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 78,
+"desbloquea_consumible_id": null
+},
+{
+"id": 8,
+"nombre": "A Transmutation",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 99,
+"desbloquea_consumible_id": null
+},
+{
+"id": 9,
+"nombre": "A Small Rock",
+"descripcion": "Destruye 100 rocas marcadas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 90,
+"desbloquea_consumible_id": null
+},
+{
+"id": 10,
+"nombre": "Monstro's Tooth",
+"descripcion": "Completa el capítulo de Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 86,
+"desbloquea_consumible_id": null
+},
+{
+"id": 11,
+"nombre": "Loki's Horns",
+"descripcion": "Derrota a Lokii por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 87,
+"desbloquea_consumible_id": null
+},
+{
+"id": 12,
+"nombre": "Dr. Fetus",
+"descripcion": "Derrota a Mom's Heart 9 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 52,
+"desbloquea_consumible_id": null
+},
+{
+"id": 13,
+"nombre": "Mom's Contact",
+"descripcion": "Recoge 'Mom's Eye' y cualquier otro objeto de Mom en la misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 110,
+"desbloquea_consumible_id": null
+},
+{
+"id": 14,
+"nombre": "The Bean",
+"descripcion": "Recoge 50 objetos cualquiera a lo largo de las partidas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 111,
+"desbloquea_consumible_id": null
+},
+{
+"id": 15,
+"nombre": "Mom's Pill Bottle",
+"descripcion": "Usa una carta de tarot 'II - The High Priestess'.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 102,
+"desbloquea_consumible_id": null
+},
+{
+"id": 16,
+"nombre": "Demon Baby",
+"descripcion": "Derrota a Mom's Heart con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 113,
+"desbloquea_consumible_id": null
+},
+{
+"id": 17,
+"nombre": "It Lives",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 18,
+"nombre": "Mom's Knife",
+"descripcion": "Derrota a Satan con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 114,
+"desbloquea_consumible_id": null
+},
+{
+"id": 19,
+"nombre": "The Ouija Board",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 115,
+"desbloquea_consumible_id": null
+},
+{
+"id": 20,
+"nombre": "Doctor's Remote",
+"descripcion": "Derrota a Mom por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 116,
+"desbloquea_consumible_id": null
+},
+{
+"id": 21,
+"nombre": "Cupid's Arrow",
+"descripcion": "Consigue el objeto 'Mini Mush' y 'The Compass'.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 117,
+"desbloquea_consumible_id": null
+},
+{
+"id": 22,
+"nombre": "Shoop da Whoop!",
+"descripcion": "Derrota a todos los jefes en Caves.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 118,
+"desbloquea_consumible_id": null
+},
+{
+"id": 23,
+"nombre": "Sheol",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 24,
+"nombre": "Steven",
+"descripcion": "Derrota a Steven en Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 120,
+"desbloquea_consumible_id": null
+},
+{
+"id": 25,
+"nombre": "The Parasite",
+"descripcion": "Recoge dos objetos de cabeza (Bob's Rotten Head, Cricket's Head, etc).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 104,
+"desbloquea_consumible_id": null
+},
+{
+"id": 26,
+"nombre": "The Wafer",
+"descripcion": "Derrota a Mom's Heart 7 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 108,
+"desbloquea_consumible_id": null
+},
+{
+"id": 27,
+"nombre": "Money = Power",
+"descripcion": "Recoge el objeto 'Dollar' de una máquina tragaperras.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 109,
+"desbloquea_consumible_id": null
+},
+{
+"id": 28,
+"nombre": "It's the Future",
+"descripcion": "Recoge 2 objetos de tecnología (Technology y Technology 2).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 152,
+"desbloquea_consumible_id": null
+},
+{
+"id": 29,
+"nombre": "Rosary",
+"descripcion": "Recoge 5 objetos de la sala del ángel o de fe.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 155,
+"desbloquea_consumible_id": null
+},
+{
+"id": 30,
+"nombre": "The Box",
+"descripcion": "Derrota a Mom.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 198,
+"desbloquea_consumible_id": null
+},
+{
+"id": 31,
+"nombre": "Everything is Terrible",
+"descripcion": "Derrota a Mom's Heart 5 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 32,
+"nombre": "Samson",
+"descripcion": "Supera dos salas seguidas sin recibir daño.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 6,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 33,
+"nombre": "Mr. Mega",
+"descripcion": "Destruye 10 rocas marcadas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 106,
+"desbloquea_consumible_id": null
+},
+{
+"id": 34,
+"nombre": "The Candle",
+"descripcion": "Supera el Desafío 1 (Pitch Black).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 164,
+"desbloquea_consumible_id": null
+},
+{
+"id": 35,
+"nombre": "The D20",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 166,
+"desbloquea_consumible_id": null
+},
+{
+"id": 36,
+"nombre": "The Fish Head",
+"descripcion": "Supera el Desafío 2 (High Brow).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 37,
+"nombre": "Pink Eye",
+"descripcion": "Recoge 100 objetos cualquiera.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 38,
+"nombre": "Pinking Shears",
+"descripcion": "Muere 100 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 107,
+"desbloquea_consumible_id": null
+},
+{
+"id": 39,
+"nombre": "The Egg",
+"descripcion": "Derrota a Mom's Heart con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 40,
+"nombre": "The Gamekid",
+"descripcion": "Visita 10 máquinas tragaperras.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 93,
+"desbloquea_consumible_id": null
+},
+{
+"id": 41,
+"nombre": "The Halo",
+"descripcion": "Derrota a Mom usando la Biblia.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 101,
+"desbloquea_consumible_id": null
+},
+{
+"id": 42,
+"nombre": "Blood Lust",
+"descripcion": "Derrota a Isaac con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 157,
+"desbloquea_consumible_id": null
+},
+{
+"id": 43,
+"nombre": "Blood Rights",
+"descripcion": "Derrota a Satan con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 159,
+"desbloquea_consumible_id": null
+},
+{
+"id": 44,
+"nombre": "The Scissors",
+"descripcion": "Muere 100 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 172,
+"desbloquea_consumible_id": null
+},
+{
+"id": 45,
+"nombre": "A Bag of Pennies",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 156,
+"desbloquea_consumible_id": null
+},
+{
+"id": 46,
+"nombre": "The Blood Bag",
+"descripcion": "Usa la máquina de donación de sangre 30 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 119,
+"desbloquea_consumible_id": null
+},
+{
+"id": 47,
+"nombre": "The D-Mirror",
+"descripcion": "Supera el Desafío 4 (Darkness).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 48,
+"nombre": "Azazel",
+"descripcion": "Haz 3 pactos con el diablo en una partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 7,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 49,
+"nombre": "Lazarus",
+"descripcion": "Ten 4 o más corazones de alma a la vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 8,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 50,
+"nombre": "Eden",
+"descripcion": "Completa el capítulo de The Womb por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 9,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 51,
+"nombre": "The Lost",
+"descripcion": "Muere en una sala de sacrificio con el Missing Poster.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 10,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 52,
+"nombre": "Guppy's Hairball",
+"descripcion": "Conviértete en Guppy.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 187,
+"desbloquea_consumible_id": null
+},
+{
+"id": 53,
+"nombre": "A Forgotten Horseman",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 54,
+"nombre": "The Book of Sin",
+"descripcion": "Derrota a todos los pecados capitales.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 97,
+"desbloquea_consumible_id": null
+},
+{
+"id": 55,
+"nombre": "The Necropolis",
+"descripcion": "Derrota a todos los jefes de Depths.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 56,
+"nombre": "The Womb",
+"descripcion": "Derrota a Mom.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 57,
+"nombre": "The Blue Womb",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 58,
+"nombre": "The Utero",
+"descripcion": "Derrota a todos los jefes de Womb.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 59,
+"nombre": "The Parasite",
+"descripcion": "Recoge dos objetos de cabeza.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 104,
+"desbloquea_consumible_id": null
+},
+{
+"id": 60,
+"nombre": "A Quarter",
+"descripcion": "Derrota a Mom's Heart 8 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 74,
+"desbloquea_consumible_id": null
+},
+{
+"id": 61,
+"nombre": "Smile Ghost",
+"descripcion": "Supera el Desafío 5 (The Tank).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 62,
+"nombre": "The Cellar",
+"descripcion": "Derrota a todos los jefes de Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 63,
+"nombre": "The Catacombs",
+"descripcion": "Derrota a todos los jefes de Caves.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 64,
+"nombre": "The Sheol",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 65,
+"nombre": "The Cathedral",
+"descripcion": "Derrota a Mom's Heart 11 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 66,
+"nombre": "The Chest",
+"descripcion": "Termina la Catedral con la Polaroid.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 67,
+"nombre": "Dark Room",
+"descripcion": "Termina el Sheol con el Negativo.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 68,
+"nombre": "I - The Magician",
+"descripcion": "Supera el Desafío 6 (Solar System).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 1
+},
+{
+"id": 69,
+"nombre": "II - The High Priestess",
+"descripcion": "Derrota a Mom por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 2
+},
+{
+"id": 70,
+"nombre": "III - The Empress",
+"descripcion": "Completa el capítulo de Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 3
+},
+{
+"id": 71,
+"nombre": "IV - The Emperor",
+"descripcion": "Derrota a Mom's Heart por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 4
+},
+{
+"id": 72,
+"nombre": "V - The Hierophant",
+"descripcion": "Derrota a Mom's Heart con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 5
+},
+{
+"id": 73,
+"nombre": "VI - The Lovers",
+"descripcion": "Derrota a Mom's Heart con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 6
+},
+{
+"id": 74,
+"nombre": "VII - The Chariot",
+"descripcion": "Supera el Desafío 7 (Suicide King).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 7
+},
+{
+"id": 75,
+"nombre": "VIII - Justice",
+"descripcion": "Derrota a Mom's Heart con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 8
+},
+{
+"id": 76,
+"nombre": "IX - The Hermit",
+"descripcion": "Supera el Desafío 8 (Cat Got Your Tongue).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 9
+},
+{
+"id": 77,
+"nombre": "X - Wheel of Fortune",
+"descripcion": "Derrota a Mom's Heart con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 10
+},
+{
+"id": 78,
+"nombre": "XI - Strength",
+"descripcion": "Derrota a Mom's Heart con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 11
+},
+{
+"id": 79,
+"nombre": "XII - The Hanged Man",
+"descripcion": "Derrota a Isaac con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 12
+},
+{
+"id": 80,
+"nombre": "XIII - Death",
+"descripcion": "Supera el Desafío 9 (Demo Man).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 13
+},
+{
+"id": 81,
+"nombre": "XIV - Temperance",
+"descripcion": "Usa la máquina de donación de sangre 20 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 14
+},
+{
+"id": 82,
+"nombre": "??? (Blue Baby)",
+"descripcion": "Derrota a Mom's Heart 10 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 5,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 83,
+"nombre": "XVI - The Tower",
+"descripcion": "Derrota a Mom's Heart con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 16
+},
+{
+"id": 84,
+"nombre": "The D6",
+"descripcion": "Derrota a Isaac con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 105,
+"desbloquea_consumible_id": null
+},
+{
+"id": 85,
+"nombre": "XVIII - The Moon",
+"descripcion": "Supera el Desafío 10 (Cursed!).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 18
+},
+{
+"id": 86,
+"nombre": "XIX - The Sun",
+"descripcion": "Derrota a Isaac con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 19
+},
+{
+"id": 87,
+"nombre": "XX - Judgement",
+"descripcion": "Derrota a Isaac con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 20
+},
+{
+"id": 88,
+"nombre": "XXI - The World",
+"descripcion": "Supera el Desafío 11 (Glass Cannon).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 21
+},
+{
+"id": 89,
+"nombre": "The Ace of Spades",
+"descripcion": "Derrota a Satan con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 90,
+"nombre": "The Ace of Clubs",
+"descripcion": "Derrota a Satan con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 91,
+"nombre": "The Ace of Diamonds",
+"descripcion": "Derrota a Satan con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 92,
+"nombre": "The Ace of Hearts",
+"descripcion": "Derrota a Satan con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 93,
+"nombre": "The Burnt Penny",
+"descripcion": "Supera el Desafío 13 (Beans!).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 94,
+"nombre": "The Flat Penny",
+"descripcion": "Recoge 20 monedas en una partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 95,
+"nombre": "The Bloody Penny",
+"descripcion": "Derrota a Mom's Heart con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 96,
+"nombre": "The Counterfeit Penny",
+"descripcion": "Juega 100 veces a las máquinas de Shell Game.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 97,
+"nombre": "The Book of Sin",
+"descripcion": "Derrota a todos los pecados capitales.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 97,
+"desbloquea_consumible_id": null
+},
+{
+"id": 98,
+"nombre": "The Lucky Toe",
+"descripcion": "Explota 20 máquinas de donación de sangre.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 99,
+"nombre": "The Cellar",
+"descripcion": "Derrota a todos los jefes de Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 100,
+"nombre": "The Polaroid",
+"descripcion": "Derrota a Isaac 5 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 231,
+"desbloquea_consumible_id": null
+},
+{
+"id": 101,
+"nombre": "The Negative",
+"descripcion": "Derrota a Satan 5 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 232,
+"desbloquea_consumible_id": null
+},
+{
+"id": 102,
+"nombre": "Dad's Key",
+"descripcion": "Consigue las dos piezas de la llave de los ángeles en una misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 175,
+"desbloquea_consumible_id": null
+},
+{
+"id": 103,
+"nombre": "The Blue Map",
+"descripcion": "Dona 10 monedas a la máquina de donación.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 243,
+"desbloquea_consumible_id": null
+},
+{
+"id": 104,
+"nombre": "There's Options",
+"descripcion": "Dona 50 monedas a la máquina de donación.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 249,
+"desbloquea_consumible_id": null
+},
+{
+"id": 105,
+"nombre": "Black Lotus",
+"descripcion": "Recoge 3 objetos de salud en una partida (HP Up).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 226,
+"desbloquea_consumible_id": null
+},
+{
+"id": 106,
+"nombre": "Get it?",
+"descripcion": "Consigue el objeto 'Missing No.'",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 258,
+"desbloquea_consumible_id": null
+},
+{
+"id": 107,
+"nombre": "Pinking Shears",
+"descripcion": "Muere 100 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 107,
+"desbloquea_consumible_id": null
+},
+{
+"id": 108,
+"nombre": "The Candle",
+"descripcion": "Dona 900 monedas a la máquina de donación.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 164,
+"desbloquea_consumible_id": null
+},
+{
+"id": 109,
+"nombre": "The D20",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 166,
+"desbloquea_consumible_id": null
+},
+{
+"id": 110,
+"nombre": "The Celtic Cross",
+"descripcion": "Derrota a Mom's Heart con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 162,
+"desbloquea_consumible_id": null
+},
+{
+"id": 111,
+"nombre": "Abel",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 188,
+"desbloquea_consumible_id": null
+},
+{
+"id": 112,
+"nombre": "Curved Horn",
+"descripcion": "Derrota a Mom's Heart con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 113,
+"nombre": "Sacrificial Dagger",
+"descripcion": "Derrota a Isaac con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 172,
+"desbloquea_consumible_id": null
+},
+{
+"id": 114,
+"nombre": "Bloody Lust",
+"descripcion": "Derrota a Isaac con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 157,
+"desbloquea_consumible_id": null
+},
+{
+"id": 115,
+"nombre": "Super Vagabundo",
+"descripcion": "Derrota a Satanás en el Sheol jugando como Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 116,
+"nombre": "The D-Mirror",
+"descripcion": "Supera el Desafío 4 (Darkness).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 117,
+"nombre": "The Shadow",
+"descripcion": "Derrota a Isaac con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 311,
+"desbloquea_consumible_id": null
+},
+{
+"id": 118,
+"nombre": "The Mind",
+"descripcion": "Derrota a Isaac con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 333,
+"desbloquea_consumible_id": null
+},
+{
+"id": 119,
+"nombre": "The Body",
+"descripcion": "Derrota a ??? (Blue Baby) con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 334,
+"desbloquea_consumible_id": null
+},
+{
+"id": 120,
+"nombre": "The Soul",
+"descripcion": "Derrota a ??? (Blue Baby) con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 335,
+"desbloquea_consumible_id": null
+},
+{
+"id": 121,
+"nombre": "The Scissors",
+"descripcion": "Muere 100 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 325,
+"desbloquea_consumible_id": null
+},
+{
+"id": 122,
+"nombre": "The Parasite",
+"descripcion": "Recoge dos objetos de cabeza en una partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 104,
+"desbloquea_consumible_id": null
+},
+{
+"id": 123,
+"nombre": "A Quarter",
+"descripcion": "Derrota a Mom's Heart 8 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 74,
+"desbloquea_consumible_id": null
+},
+{
+"id": 124,
+"nombre": "Small Rock",
+"descripcion": "Destruye 100 rocas marcadas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 90,
+"desbloquea_consumible_id": null
+},
+{
+"id": 125,
+"nombre": "The Necropolis",
+"descripcion": "Derrota a todos los jefes de Depths.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 126,
+"nombre": "The Utero",
+"descripcion": "Derrota a todos los jefes de The Womb.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 127,
+"nombre": "The Cellar",
+"descripcion": "Derrota a todos los jefes de Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 128,
+"nombre": "The Catacombs",
+"descripcion": "Derrota a todos los jefes de Caves.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 129,
+"nombre": "The Book of Sin",
+"descripcion": "Derrota a los 7 pecados capitales.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 97,
+"desbloquea_consumible_id": null
+},
+{
+"id": 130,
+"nombre": "The Halo",
+"descripcion": "Derrota a Mom usando La Biblia.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 101,
+"desbloquea_consumible_id": null
+},
+{
+"id": 131,
+"nombre": "Transcendence",
+"descripcion": "Derrota a Mom's Heart 3 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 20,
+"desbloquea_consumible_id": null
+},
+{
+"id": 132,
+"nombre": "Everything is Terrible",
+"descripcion": "Derrota a Mom's Heart 5 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 133,
+"nombre": "The Wafer",
+"descripcion": "Derrota a Mom's Heart 7 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 108,
+"desbloquea_consumible_id": null
+},
+{
+"id": 134,
+"nombre": "Money = Power",
+"descripcion": "Recoge el objeto 'The Dollar' en una máquina tragaperras.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 109,
+"desbloquea_consumible_id": null
+},
+{
+"id": 135,
+"nombre": "Guppy's Hairball",
+"descripcion": "Conviértete en Guppy.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 187,
+"desbloquea_consumible_id": null
+},
+{
+"id": 136,
+"nombre": "The Lucky Toe",
+"descripcion": "Explota 20 máquinas de donación de sangre.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 137,
+"nombre": "The Epic Fetus",
+"descripcion": "Supera el Desafío 19 (Family Man).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 168,
+"desbloquea_consumible_id": null
+},
+{
+"id": 138,
+"nombre": "The Burnt Penny",
+"descripcion": "Supera el Desafío 13 (Beans!).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 139,
+"nombre": "The Flat Penny",
+"descripcion": "Recoge 20 monedas en una misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 140,
+"nombre": "The Bloody Penny",
+"descripcion": "Derrota a Mom's Heart con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 141,
+"nombre": "The Counterfeit Penny",
+"descripcion": "Juega 100 veces a las máquinas de Shell Game.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 142,
+"nombre": "The Ruins",
+"descripcion": "Supera el Desafío 14 (It's in the Cards).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 143,
+"nombre": "The Robo-Baby",
+"descripcion": "Supera el Desafío 16 (Computer Savvy).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 95,
+"desbloquea_consumible_id": null
+},
+{
+"id": 144,
+"nombre": "Little C.H.A.D.",
+"descripcion": "Derrota a C.H.A.D. en Caves.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 96,
+"desbloquea_consumible_id": null
+},
+{
+"id": 145,
+"nombre": "Little Gish",
+"descripcion": "Derrota a Gish en Depths.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 99,
+"desbloquea_consumible_id": null
+},
+{
+"id": 146,
+"nombre": "Little Steven",
+"descripcion": "Derrota a Steven en Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 100,
+"desbloquea_consumible_id": null
+},
+{
+"id": 147,
+"nombre": "A Bag of Bombs",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 167,
+"desbloquea_consumible_id": null
+},
+{
+"id": 148,
+"nombre": "The D6",
+"descripcion": "Derrota a Isaac con ??? (Blue Baby).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 105,
+"desbloquea_consumible_id": null
+},
+{
+"id": 149,
+"nombre": "The Scissors",
+"descripcion": "Muere 100 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 172,
+"desbloquea_consumible_id": null
+},
+{
+"id": 150,
+"nombre": "The Lost",
+"descripcion": "Muere en una Sala de Sacrificio llevando el objeto 'Missing Poster'.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 10,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 151,
+"nombre": "The Parasite",
+"descripcion": "Recoge dos objetos de cabeza.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 104,
+"desbloquea_consumible_id": null
+},
+{
+"id": 152,
+"nombre": "A Quarter",
+"descripcion": "Derrota a Mom's Heart 8 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 74,
+"desbloquea_consumible_id": null
+},
+{
+"id": 153,
+"nombre": "Everything is Terrible",
+"descripcion": "Derrota a Mom's Heart 5 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 154,
+"nombre": "The Wafer",
+"descripcion": "Derrota a Mom's Heart 7 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 108,
+"desbloquea_consumible_id": null
+},
+{
+"id": 155,
+"nombre": "Money = Power",
+"descripcion": "Recoge el objeto 'The Dollar' en una máquina tragaperras.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 109,
+"desbloquea_consumible_id": null
+},
+{
+"id": 156,
+"nombre": "Mom's Contact",
+"descripcion": "Recoge 'Mom's Eye' y cualquier otro objeto de Mom.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 110,
+"desbloquea_consumible_id": null
+},
+{
+"id": 157,
+"nombre": "The Bean",
+"descripcion": "Recoge 50 objetos a lo largo de tus partidas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 111,
+"desbloquea_consumible_id": null
+},
+{
+"id": 158,
+"nombre": "Guardian Angel",
+"descripcion": "Derrota a Mom's Heart con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 112,
+"desbloquea_consumible_id": null
+},
+{
+"id": 159,
+"nombre": "Demon Baby",
+"descripcion": "Derrota a Mom's Heart con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 113,
+"desbloquea_consumible_id": null
+},
+{
+"id": 160,
+"nombre": "Mom's Knife",
+"descripcion": "Derrota a Satan con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 114,
+"desbloquea_consumible_id": null
+},
+{
+"id": 161,
+"nombre": "The Ouija Board",
+"descripcion": "Derrota a Mom's Heart con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 115,
+"desbloquea_consumible_id": null
+},
+{
+"id": 162,
+"nombre": "Doctor's Remote",
+"descripcion": "Derrota a Mom por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 116,
+"desbloquea_consumible_id": null
+},
+{
+"id": 163,
+"nombre": "Cupid's Arrow",
+"descripcion": "Recoge el objeto 'Mini Mush' y 'The Compass'.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 117,
+"desbloquea_consumible_id": null
+},
+{
+"id": 164,
+"nombre": "Shoop da Whoop!",
+"descripcion": "Derrota a todos los jefes de Caves.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 118,
+"desbloquea_consumible_id": null
+},
+{
+"id": 165,
+"nombre": "The Blood Bag",
+"descripcion": "Usa la máquina de donación de sangre 30 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 119,
+"desbloquea_consumible_id": null
+},
+{
+"id": 166,
+"nombre": "Steven",
+"descripcion": "Derrota a Steven en Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 120,
+"desbloquea_consumible_id": null
+},
+{
+"id": 167,
+"nombre": "The Fate",
+"descripcion": "Recoge 10 cofres dorados en una misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 179,
+"desbloquea_consumible_id": null
+},
+{
+"id": 168,
+"nombre": "The Celtic Cross",
+"descripcion": "Derrota a Mom's Heart con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 162,
+"desbloquea_consumible_id": null
+},
+{
+"id": 169,
+"nombre": "Abel",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 188,
+"desbloquea_consumible_id": null
+},
+{
+"id": 170,
+"nombre": "Sacrificial Dagger",
+"descripcion": "Derrota a Isaac con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 172,
+"desbloquea_consumible_id": null
+},
+{
+"id": 171,
+"nombre": "Blood Lust",
+"descripcion": "Derrota a Isaac con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 157,
+"desbloquea_consumible_id": null
+},
+{
+"id": 172,
+"nombre": "The D20",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 166,
+"desbloquea_consumible_id": null
+},
+{
+"id": 173,
+"nombre": "The Blue Map",
+"descripcion": "Dona 10 monedas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 243,
+"desbloquea_consumible_id": null
+},
+{
+"id": 174,
+"nombre": "There's Options",
+"descripcion": "Dona 50 monedas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 249,
+"desbloquea_consumible_id": null
+},
+{
+"id": 175,
+"nombre": "Black Lotus",
+"descripcion": "Recoge 3 objetos de salud.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 226,
+"desbloquea_consumible_id": null
+},
+{
+"id": 176,
+"nombre": "The Candle",
+"descripcion": "Dona 900 monedas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 164,
+"desbloquea_consumible_id": null
+},
+{
+"id": 177,
+"nombre": "Guppy's Hairball",
+"descripcion": "Conviértete en Guppy.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 187,
+"desbloquea_consumible_id": null
+},
+{
+"id": 178,
+"nombre": "Abaddon",
+"descripcion": "Derrota a ??? (Blue Baby) con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 230,
+"desbloquea_consumible_id": null
+},
+{
+"id": 179,
+"nombre": "Ludovico Technique",
+"descripcion": "Derrota a Isaac con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 329,
+"desbloquea_consumible_id": null
+},
+{
+"id": 180,
+"nombre": "Lost Baby",
+"descripcion": "Derrota a Isaac con Isaac en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 181,
+"nombre": "Cute Baby",
+"descripcion": "Derrota a Isaac con Magdalene en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 182,
+"nombre": "Crow Baby",
+"descripcion": "Derrota a Isaac con Eve en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 183,
+"nombre": "Bound Baby",
+"descripcion": "Derrota a Isaac con Samson en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 184,
+"nombre": "Begotten Baby",
+"descripcion": "Derrota a Isaac con Azazel en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 185,
+"nombre": "Glass Baby",
+"descripcion": "Derrota a Isaac con Lazarus en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 186,
+"nombre": "Wrapped Baby",
+"descripcion": "Derrota a Isaac con Eden en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 187,
+"nombre": "Duality",
+"descripcion": "Derrota a Ultra Greedier con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 498,
+"desbloquea_consumible_id": null
+},
+{
+"id": 188,
+"nombre": "The Lost Souls",
+"descripcion": "Derrota a Isaac con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 189,
+"nombre": "The Mind",
+"descripcion": "Derrota a Satan con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 333,
+"desbloquea_consumible_id": null
+},
+{
+"id": 190,
+"nombre": "The Soul",
+"descripcion": "Derrota a ??? (Blue Baby) con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 335,
+"desbloquea_consumible_id": null
+},
+{
+"id": 191,
+"nombre": "The Body",
+"descripcion": "Derrota a ??? (Blue Baby) con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 334,
+"desbloquea_consumible_id": null
+},
+{
+"id": 192,
+"nombre": "Isaac's Tears",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 321,
+"desbloquea_consumible_id": null
+},
+{
+"id": 193,
+"nombre": "Guillotine",
+"descripcion": "Derrota a Isaac con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 307,
+"desbloquea_consumible_id": null
+},
+{
+"id": 194,
+"nombre": "Judas' Shadow",
+"descripcion": "Derrota a ??? (Blue Baby) con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 311,
+"desbloquea_consumible_id": null
+},
+{
+"id": 195,
+"nombre": "Maggy's Bow",
+"descripcion": "Derrota a Isaac con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 312,
+"desbloquea_consumible_id": null
+},
+{
+"id": 196,
+"nombre": "Cain's Other Eye",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 319,
+"desbloquea_consumible_id": null
+},
+{
+"id": 197,
+"nombre": "Eve's Bird Foot",
+"descripcion": "Derrota a Isaac con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 198,
+"nombre": "Samson's Chains",
+"descripcion": "Derrota a ??? (Blue Baby) con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 320,
+"desbloquea_consumible_id": null
+},
+{
+"id": 199,
+"nombre": "Lazarus' Rags",
+"descripcion": "Derrota a Isaac con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 332,
+"desbloquea_consumible_id": null
+},
+{
+"id": 200,
+"nombre": "Eden's Blessing",
+"descripcion": "Derrota a Hush con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 382,
+"desbloquea_consumible_id": null
+},
+{
+"id": 201,
+"nombre": "Blank Card",
+"descripcion": "Derrota a Isaac con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 286,
+"desbloquea_consumible_id": null
+},
+{
+"id": 202,
+"nombre": "Book of Secrets",
+"descripcion": "Derrota a Satan con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 287,
+"desbloquea_consumible_id": null
+},
+{
+"id": 203,
+"nombre": "Mystery Sack",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 288,
+"desbloquea_consumible_id": null
+},
+{
+"id": 204,
+"nombre": "Other Side",
+"descripcion": "Derrota a ??? (Blue Baby) con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 289,
+"desbloquea_consumible_id": null
+},
+{
+"id": 205,
+"nombre": "Lil' Chest",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 290,
+"desbloquea_consumible_id": null
+},
+{
+"id": 206,
+"nombre": "Bob's Curse",
+"descripcion": "Derrota a Sloth (Pereza) por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 291,
+"desbloquea_consumible_id": null
+},
+{
+"id": 207,
+"nombre": "Blind Rage",
+"descripcion": "Derrota a Isaac con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 208,
+"nombre": "Fart Baby",
+"descripcion": "Derrota a Isaac con ??? (Blue Baby).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 293,
+"desbloquea_consumible_id": null
+},
+{
+"id": 209,
+"nombre": "D100",
+"descripcion": "Completa el Boss Rush con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 283,
+"desbloquea_consumible_id": null
+},
+{
+"id": 210,
+"nombre": "The Mind",
+"descripcion": "Derrota a Isaac con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 333,
+"desbloquea_consumible_id": null
+},
+{
+"id": 211,
+"nombre": "The Soul",
+"descripcion": "Derrota a Satan con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 335,
+"desbloquea_consumible_id": null
+},
+{
+"id": 212,
+"nombre": "The Body",
+"descripcion": "Derrota a ??? (Blue Baby) con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 334,
+"desbloquea_consumible_id": null
+},
+{
+"id": 213,
+"nombre": "Isaac's Heart",
+"descripcion": "Derrota a Isaac con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 276,
+"desbloquea_consumible_id": null
+},
+{
+"id": 214,
+"nombre": "The Baby Is Hollow",
+"descripcion": "Derrota a Mom's Heart con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 215,
+"nombre": "The Sworn Protector",
+"descripcion": "Derrota a Isaac con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 363,
+"desbloquea_consumible_id": null
+},
+{
+"id": 216,
+"nombre": "The Lost's Poster",
+"descripcion": "Derrota a Isaac con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 217,
+"nombre": "The White Baby",
+"descripcion": "Derrota a Mom's Heart con The Lost en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 218,
+"nombre": "D-Infinity",
+"descripcion": "Derrota a Delirium con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 489,
+"desbloquea_consumible_id": null
+},
+{
+"id": 219,
+"nombre": "Eden's Soul",
+"descripcion": "Derrota a Delirium con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 490,
+"desbloquea_consumible_id": null
+},
+{
+"id": 220,
+"nombre": "Euthanasia",
+"descripcion": "Derrota a Delirium con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 491,
+"desbloquea_consumible_id": null
+},
+{
+"id": 221,
+"nombre": "Sack of Sacks",
+"descripcion": "Derrota a Delirium con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 492,
+"desbloquea_consumible_id": null
+},
+{
+"id": 222,
+"nombre": "Little Horn",
+"descripcion": "Derrota a Delirium con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 493,
+"desbloquea_consumible_id": null
+},
+{
+"id": 223,
+"nombre": "Brown Nugget",
+"descripcion": "Derrota a Delirium con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 494,
+"desbloquea_consumible_id": null
+},
+{
+"id": 224,
+"nombre": "Compound Fracture",
+"descripcion": "Derrota a Delirium con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 495,
+"desbloquea_consumible_id": null
+},
+{
+"id": 225,
+"nombre": "Dull Razor",
+"descripcion": "Derrota a Delirium con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 496,
+"desbloquea_consumible_id": null
+},
+{
+"id": 226,
+"nombre": "Dark Prince's Crown",
+"descripcion": "Derrota a Delirium con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 497,
+"desbloquea_consumible_id": null
+},
+{
+"id": 227,
+"nombre": "Duality",
+"descripcion": "Derrota a Delirium con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 498,
+"desbloquea_consumible_id": null
+},
+{
+"id": 228,
+"nombre": "Eucharist",
+"descripcion": "Derrota a Delirium con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 499,
+"desbloquea_consumible_id": null
+},
+{
+"id": 229,
+"nombre": "Void",
+"descripcion": "Derrota a Delirium con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 477,
+"desbloquea_consumible_id": null
+},
+{
+"id": 230,
+"nombre": "Holy Card",
+"descripcion": "Derrota a Delirium con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 48
+},
+{
+"id": 231,
+"nombre": "Crooked Penny",
+"descripcion": "Derrota a Delirium con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 501,
+"desbloquea_consumible_id": null
+},
+{
+"id": 232,
+"nombre": "Moms Box",
+"descripcion": "Derrota a Isaac con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 439,
+"desbloquea_consumible_id": null
+},
+{
+"id": 233,
+"nombre": "Farting Baby",
+"descripcion": "Derrota a Isaac con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 293,
+"desbloquea_consumible_id": null
+},
+{
+"id": 234,
+"nombre": "The Lost",
+"descripcion": "Muere en una sala de sacrificio con el Missing Poster.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 10,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 235,
+"nombre": "Godhead",
+"descripcion": "Completa todas las marcas en Hard Mode con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 331,
+"desbloquea_consumible_id": null
+},
+{
+"id": 236,
+"nombre": "Dark Room",
+"descripcion": "Termina el Sheol con el Negativo.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 237,
+"nombre": "The Chest",
+"descripcion": "Termina la Catedral con la Polaroid.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 238,
+"nombre": "Key Piece 1",
+"descripcion": "Derrota a un Ángel en la sala del Ángel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 238,
+"desbloquea_consumible_id": null
+},
+{
+"id": 239,
+"nombre": "Key Piece 2",
+"descripcion": "Derrota a un Ángel en la sala del Ángel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 239,
+"desbloquea_consumible_id": null
+},
+{
+"id": 240,
+"nombre": "Angels",
+"descripcion": "Derrota a Isaac o Satan.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 241,
+"nombre": "Mega Satan",
+"descripcion": "Derrota a Mega Satan por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 242,
+"nombre": "Renaissance Baby",
+"descripcion": "Derrota a Mom's Heart con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 243,
+"nombre": "Rune of Hagalaz",
+"descripcion": "Supera el Desafío 1 (Pitch Black).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 30
+},
+{
+"id": 244,
+"nombre": "Rune of Jera",
+"descripcion": "Supera el Desafío 2 (High Brow).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 31
+},
+{
+"id": 245,
+"nombre": "Rune of Ehwaz",
+"descripcion": "Supera el Desafío 3 (Head Trauma).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 32
+},
+{
+"id": 246,
+"nombre": "Rune of Dagaz",
+"descripcion": "Supera el Desafío 4 (Darkness).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 33
+},
+{
+"id": 247,
+"nombre": "Rune of Ansuz",
+"descripcion": "Supera el Desafío 5 (The Tank).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 34
+},
+{
+"id": 248,
+"nombre": "Rune of Perthro",
+"descripcion": "Supera el Desafío 6 (Solar System).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 35
+},
+{
+"id": 249,
+"nombre": "Rune of Berkano",
+"descripcion": "Supera el Desafío 7 (Suicide King).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 36
+},
+{
+"id": 250,
+"nombre": "Rune of Algiz",
+"descripcion": "Supera el Desafío 8 (Cat Got Your Tongue).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 37
+},
+{
+"id": 251,
+"nombre": "Chaos Card",
+"descripcion": "Supera el Desafío 9 (Demo Man).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 42
+},
+{
+"id": 252,
+"nombre": "Credit Card",
+"descripcion": "Supera el Desafío 10 (Cursed!).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 43
+},
+{
+"id": 253,
+"nombre": "Rules Card",
+"descripcion": "Supera el Desafío 11 (Glass Cannon).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 44
+},
+{
+"id": 254,
+"nombre": "Card Against Humanity",
+"descripcion": "Supera el Desafío 12 (When Life Gives You Lemons).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 45
+},
+{
+"id": 255,
+"nombre": "Burnt Penny",
+"descripcion": "Supera el Desafío 13 (Beans!).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 256,
+"nombre": "Swallowed Penny",
+"descripcion": "Supera el Desafío 14 (It's in the Cards).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 257,
+"nombre": "Robo-Baby 2.0",
+"descripcion": "Supera el Desafío 16 (Computer Savvy).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 267,
+"desbloquea_consumible_id": null
+},
+{
+"id": 258,
+"nombre": "Death's Touch",
+"descripcion": "Supera el Desafío 17 (Waka Waka).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 237,
+"desbloquea_consumible_id": null
+},
+{
+"id": 259,
+"nombre": "Tech.5",
+"descripcion": "Supera el Desafío 18 (The Host).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 244,
+"desbloquea_consumible_id": null
+},
+{
+"id": 260,
+"nombre": "Epic Fetus",
+"descripcion": "Supera el Desafío 19 (Family Man).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 168,
+"desbloquea_consumible_id": null
+},
+{
+"id": 261,
+"nombre": "Smiley Face",
+"descripcion": "Supera el Desafío 20 (Purist).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 262,
+"nombre": "Gold Card",
+"descripcion": "Supera el Desafío 21 (XXXXXXXXL).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 50
+},
+{
+"id": 263,
+"nombre": "Get It?",
+"descripcion": "Recoge el objeto 'Missing No.'",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 258,
+"desbloquea_consumible_id": null
+},
+{
+"id": 264,
+"nombre": "The D Infinity",
+"descripcion": "Derrota a Delirium con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 489,
+"desbloquea_consumible_id": null
+},
+{
+"id": 265,
+"nombre": "Lilith",
+"descripcion": "Derrota a Ultra Greed con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 11,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 266,
+"nombre": "Cambion Conception",
+"descripcion": "Derrota a ??? (Blue Baby) con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 412,
+"desbloquea_consumible_id": null
+},
+{
+"id": 267,
+"nombre": "Immaculate Conception",
+"descripcion": "Derrota a Isaac con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 413,
+"desbloquea_consumible_id": null
+},
+{
+"id": 268,
+"nombre": "Serpent's Kiss",
+"descripcion": "Derrota a Satan con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 393,
+"desbloquea_consumible_id": null
+},
+{
+"id": 269,
+"nombre": "Succubus",
+"descripcion": "Derrota a The Lamb con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 417,
+"desbloquea_consumible_id": null
+},
+{
+"id": 270,
+"nombre": "Maw of the Void",
+"descripcion": "Derrota a Hush con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 399,
+"desbloquea_consumible_id": null
+},
+{
+"id": 271,
+"nombre": "Toxic Shock",
+"descripcion": "Derrota a Hush con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 403,
+"desbloquea_consumible_id": null
+},
+{
+"id": 272,
+"nombre": "Purity",
+"descripcion": "Derrota a Hush con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 407,
+"desbloquea_consumible_id": null
+},
+{
+"id": 273,
+"nombre": "D Bird",
+"descripcion": "Derrota a Hush con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 274,
+"nombre": "Betrayal",
+"descripcion": "Derrota a Hush con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 391,
+"desbloquea_consumible_id": null
+},
+{
+"id": 275,
+"nombre": "Fate's Reward",
+"descripcion": "Derrota a Hush con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 361,
+"desbloquea_consumible_id": null
+},
+{
+"id": 276,
+"nombre": "Athame",
+"descripcion": "Derrota a Hush con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 405,
+"desbloquea_consumible_id": null
+},
+{
+"id": 277,
+"nombre": "Lusty Blood",
+"descripcion": "Derrota a Hush con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 406,
+"desbloquea_consumible_id": null
+},
+{
+"id": 278,
+"nombre": "Empty Vessel",
+"descripcion": "Derrota a Hush con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 410,
+"desbloquea_consumible_id": null
+},
+{
+"id": 279,
+"nombre": "Eden's Blessing",
+"descripcion": "Derrota a Hush con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 382,
+"desbloquea_consumible_id": null
+},
+{
+"id": 280,
+"nombre": "Incubus",
+"descripcion": "Derrota a Hush con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 360,
+"desbloquea_consumible_id": null
+},
+{
+"id": 281,
+"nombre": "Fate's Reward",
+"descripcion": "Derrota a Hush con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 361,
+"desbloquea_consumible_id": null
+},
+{
+"id": 282,
+"nombre": "Sworn Protector",
+"descripcion": "Derrota a Hush con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 363,
+"desbloquea_consumible_id": null
+},
+{
+"id": 283,
+"nombre": "Deep Pockets",
+"descripcion": "Derrota a Hush con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 416,
+"desbloquea_consumible_id": null
+},
+{
+"id": 284,
+"nombre": "Key Beggars",
+"descripcion": "Derrota a Ultra Greed con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 285,
+"nombre": "Cain's Eye",
+"descripcion": "Derrota a Ultra Greed con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 286,
+"nombre": "Eve's Mascara",
+"descripcion": "Derrota a Isaac con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 153,
+"desbloquea_consumible_id": null
+},
+{
+"id": 287,
+"nombre": "Bloody Lust",
+"descripcion": "Derrota a Isaac con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 157,
+"desbloquea_consumible_id": null
+},
+{
+"id": 288,
+"nombre": "The D20",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 166,
+"desbloquea_consumible_id": null
+},
+{
+"id": 289,
+"nombre": "The Candle",
+"descripcion": "Dona 900 monedas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 164,
+"desbloquea_consumible_id": null
+},
+{
+"id": 290,
+"nombre": "Blue Map",
+"descripcion": "Dona 10 monedas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 243,
+"desbloquea_consumible_id": null
+},
+{
+"id": 291,
+"nombre": "Black Lotus",
+"descripcion": "Recoge 3 objetos de salud.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 226,
+"desbloquea_consumible_id": null
+},
+{
+"id": 292,
+"nombre": "Missing No.",
+"descripcion": "Recoge el objeto 'Missing No.'",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 258,
+"desbloquea_consumible_id": null
+},
+{
+"id": 293,
+"nombre": "The Mind",
+"descripcion": "Derrota a Satan con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 333,
+"desbloquea_consumible_id": null
+},
+{
+"id": 294,
+"nombre": "The Soul",
+"descripcion": "Derrota a ??? (Blue Baby) con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 335,
+"desbloquea_consumible_id": null
+},
+{
+"id": 295,
+"nombre": "The Body",
+"descripcion": "Derrota a ??? (Blue Baby) con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 334,
+"desbloquea_consumible_id": null
+},
+{
+"id": 296,
+"nombre": "The D-Mirror",
+"descripcion": "Supera el Desafío 4 (Darkness).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 297,
+"nombre": "Everything is Terrible",
+"descripcion": "Derrota a Mom's Heart 5 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 298,
+"nombre": "The Wafer",
+"descripcion": "Derrota a Mom's Heart 7 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 108,
+"desbloquea_consumible_id": null
+},
+{
+"id": 299,
+"nombre": "Money = Power",
+"descripcion": "Recoge el objeto 'The Dollar' en una máquina tragaperras.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 109,
+"desbloquea_consumible_id": null
+},
+{
+"id": 300,
+"nombre": "The Bean",
+"descripcion": "Recoge 50 objetos a lo largo de tus partidas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 111,
+"desbloquea_consumible_id": null
+},
+{
+"id": 301,
+"nombre": "Mom's Contact",
+"descripcion": "Recoge Mom's Eye y cualquier otro objeto de Mom en la misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 110,
+"desbloquea_consumible_id": null
+},
+{
+"id": 302,
+"nombre": "Guardian Angel",
+"descripcion": "Derrota a Mom's Heart con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 112,
+"desbloquea_consumible_id": null
+},
+{
+"id": 303,
+"nombre": "Demon Baby",
+"descripcion": "Derrota a Mom's Heart con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 113,
+"desbloquea_consumible_id": null
+},
+{
+"id": 304,
+"nombre": "Mom's Knife",
+"descripcion": "Derrota a Satan con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 114,
+"desbloquea_consumible_id": null
+},
+{
+"id": 305,
+"nombre": "The Ouija Board",
+"descripcion": "Derrota a Mom's Heart con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 115,
+"desbloquea_consumible_id": null
+},
+{
+"id": 306,
+"nombre": "Doctor's Remote",
+"descripcion": "Derrota a Mom por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 116,
+"desbloquea_consumible_id": null
+},
+{
+"id": 307,
+"nombre": "Cupid's Arrow",
+"descripcion": "Recoge el objeto Mini Mush y The Compass en la misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 117,
+"desbloquea_consumible_id": null
+},
+{
+"id": 308,
+"nombre": "Shoop da Whoop!",
+"descripcion": "Derrota a todos los jefes en Caves.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 118,
+"desbloquea_consumible_id": null
+},
+{
+"id": 309,
+"nombre": "Steven",
+"descripcion": "Derrota a Steven en Basement.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 120,
+"desbloquea_consumible_id": null
+},
+{
+"id": 310,
+"nombre": "The Fate",
+"descripcion": "Recoge 10 cofres dorados en una misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 179,
+"desbloquea_consumible_id": null
+},
+{
+"id": 311,
+"nombre": "Celtic Cross",
+"descripcion": "Derrota a Mom's Heart con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 162,
+"desbloquea_consumible_id": null
+},
+{
+"id": 312,
+"nombre": "Abel",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 188,
+"desbloquea_consumible_id": null
+},
+{
+"id": 313,
+"nombre": "Sacrificial Dagger",
+"descripcion": "Derrota a Isaac con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 172,
+"desbloquea_consumible_id": null
+},
+{
+"id": 314,
+"nombre": "Blood Lust",
+"descripcion": "Derrota a Isaac con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 157,
+"desbloquea_consumible_id": null
+},
+{
+"id": 315,
+"nombre": "The D20",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 166,
+"desbloquea_consumible_id": null
+},
+{
+"id": 316,
+"nombre": "Blue Map",
+"descripcion": "Dona 10 monedas a la máquina de donación.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 243,
+"desbloquea_consumible_id": null
+},
+{
+"id": 317,
+"nombre": "There's Options",
+"descripcion": "Dona 50 monedas a la máquina de donación.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 249,
+"desbloquea_consumible_id": null
+},
+{
+"id": 318,
+"nombre": "Black Lotus",
+"descripcion": "Recoge 3 objetos de salud en una misma partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 226,
+"desbloquea_consumible_id": null
+},
+{
+"id": 319,
+"nombre": "The Candle",
+"descripcion": "Dona 900 monedas a la máquina de donación.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 164,
+"desbloquea_consumible_id": null
+},
+{
+"id": 320,
+"nombre": "Guppy's Hairball",
+"descripcion": "Conviértete en Guppy.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 187,
+"desbloquea_consumible_id": null
+},
+{
+"id": 321,
+"nombre": "Abaddon",
+"descripcion": "Derrota a ??? (Blue Baby) con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 230,
+"desbloquea_consumible_id": null
+},
+{
+"id": 322,
+"nombre": "Ludovico Technique",
+"descripcion": "Derrota a Isaac con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 329,
+"desbloquea_consumible_id": null
+},
+{
+"id": 323,
+"nombre": "Lost Baby",
+"descripcion": "Derrota a Isaac con Isaac en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 324,
+"nombre": "Cute Baby",
+"descripcion": "Derrota a Isaac con Magdalene en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 325,
+"nombre": "Crow Baby",
+"descripcion": "Derrota a Isaac con Eve en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 326,
+"nombre": "Bound Baby",
+"descripcion": "Derrota a Isaac con Samson en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 327,
+"nombre": "Begotten Baby",
+"descripcion": "Derrota a Isaac con Azazel en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 328,
+"nombre": "Glass Baby",
+"descripcion": "Derrota a Isaac con Lazarus en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 329,
+"nombre": "Wrapped Baby",
+"descripcion": "Derrota a Isaac con Eden en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 330,
+"nombre": "Duality",
+"descripcion": "Derrota a Ultra Greedier con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 498,
+"desbloquea_consumible_id": null
+},
+{
+"id": 331,
+"nombre": "Godhead",
+"descripcion": "Consigue todas las marcas de finalización en difícil con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 331,
+"desbloquea_consumible_id": null
+},
+{
+"id": 332,
+"nombre": "Isaac's Tears",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 321,
+"desbloquea_consumible_id": null
+},
+{
+"id": 333,
+"nombre": "Guillotine",
+"descripcion": "Derrota a Isaac con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 307,
+"desbloquea_consumible_id": null
+},
+{
+"id": 334,
+"nombre": "Judas' Shadow",
+"descripcion": "Derrota a ??? (Blue Baby) con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 311,
+"desbloquea_consumible_id": null
+},
+{
+"id": 335,
+"nombre": "Maggy's Bow",
+"descripcion": "Derrota a Isaac con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 312,
+"desbloquea_consumible_id": null
+},
+{
+"id": 336,
+"nombre": "Cain's Other Eye",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 319,
+"desbloquea_consumible_id": null
+},
+{
+"id": 337,
+"nombre": "Eve's Bird Foot",
+"descripcion": "Derrota a Isaac con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 338,
+"nombre": "Samson's Chains",
+"descripcion": "Derrota a ??? (Blue Baby) con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 320,
+"desbloquea_consumible_id": null
+},
+{
+"id": 339,
+"nombre": "Lazarus' Rags",
+"descripcion": "Derrota a Isaac con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 332,
+"desbloquea_consumible_id": null
+},
+{
+"id": 340,
+"nombre": "Eden's Blessing",
+"descripcion": "Derrota a Hush con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 382,
+"desbloquea_consumible_id": null
+},
+{
+"id": 341,
+"nombre": "Blank Card",
+"descripcion": "Derrota a Isaac con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 286,
+"desbloquea_consumible_id": null
+},
+{
+"id": 342,
+"nombre": "Book of Secrets",
+"descripcion": "Derrota a Satan con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 287,
+"desbloquea_consumible_id": null
+},
+{
+"id": 343,
+"nombre": "Mystery Sack",
+"descripcion": "Derrota a Isaac con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 288,
+"desbloquea_consumible_id": null
+},
+{
+"id": 344,
+"nombre": "Other Side",
+"descripcion": "Derrota a ??? (Blue Baby) con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 289,
+"desbloquea_consumible_id": null
+},
+{
+"id": 345,
+"nombre": "Lil' Chest",
+"descripcion": "Derrota a Isaac con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 290,
+"desbloquea_consumible_id": null
+},
+{
+"id": 346,
+"nombre": "Bob's Curse",
+"descripcion": "Derrota a Sloth por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 291,
+"desbloquea_consumible_id": null
+},
+{
+"id": 347,
+"nombre": "Blind Rage",
+"descripcion": "Derrota a Isaac con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 348,
+"nombre": "Fart Baby",
+"descripcion": "Derrota a Isaac con ??? (Blue Baby).",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 293,
+"desbloquea_consumible_id": null
+},
+{
+"id": 349,
+"nombre": "D100",
+"descripcion": "Supera el Boss Rush con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 283,
+"desbloquea_consumible_id": null
+},
+{
+"id": 350,
+"nombre": "The Mind",
+"descripcion": "Derrota a Isaac con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 333,
+"desbloquea_consumible_id": null
+},
+{
+"id": 351,
+"nombre": "The Soul",
+"descripcion": "Derrota a Satan con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 335,
+"desbloquea_consumible_id": null
+},
+{
+"id": 352,
+"nombre": "The Body",
+"descripcion": "Derrota a ??? (Blue Baby) con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 334,
+"desbloquea_consumible_id": null
+},
+{
+"id": 353,
+"nombre": "Isaac's Heart",
+"descripcion": "Derrota a Isaac con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 276,
+"desbloquea_consumible_id": null
+},
+{
+"id": 354,
+"nombre": "Apollyon",
+"descripcion": "Derrota a Mega Satan por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 15,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 355,
+"nombre": "Smelter",
+"descripcion": "Derrota a Mom's Heart con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 479,
+"desbloquea_consumible_id": null
+},
+{
+"id": 356,
+"nombre": "Marbles",
+"descripcion": "Traga 5 píldoras de tipo Gulp! en una partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 510,
+"desbloquea_consumible_id": null
+},
+{
+"id": 357,
+"nombre": "Locust of Famine",
+"descripcion": "Derrota a Ultra Greed con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 481,
+"desbloquea_consumible_id": null
+},
+{
+"id": 358,
+"nombre": "Locust of Pestilence",
+"descripcion": "Derrota a Satan con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 482,
+"desbloquea_consumible_id": null
+},
+{
+"id": 359,
+"nombre": "Locust of Conquest",
+"descripcion": "Derrota a Isaac con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 483,
+"desbloquea_consumible_id": null
+},
+{
+"id": 360,
+"nombre": "Locust of Death",
+"descripcion": "Derrota a ??? con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 484,
+"desbloquea_consumible_id": null
+},
+{
+"id": 361,
+"nombre": "Brown Nugget",
+"descripcion": "Derrota a Delirium con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 494,
+"desbloquea_consumible_id": null
+},
+{
+"id": 362,
+"nombre": "Compound Fracture",
+"descripcion": "Derrota a Delirium con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 495,
+"desbloquea_consumible_id": null
+},
+{
+"id": 363,
+"nombre": "Dull Razor",
+"descripcion": "Derrota a Delirium con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 496,
+"desbloquea_consumible_id": null
+},
+{
+"id": 364,
+"nombre": "Dark Prince's Crown",
+"descripcion": "Derrota a Delirium con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 497,
+"desbloquea_consumible_id": null
+},
+{
+"id": 365,
+"nombre": "Duality",
+"descripcion": "Derrota a Delirium con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 498,
+"desbloquea_consumible_id": null
+},
+{
+"id": 366,
+"nombre": "Eucharist",
+"descripcion": "Derrota a Delirium con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 499,
+"desbloquea_consumible_id": null
+},
+{
+"id": 367,
+"nombre": "Void",
+"descripcion": "Derrota a Delirium con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 477,
+"desbloquea_consumible_id": null
+},
+{
+"id": 368,
+"nombre": "Shade",
+"descripcion": "Derrota a Delirium con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 493,
+"desbloquea_consumible_id": null
+},
+{
+"id": 369,
+"nombre": "Crooked Penny",
+"descripcion": "Derrota a Delirium con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 501,
+"desbloquea_consumible_id": null
+},
+{
+"id": 370,
+"nombre": "Little Horn",
+"descripcion": "Derrota a Delirium con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 493,
+"desbloquea_consumible_id": null
+},
+{
+"id": 371,
+"nombre": "Poke Go",
+"descripcion": "Derrota a Delirium con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 503,
+"desbloquea_consumible_id": null
+},
+{
+"id": 372,
+"nombre": "Backstabber",
+"descripcion": "Derrota a Delirium con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 504,
+"desbloquea_consumible_id": null
+},
+{
+"id": 373,
+"nombre": "Sharp Straw",
+"descripcion": "Derrota a Delirium con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 505,
+"desbloquea_consumible_id": null
+},
+{
+"id": 374,
+"nombre": "Delirious",
+"descripcion": "Derrota a Delirium por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 510,
+"desbloquea_consumible_id": null
+},
+{
+"id": 375,
+"nombre": "Black Hole",
+"descripcion": "Derrota a Mom's Heart con Apollyon en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 513,
+"desbloquea_consumible_id": null
+},
+{
+"id": 376,
+"nombre": "Bozo",
+"descripcion": "Recoge el objeto Rainbow Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 515,
+"desbloquea_consumible_id": null
+},
+{
+"id": 377,
+"nombre": "Broken Modem",
+"descripcion": "Gana 7 Daily Runs.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 521,
+"desbloquea_consumible_id": null
+},
+{
+"id": 378,
+"nombre": "Mystery Gift",
+"descripcion": "Completa el capítulo de Basement por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 522,
+"desbloquea_consumible_id": null
+},
+{
+"id": 379,
+"nombre": "Sprinkler",
+"descripcion": "Derrota a Ultra Greedier con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 524,
+"desbloquea_consumible_id": null
+},
+{
+"id": 380,
+"nombre": "Fast Bombs",
+"descripcion": "Recoge 2 objetos relacionados con bombas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 525,
+"desbloquea_consumible_id": null
+},
+{
+"id": 381,
+"nombre": "Buddy Box",
+"descripcion": "Derrota a Isaac con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 526,
+"desbloquea_consumible_id": null
+},
+{
+"id": 382,
+"nombre": "Lil' Delirium",
+"descripcion": "Derrota a Delirium con todos los personajes originales.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 527,
+"desbloquea_consumible_id": null
+},
+{
+"id": 383,
+"nombre": "Greedier",
+"descripcion": "Dona 500 monedas a la máquina de Greed.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 384,
+"nombre": "Jumper Cables",
+"descripcion": "Recoge 3 objetos de batería.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 530,
+"desbloquea_consumible_id": null
+},
+{
+"id": 385,
+"nombre": "Coupon",
+"descripcion": "Recoge 2 objetos de tienda gratis en una partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 531,
+"desbloquea_consumible_id": null
+},
+{
+"id": 386,
+"nombre": "Telekinesis",
+"descripcion": "Derrota a Isaac con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 532,
+"desbloquea_consumible_id": null
+},
+{
+"id": 387,
+"nombre": "Moving Box",
+"descripcion": "Usa el objeto Pandora's Box en la Dark Room.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 533,
+"desbloquea_consumible_id": null
+},
+{
+"id": 388,
+"nombre": "7 Seals",
+"descripcion": "Derrota a Delirium con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 534,
+"desbloquea_consumible_id": null
+},
+{
+"id": 389,
+"nombre": "Mr. ME!",
+"descripcion": "Completa 15 objetos en la colección.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 535,
+"desbloquea_consumible_id": null
+},
+{
+"id": 390,
+"nombre": "Anguish Baby",
+"descripcion": "Derrota a Delirium con Apollyon en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 391,
+"nombre": "Friction Baby",
+"descripcion": "Derrota a Mega Satan con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 392,
+"nombre": "Toxic Baby",
+"descripcion": "Derrota a Satan con Apollyon en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 393,
+"nombre": "Glitch Baby",
+"descripcion": "Derrota a Isaac con Apollyon en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 394,
+"nombre": "Dye Baby",
+"descripcion": "Derrota a ??? con Apollyon en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 395,
+"nombre": "Glower Baby",
+"descripcion": "Derrota a The Lamb con Apollyon en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 396,
+"nombre": "Bat Baby",
+"descripcion": "Derrota a Ultra Greedier con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 397,
+"nombre": "Murky Baby",
+"descripcion": "Derrota a Ultra Greedier con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 398,
+"nombre": "Dust Baby",
+"descripcion": "Derrota a Ultra Greedier con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 399,
+"nombre": "Large Baby",
+"descripcion": "Derrota a Ultra Greedier con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 400,
+"nombre": "Millionaire Baby",
+"descripcion": "Derrota a Ultra Greedier con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 401,
+"nombre": "Lil Monstro",
+"descripcion": "Derrota a Ultra Greedier con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 528,
+"desbloquea_consumible_id": null
+},
+{
+"id": 402,
+"nombre": "King Baby",
+"descripcion": "Derrota a Ultra Greedier con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 472,
+"desbloquea_consumible_id": null
+},
+{
+"id": 403,
+"nombre": "Sack of Pennies",
+"descripcion": "Derrota a Ultra Greedier con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 156,
+"desbloquea_consumible_id": null
+},
+{
+"id": 404,
+"nombre": "Crow Baby",
+"descripcion": "Derrota a Ultra Greedier con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 405,
+"nombre": "Lead Baby",
+"descripcion": "Derrota a Ultra Greedier con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 406,
+"nombre": "Finger!",
+"descripcion": "Derrota a Ultra Greedier con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 435,
+"desbloquea_consumible_id": null
+},
+{
+"id": 407,
+"nombre": "7 Seals",
+"descripcion": "Derrota a Ultra Greedier con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 534,
+"desbloquea_consumible_id": null
+},
+{
+"id": 408,
+"nombre": "D Infinity",
+"descripcion": "Derrota a Ultra Greedier con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 489,
+"desbloquea_consumible_id": null
+},
+{
+"id": 409,
+"nombre": "Eden's Soul",
+"descripcion": "Derrota a Ultra Greedier con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 490,
+"desbloquea_consumible_id": null
+},
+{
+"id": 410,
+"nombre": "Glyph of Balance",
+"descripcion": "Derrota a Ultra Greedier con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 476,
+"desbloquea_consumible_id": null
+},
+{
+"id": 411,
+"nombre": "Bone Spur",
+"descripcion": "Derrota a Isaac con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 541,
+"desbloquea_consumible_id": null
+},
+{
+"id": 412,
+"nombre": "Hallowed Ground",
+"descripcion": "Derrota a Satan con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 542,
+"desbloquea_consumible_id": null
+},
+{
+"id": 413,
+"nombre": "Eye Ball",
+"descripcion": "Derrota a ??? con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 543,
+"desbloquea_consumible_id": null
+},
+{
+"id": 414,
+"nombre": "The Lamb's Soul",
+"descripcion": "Derrota a The Lamb con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 415,
+"nombre": "Divorce Papers",
+"descripcion": "Derrota a Boss Rush con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 545,
+"desbloquea_consumible_id": null
+},
+{
+"id": 416,
+"nombre": "Jaw Bone",
+"descripcion": "Derrota a Ultra Greed con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 546,
+"desbloquea_consumible_id": null
+},
+{
+"id": 417,
+"nombre": "Brittle Bones",
+"descripcion": "Derrota a Hush con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 547,
+"desbloquea_consumible_id": null
+},
+{
+"id": 418,
+"nombre": "Broken Shovel",
+"descripcion": "Derrota a un jefe en menos de 1 minuto en el primer piso.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 419,
+"nombre": "The Forgotten",
+"descripcion": "Usa la pala de Mom sobre el montón de tierra en Dark Room.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 16,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 420,
+"nombre": "Marbles",
+"descripcion": "Usa 5 píldoras Gulp! en una partida.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 510,
+"desbloquea_consumible_id": null
+},
+{
+"id": 421,
+"nombre": "Blanket",
+"descripcion": "Duerme en 10 camas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 512,
+"desbloquea_consumible_id": null
+},
+{
+"id": 422,
+"nombre": "Sacrificial Altar",
+"descripcion": "Derrota a Satan con Maggy.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 536,
+"desbloquea_consumible_id": null
+},
+{
+"id": 423,
+"nombre": "Lil Spewer",
+"descripcion": "Derrota a Ultra Greedier con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 537,
+"desbloquea_consumible_id": null
+},
+{
+"id": 424,
+"nombre": "Flat Stone",
+"descripcion": "Recoge Rubber Cement y 5 objetos de lágrimas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 539,
+"desbloquea_consumible_id": null
+},
+{
+"id": 425,
+"nombre": "Pointy Rib",
+"descripcion": "Derrota a Isaac con The Forgotten en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 426,
+"nombre": "Blue Baby's Soul",
+"descripcion": "Derrota a ??? con Blue Baby en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 427,
+"nombre": "Judas's Soul",
+"descripcion": "Derrota a Satan con Judas en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 428,
+"nombre": "Eve's Soul",
+"descripcion": "Derrota a Satan con Eve en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 429,
+"nombre": "Samson's Soul",
+"descripcion": "Derrota a Isaac con Samson en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 430,
+"nombre": "Azazel's Soul",
+"descripcion": "Derrota a Satan con Azazel en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 431,
+"nombre": "Lazarus's Soul",
+"descripcion": "Derrota a Isaac con Lazarus en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 432,
+"nombre": "Eden's Soul",
+"descripcion": "Derrota a Ultra Greedier con Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 490,
+"desbloquea_consumible_id": null
+},
+{
+"id": 433,
+"nombre": "The Lost's Soul",
+"descripcion": "Derrota a Isaac con The Lost en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 434,
+"nombre": "Keeper's Soul",
+"descripcion": "Derrota a Isaac con Keeper en Hard Mode.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 435,
+"nombre": "Lil Delirium",
+"descripcion": "Derrota a Delirium con todos los personajes.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 527,
+"desbloquea_consumible_id": null
+},
+{
+"id": 436,
+"nombre": "1000000%",
+"descripcion": "Consigue todos los logros y completa el bestiario de Afterbirth+.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 437,
+"nombre": "Downpour",
+"descripcion": "Derrota a Hush 3 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 438,
+"nombre": "Mines",
+"descripcion": "Completa Downpour/Dross 3 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 439,
+"nombre": "Mausoleum",
+"descripcion": "Completa Mines/Ashpit 3 veces.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 440,
+"nombre": "Corpse",
+"descripcion": "Derrota a Mother por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 441,
+"nombre": "A Strange Door",
+"descripcion": "Derrota a Mother.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 442,
+"nombre": "Bethany",
+"descripcion": "Derrota a Mom's Heart con Lazarus sin morir.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 12,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 443,
+"nombre": "Jacob & Esau",
+"descripcion": "Derrota a Mother con cualquier personaje.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 13,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 444,
+"nombre": "Tainted Isaac",
+"descripcion": "Usa la Red Key o Cracked Key en el pasillo de Home.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 17,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 445,
+"nombre": "Tainted Magdalene",
+"descripcion": "Usa la Red Key en Home jugando como Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 18,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 446,
+"nombre": "Tainted Cain",
+"descripcion": "Usa la Red Key en Home jugando como Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 19,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 447,
+"nombre": "Tainted Judas",
+"descripcion": "Usa la Red Key en Home jugando como Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 20,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 448,
+"nombre": "Tainted Blue Baby",
+"descripcion": "Usa la Red Key en Home jugando como Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 21,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 449,
+"nombre": "Tainted Eve",
+"descripcion": "Usa la Red Key en Home jugando como Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 22,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 450,
+"nombre": "Tainted Samson",
+"descripcion": "Usa la Red Key en Home jugando como Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 23,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 451,
+"nombre": "Tainted Azazel",
+"descripcion": "Usa la Red Key en Home jugando como Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 24,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 452,
+"nombre": "Tainted Lazarus",
+"descripcion": "Usa la Red Key en Home jugando como Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 25,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 453,
+"nombre": "Tainted Eden",
+"descripcion": "Usa la Red Key en Home jugando como Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 26,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 454,
+"nombre": "Tainted Lost",
+"descripcion": "Usa la Red Key en Home jugando como The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 27,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 455,
+"nombre": "Tainted Lilith",
+"descripcion": "Usa la Red Key en Home jugando como Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 28,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 456,
+"nombre": "Tainted Keeper",
+"descripcion": "Usa la Red Key en Home jugando como Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 29,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 457,
+"nombre": "Tainted Apollyon",
+"descripcion": "Usa la Red Key en Home jugando como Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 30,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 458,
+"nombre": "Tainted Forgotten",
+"descripcion": "Usa la Red Key en Home jugando como The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 31,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 459,
+"nombre": "Tainted Bethany",
+"descripcion": "Usa la Red Key en Home jugando como Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 32,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 460,
+"nombre": "Tainted Jacob",
+"descripcion": "Usa la Red Key en Home jugando como Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": 33,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 461,
+"nombre": "Inner Child",
+"descripcion": "Derrota a The Beast con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 553,
+"desbloquea_consumible_id": null
+},
+{
+"id": 462,
+"nombre": "Queen of Hearts",
+"descripcion": "Derrota a The Beast con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 554,
+"desbloquea_consumible_id": null
+},
+{
+"id": 463,
+"nombre": "Magic Wallet",
+"descripcion": "Derrota a The Beast con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 555,
+"desbloquea_consumible_id": null
+},
+{
+"id": 464,
+"nombre": "Dark Arts",
+"descripcion": "Derrota a The Beast con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 556,
+"desbloquea_consumible_id": null
+},
+{
+"id": 465,
+"nombre": "Bag of Crafting",
+"descripcion": "Derrota a The Beast con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 557,
+"desbloquea_consumible_id": null
+},
+{
+"id": 466,
+"nombre": "Sumptorium",
+"descripcion": "Derrota a The Beast con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 558,
+"desbloquea_consumible_id": null
+},
+{
+"id": 467,
+"nombre": "Berserk!",
+"descripcion": "Derrota a The Beast con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 559,
+"desbloquea_consumible_id": null
+},
+{
+"id": 468,
+"nombre": "Hemoptysis",
+"descripcion": "Derrota a The Beast con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 560,
+"desbloquea_consumible_id": null
+},
+{
+"id": 469,
+"nombre": "Flip",
+"descripcion": "Derrota a The Beast con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 561,
+"desbloquea_consumible_id": null
+},
+{
+"id": 470,
+"nombre": "Spindown Dice",
+"descripcion": "Derrota a Delirium con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 562,
+"desbloquea_consumible_id": null
+},
+{
+"id": 471,
+"nombre": "Eternal D6",
+"descripcion": "Derrota a The Beast con The Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 563,
+"desbloquea_consumible_id": null
+},
+{
+"id": 472,
+"nombre": "Gello",
+"descripcion": "Derrota a The Beast con Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 564,
+"desbloquea_consumible_id": null
+},
+{
+"id": 473,
+"nombre": "Keepers Box",
+"descripcion": "Derrota a The Beast con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 565,
+"desbloquea_consumible_id": null
+},
+{
+"id": 474,
+"nombre": "Abyss",
+"descripcion": "Derrota a The Beast con Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 566,
+"desbloquea_consumible_id": null
+},
+{
+"id": 475,
+"nombre": "Sunder",
+"descripcion": "Derrota a The Beast con The Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 567,
+"desbloquea_consumible_id": null
+},
+{
+"id": 476,
+"nombre": "Book of Virtues",
+"descripcion": "Derrota a Isaac con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 568,
+"desbloquea_consumible_id": null
+},
+{
+"id": 477,
+"nombre": "Anima Sola",
+"descripcion": "Derrota a The Beast con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 569,
+"desbloquea_consumible_id": null
+},
+{
+"id": 478,
+"nombre": "Book of Despair",
+"descripcion": "Derrota a Satan con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 570,
+"desbloquea_consumible_id": null
+},
+{
+"id": 479,
+"nombre": "Everything Jar",
+"descripcion": "Derrota a Isaac con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 571,
+"desbloquea_consumible_id": null
+},
+{
+"id": 480,
+"nombre": "Stairway",
+"descripcion": "Derrota a Isaac con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 572,
+"desbloquea_consumible_id": null
+},
+{
+"id": 481,
+"nombre": "Damocles",
+"descripcion": "Derrota a The Lamb con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 573,
+"desbloquea_consumible_id": null
+},
+{
+"id": 482,
+"nombre": "Genesis",
+"descripcion": "Derrota a Greedier con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 574,
+"desbloquea_consumible_id": null
+},
+{
+"id": 483,
+"nombre": "Rock Bottom",
+"descripcion": "Completa Boss Rush con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 575,
+"desbloquea_consumible_id": null
+},
+{
+"id": 484,
+"nombre": "Birthright",
+"descripcion": "Derrota a ??? con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 576,
+"desbloquea_consumible_id": null
+},
+{
+"id": 485,
+"nombre": "Red Key",
+"descripcion": "Abre el cofre de Mom en Home por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 577,
+"desbloquea_consumible_id": null
+},
+{
+"id": 486,
+"nombre": "The Beast",
+"descripcion": "Derrota a The Beast por primera vez.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 487,
+"nombre": "D Sided Dice",
+"descripcion": "Derrota a Mother con Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 579,
+"desbloquea_consumible_id": null
+},
+{
+"id": 488,
+"nombre": "Yuck Heart",
+"descripcion": "Derrota a Mother con Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 580,
+"desbloquea_consumible_id": null
+},
+{
+"id": 489,
+"nombre": "Guppy's Eye",
+"descripcion": "Derrota a Mother con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 581,
+"desbloquea_consumible_id": null
+},
+{
+"id": 490,
+"nombre": "Strawman",
+"descripcion": "Derrota a The Beast con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 582,
+"desbloquea_consumible_id": null
+},
+{
+"id": 491,
+"nombre": "Vade Retro",
+"descripcion": "Derrota a Mother con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 583,
+"desbloquea_consumible_id": null
+},
+{
+"id": 492,
+"nombre": "IBS",
+"descripcion": "Derrota a Mother con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 584,
+"desbloquea_consumible_id": null
+},
+{
+"id": 493,
+"nombre": "Blood Puppy",
+"descripcion": "Derrota a Mother con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 585,
+"desbloquea_consumible_id": null
+},
+{
+"id": 494,
+"nombre": "Bloody Gust",
+"descripcion": "Derrota a Mother con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 586,
+"desbloquea_consumible_id": null
+},
+{
+"id": 495,
+"nombre": "Sanguine Bond",
+"descripcion": "Derrota a Mother con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 587,
+"desbloquea_consumible_id": null
+},
+{
+"id": 496,
+"nombre": "Lazarus' Soul",
+"descripcion": "Derrota a Mother con Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 497,
+"nombre": "Golden Razor",
+"descripcion": "Ten 99 monedas en una partida de Greed.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 589,
+"desbloquea_consumible_id": null
+},
+{
+"id": 498,
+"nombre": "Soul of Isaac",
+"descripcion": "Derrota a Boss Rush con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 499,
+"nombre": "Soul of Magdalene",
+"descripcion": "Derrota a Boss Rush con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 500,
+"nombre": "Soul of Cain",
+"descripcion": "Derrota a Boss Rush con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 501,
+"nombre": "Soul of Judas",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 502,
+"nombre": "Soul of ???",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 503,
+"nombre": "Soul of Eve",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 504,
+"nombre": "Soul of Samson",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Samson.",
+"desbloado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 505,
+"nombre": "Soul of Azazel",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 506,
+"nombre": "Soul of Lazarus",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 507,
+"nombre": "Soul of Eden",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 508,
+"nombre": "Soul of The Lost",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 509,
+"nombre": "Soul of Lilith",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 510,
+"nombre": "Soul of Keeper",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 511,
+"nombre": "Soul of Apollyon",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 512,
+"nombre": "Soul of The Forgotten",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 513,
+"nombre": "Soul of Bethany",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 514,
+"nombre": "Soul of Jacob",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 515,
+"nombre": "Lemegeton",
+"descripcion": "Derrota a Delirium con Tainted Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 664,
+"desbloquea_consumible_id": null
+},
+{
+"id": 516,
+"nombre": "Golden Trinkets",
+"descripcion": "Derrota a Mega Satan con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 517,
+"nombre": "Dice Bag",
+"descripcion": "Derrota a Mega Satan con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 518,
+"nombre": "Confessional",
+"descripcion": "Derrota a Mega Satan con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 519,
+"nombre": "Akeldama",
+"descripcion": "Derrota a Mega Satan con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 669,
+"desbloquea_consumible_id": null
+},
+{
+"id": 520,
+"nombre": "Magic Skin",
+"descripcion": "Derrota a Mother con Tainted Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 641,
+"desbloquea_consumible_id": null
+},
+{
+"id": 521,
+"nombre": "Revelation",
+"descripcion": "Derrota a Mother con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 632,
+"desbloquea_consumible_id": null
+},
+{
+"id": 522,
+"nombre": "Consolation Prize",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 603,
+"desbloquea_consumible_id": null
+},
+{
+"id": 523,
+"nombre": "Tin Worm",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 524,
+"nombre": "Star of Bethlehem",
+"descripcion": "Derrota a Delirium con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 631,
+"desbloquea_consumible_id": null
+},
+{
+"id": 525,
+"nombre": "Found Soul",
+"descripcion": "Derrota a Delirium con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 643,
+"desbloquea_consumible_id": null
+},
+{
+"id": 526,
+"nombre": "Keeper's Sack",
+"descripcion": "Derrota a Mother con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 639,
+"desbloquea_consumible_id": null
+},
+{
+"id": 527,
+"nombre": "Guppy's Eye",
+"descripcion": "Derrota a Mother con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 581,
+"desbloquea_consumible_id": null
+},
+{
+"id": 528,
+"nombre": "Strawman",
+"descripcion": "Derrota a The Beast con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 582,
+"desbloquea_consumible_id": null
+},
+{
+"id": 529,
+"nombre": "Ghost of the Knight",
+"descripcion": "Derrota a Mega Satan con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 530,
+"nombre": "Crystal Key",
+"descripcion": "Derrota a Mother con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 531,
+"nombre": "Sacred Orb",
+"descripcion": "Derrota a The Beast con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 695,
+"desbloquea_consumible_id": null
+},
+{
+"id": 532,
+"nombre": "The Fool?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 79
+},
+{
+"id": 533,
+"nombre": "The Magician?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 80
+},
+{
+"id": 534,
+"nombre": "The High Priestess?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 81
+},
+{
+"id": 535,
+"nombre": "The Empress?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 82
+},
+{
+"id": 536,
+"nombre": "The Emperor?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 83
+},
+{
+"id": 537,
+"nombre": "The Hierophant?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 84
+},
+{
+"id": 538,
+"nombre": "The Lovers?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 85
+},
+{
+"id": 539,
+"nombre": "The Chariot?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 86
+},
+{
+"id": 540,
+"nombre": "Justice?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 87
+},
+{
+"id": 541,
+"nombre": "The Hermit?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 88
+},
+{
+"id": 542,
+"nombre": "Wheel of Fortune?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 89
+},
+{
+"id": 543,
+"nombre": "Strength?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 90
+},
+{
+"id": 544,
+"nombre": "The Hanged Man?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 91
+},
+{
+"id": 545,
+"nombre": "Death?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 92
+},
+{
+"id": 546,
+"nombre": "Temperance?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 93
+},
+{
+"id": 547,
+"nombre": "The Devil?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 94
+},
+{
+"id": 548,
+"nombre": "The Tower?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 95
+},
+{
+"id": 549,
+"nombre": "The Stars?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 96
+},
+{
+"id": 550,
+"nombre": "The Moon?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 97
+},
+{
+"id": 551,
+"nombre": "The Sun?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 98
+},
+{
+"id": 552,
+"nombre": "Judgement?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 99
+},
+{
+"id": 553,
+"nombre": "The World?",
+"descripcion": "Derrota a Ultra Greedier con Tainted Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 100
+},
+{
+"id": 554,
+"nombre": "Savage!",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Tainted Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 555,
+"nombre": "Twisted Pair",
+"descripcion": "Derrota a The Beast con Tainted Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 677,
+"desbloquea_consumible_id": null
+},
+{
+"id": 556,
+"nombre": "Azazel's Rage",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Tainted Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 557,
+"nombre": "Blood and Fire",
+"descripcion": "Derrota a Mother con Tainted Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 558,
+"nombre": "Cain's Soul",
+"descripcion": "Derrota a Boss Rush con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 559,
+"nombre": "Guppy's Tail (Tainted)",
+"descripcion": "Derrota a Mega Satan con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 560,
+"nombre": "Bag of Crafting",
+"descripcion": "Derrota a The Beast con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 557,
+"desbloquea_consumible_id": null
+},
+{
+"id": 561,
+"nombre": "Magdalene's Soul",
+"descripcion": "Derrota a Boss Rush con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 562,
+"nombre": "Candy Heart",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 661,
+"desbloquea_consumible_id": null
+},
+{
+"id": 563,
+"nombre": "Hypercoagulation",
+"descripcion": "Derrota a Mother con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 662,
+"desbloquea_consumible_id": null
+},
+{
+"id": 564,
+"nombre": "Spindown Dice",
+"descripcion": "Derrota a Delirium con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 562,
+"desbloquea_consumible_id": null
+},
+{
+"id": 565,
+"nombre": "Glaucoma",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 659,
+"desbloquea_consumible_id": null
+},
+{
+"id": 566,
+"nombre": "Keeper's Sack",
+"descripcion": "Derrota a Mother con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 639,
+"desbloquea_consumible_id": null
+},
+{
+"id": 567,
+"nombre": "Keepers Kin",
+"descripcion": "Derrota a Mega Satan con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 568,
+"nombre": "Store Key",
+"descripcion": "Dona 666 monedas a la máquina de Greed.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 569,
+"nombre": "Lost Soul",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 692,
+"desbloquea_consumible_id": null
+},
+{
+"id": 570,
+"nombre": "Soul of The Lost",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 571,
+"nombre": "Sacred Orb",
+"descripcion": "Derrota a The Beast con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 695,
+"desbloquea_consumible_id": null
+},
+{
+"id": 572,
+"nombre": "Echo Chamber",
+"descripcion": "Derrota a The Beast con Tainted Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 665,
+"desbloquea_consumible_id": null
+},
+{
+"id": 573,
+"nombre": "Abyss",
+"descripcion": "Derrota a The Beast con Tainted Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 566,
+"desbloquea_consumible_id": null
+},
+{
+"id": 574,
+"nombre": "Sunder",
+"descripcion": "Derrota a The Beast con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 567,
+"desbloquea_consumible_id": null
+},
+{
+"id": 575,
+"nombre": "Spirit Shackles",
+"descripcion": "Derrota a The Beast con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 696,
+"desbloquea_consumible_id": null
+},
+{
+"id": 576,
+"nombre": "Isaac's Tomb",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 577,
+"nombre": "Decap Attack",
+"descripcion": "Derrota a Mother con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 697,
+"desbloquea_consumible_id": null
+},
+{
+"id": 578,
+"nombre": "Bethany's Soul",
+"descripcion": "Derrota a Boss Rush con Tainted Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 579,
+"nombre": "Confessional",
+"descripcion": "Derrota a Mega Satan con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 580,
+"nombre": "A Strange Door",
+"descripcion": "Derrota a Mother.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 581,
+"nombre": "Genesis",
+"descripcion": "Derrota a Greedier con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 574,
+"desbloquea_consumible_id": null
+},
+{
+"id": 582,
+"nombre": "Damocles",
+"descripcion": "Derrota a The Lamb con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 573,
+"desbloquea_consumible_id": null
+},
+{
+"id": 583,
+"nombre": "Birthright",
+"descripcion": "Derrota a ??? con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 576,
+"desbloquea_consumible_id": null
+},
+{
+"id": 584,
+"nombre": "Rock Bottom",
+"descripcion": "Completa Boss Rush con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 575,
+"desbloquea_consumible_id": null
+},
+{
+"id": 585,
+"nombre": "Suis-je?",
+"descripcion": "Derrota a Mother con Tainted Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 586,
+"nombre": "IBS",
+"descripcion": "Derrota a Mother con Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 584,
+"desbloquea_consumible_id": null
+},
+{
+"id": 587,
+"nombre": "Blood Puppy",
+"descripcion": "Derrota a Mother con Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 585,
+"desbloquea_consumible_id": null
+},
+{
+"id": 588,
+"nombre": "Bloody Gust",
+"descripcion": "Derrota a Mother con Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 586,
+"desbloquea_consumible_id": null
+},
+{
+"id": 589,
+"nombre": "Sanguine Bond",
+"descripcion": "Derrota a Mother con Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 587,
+"desbloquea_consumible_id": null
+},
+{
+"id": 590,
+"nombre": "Dark Arts",
+"descripcion": "Derrota a The Beast con Tainted Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 556,
+"desbloquea_consumible_id": null
+},
+{
+"id": 591,
+"nombre": "Abaddon (Tainted)",
+"descripcion": "Derrota a Mega Satan con Tainted Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 592,
+"nombre": "Everything Jar",
+"descripcion": "Derrota a Isaac con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 571,
+"desbloquea_consumible_id": null
+},
+{
+"id": 593,
+"nombre": "Stairway",
+"descripcion": "Derrota a Isaac con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 572,
+"desbloquea_consumible_id": null
+},
+{
+"id": 594,
+"nombre": "Book of Virtues",
+"descripcion": "Derrota a Isaac con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 568,
+"desbloquea_consumible_id": null
+},
+{
+"id": 595,
+"nombre": "Anima Sola",
+"descripcion": "Derrota a The Beast con Tainted Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 569,
+"desbloquea_consumible_id": null
+},
+{
+"id": 596,
+"nombre": "Vade Retro",
+"descripcion": "Derrota a Mother con Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 583,
+"desbloquea_consumible_id": null
+},
+{
+"id": 597,
+"nombre": "Strawman",
+"descripcion": "Derrota a The Beast con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 582,
+"desbloquea_consumible_id": null
+},
+{
+"id": 598,
+"nombre": "Soul of Isaac",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 151
+},
+{
+"id": 599,
+"nombre": "Soul of Magdalene",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 152
+},
+{
+"id": 600,
+"nombre": "Soul of Cain",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 153
+},
+{
+"id": 601,
+"nombre": "Soul of Judas",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Judas.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 154
+},
+{
+"id": 602,
+"nombre": "Soul of ???",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Blue Baby.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 155
+},
+{
+"id": 603,
+"nombre": "Soul of Eve",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Eve.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 156
+},
+{
+"id": 604,
+"nombre": "Soul of Samson",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Samson.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 157
+},
+{
+"id": 605,
+"nombre": "Soul of Azazel",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Azazel.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 158
+},
+{
+"id": 606,
+"nombre": "Soul of Lazarus",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Lazarus.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 159
+},
+{
+"id": 607,
+"nombre": "Soul of Eden",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Eden.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 160
+},
+{
+"id": 608,
+"nombre": "Soul of The Lost",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 161
+},
+{
+"id": 609,
+"nombre": "Soul of Lilith",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Lilith.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 162
+},
+{
+"id": 610,
+"nombre": "Soul of Keeper",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 163
+},
+{
+"id": 611,
+"nombre": "Soul of Apollyon",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 164
+},
+{
+"id": 612,
+"nombre": "Soul of The Forgotten",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 165
+},
+{
+"id": 613,
+"nombre": "Soul of Bethany",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 166
+},
+{
+"id": 614,
+"nombre": "Soul of Jacob",
+"descripcion": "Derrota a Boss Rush y Hush con Tainted Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": 167
+},
+{
+"id": 615,
+"nombre": "Lemegeton",
+"descripcion": "Derrota a Delirium con Tainted Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 664,
+"desbloquea_consumible_id": null
+},
+{
+"id": 616,
+"nombre": "Golden Trinkets",
+"descripcion": "Derrota a Mega Satan con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 617,
+"nombre": "Dice Bag",
+"descripcion": "Derrota a Mega Satan con Tainted Isaac.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 618,
+"nombre": "Confessional",
+"descripcion": "Derrota a Mega Satan con Tainted Magdalene.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 619,
+"nombre": "Akeldama",
+"descripcion": "Derrota a Mega Satan con Tainted Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 669,
+"desbloquea_consumible_id": null
+},
+{
+"id": 620,
+"nombre": "Magic Skin",
+"descripcion": "Derrota a Mother con Tainted Jacob.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 641,
+"desbloquea_consumible_id": null
+},
+{
+"id": 621,
+"nombre": "Revelation",
+"descripcion": "Derrota a Mother con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 632,
+"desbloquea_consumible_id": null
+},
+{
+"id": 622,
+"nombre": "Consolation Prize",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 603,
+"desbloquea_consumible_id": null
+},
+{
+"id": 623,
+"nombre": "Tin Worm",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 624,
+"nombre": "Star of Bethlehem",
+"descripcion": "Derrota a Delirium con Bethany.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 631,
+"desbloquea_consumible_id": null
+},
+{
+"id": 625,
+"nombre": "Found Soul",
+"descripcion": "Derrota a Delirium con Jacob & Esau.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 643,
+"desbloquea_consumible_id": null
+},
+{
+"id": 626,
+"nombre": "Keeper's Sack",
+"descripcion": "Derrota a Mother con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 639,
+"desbloquea_consumible_id": null
+},
+{
+"id": 627,
+"nombre": "Guppy's Eye",
+"descripcion": "Derrota a Mother con Cain.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 581,
+"desbloquea_consumible_id": null
+},
+{
+"id": 628,
+"nombre": "Strawman",
+"descripcion": "Derrota a The Beast con Keeper.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 582,
+"desbloquea_consumible_id": null
+},
+{
+"id": 629,
+"nombre": "Ghost of the Knight",
+"descripcion": "Derrota a Mega Satan con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 630,
+"nombre": "Crystal Key",
+"descripcion": "Derrota a Mother con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 631,
+"nombre": "Sacred Orb",
+"descripcion": "Derrota a The Beast con Tainted Lost.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 695,
+"desbloquea_consumible_id": null
+},
+{
+"id": 632,
+"nombre": "Echo Chamber",
+"descripcion": "Derrota a The Beast con Tainted Apollyon.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 665,
+"desbloquea_consumible_id": null
+},
+{
+"id": 633,
+"nombre": "Isaac's Tomb",
+"descripcion": "Derrota a Isaac, Satan, ??? y The Lamb con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+},
+{
+"id": 634,
+"nombre": "Decap Attack",
+"descripcion": "Derrota a Mother con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 697,
+"desbloquea_consumible_id": null
+},
+{
+"id": 635,
+"nombre": "Spirit Shackles",
+"descripcion": "Derrota a The Beast con Tainted Forgotten.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 696,
+"desbloquea_consumible_id": null
+},
+{
+"id": 636,
+"nombre": "Death Certificate",
+"descripcion": "Completa todas las marcas de finalización en difícil con todos los personajes Tainted.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": 711,
+"desbloquea_consumible_id": null
+},
+{
+"id": 637,
+"nombre": "Dead God",
+"descripcion": "Consigue todos los logros del juego, completa el bestiario y recoge todos los objetos.",
+"desbloqueado": false,
+"desbloquea_personaje_id": null,
+"desbloquea_objeto_id": null,
+"desbloquea_consumible_id": null
+}
+]
