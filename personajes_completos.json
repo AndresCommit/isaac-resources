@@ -120,119 +120,119 @@
     },
     {
         "id": 18,
-        "nombre": "Tainted Isaac",
+        "nombre": "Isaac Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Isaac.",
         "descripcion": "Tainted Isaac tiene un límite estricto de inventario: solo puede llevar 8 objetos pasivos simultáneamente (pudiendo soltar objetos antiguos para recoger nuevos). Para compensar esta restricción, TODOS los pedestales de objetos de la partida alternan a un ritmo constante entre dos opciones, lo que le permite elegir y organizar la mejor combinación posible."
     },
     {
         "id": 19,
-        "nombre": "Tainted Magdalene",
+        "nombre": "Magdalene Corrupta",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Magdalene.",
         "descripcion": "Su vida se drena constantemente como si sufriera una hemorragia, limitando sus corazones permanentes a dos. Su estilo de juego es extremadamente agresivo: correr hacia los enemigos produce un ataque de abrazo que inflige daño masivo, y los enemigos derrotados con rapidez sueltan medios corazones que desaparecen rápido para mantenerla curada y combatiendo cuerpo a cuerpo."
     },
     {
         "id": 20,
-        "nombre": "Tainted Cain",
+        "nombre": "Cain Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Cain.",
         "descripcion": "Tainted Cain no puede recoger objetos de pedestal convencionales; al intentar hacerlo, los pedestales estallan en consumibles (monedas, llaves, bombas, corazones). Su mecánica se basa en su 'Bolsa de Artesanía': debe meter 8 consumibles en la bolsa para fabricar ('craftear') un objeto pasivo o activo nuevo, basando las recetas en el valor de lo introducido."
     },
     {
         "id": 21,
-        "nombre": "Tainted Judas",
+        "nombre": "Judas Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Judas.",
         "descripcion": "Es incapaz de tener corazones rojos de ningún tipo. Posee el objeto de bolsillo 'Artes Oscuras', que le permite volverse una sombra intangible y cruzar enemigos a gran velocidad. Al regresar a su forma física, daña letalmente a todo lo que atravesó y obtiene una bonificación temporal de daño brutal por cada enemigo y proyectil interceptado en el proceso."
     },
     {
         "id": 22,
-        "nombre": "Tainted ???",
+        "nombre": "??? Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como ???.",
         "descripcion": "Tainted ??? no utiliza bombas. En su lugar, recoge y almacena un arsenal de heces mágicas en su inventario, mostradas en la esquina de la pantalla. Puede lanzar diferentes tipos de cacas que interactúan entre sí: cacas venenosas, de fuego, resbaladizas o de piedra, permitiéndole crear explosiones químicas y ataques de área combinando los elementos."
     },
     {
         "id": 23,
-        "nombre": "Tainted Eve",
+        "nombre": "Eve Corrupta",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eve.",
         "descripcion": "Si mantiene presionado el botón de disparo, drenará lentamente su propia salud para invocar coágulos de sangre aliados que la persiguen. Estos coágulos disparan copiando sus estadísticas. Su objeto de bolsillo, el 'Summactor', le permite absorber rápidamente a todos sus coágulos de vuelta hacia su cuerpo para curarse y reponer la salud perdida."
     },
     {
         "id": 24,
-        "nombre": "Tainted Samson",
+        "nombre": "Samson Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Samson.",
         "descripcion": "Matar enemigos o recibir daño llena su medidor de ira. Al llenarse, entra en modo Berserker, donde lanza sus lágrimas para blandir la 'Mandíbula de Burro', un arma cuerpo a cuerpo enorme que devasta a los monstruos, permite devolver proyectiles como si fueran pelotas de béisbol y otorga una furia incontrolable. Matar enemigos prolonga el modo Berserker."
     },
     {
         "id": 25,
-        "nombre": "Tainted Azazel",
+        "nombre": "Azazel Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Azazel.",
         "descripcion": "A diferencia de su versión base, Tainted Azazel sí tiene rango ilimitado en su rayo de Azufre, pero este rayo es mucho más fino y hace menos daño. Su característica especial es un ataque de 'estornudo' sangriento, que empuja proyectiles, cancela el daño por colisión inminente y marca a los enemigos; si golpea a un enemigo marcado con el láser fino, recibirá daño masivo."
     },
     {
         "id": 26,
-        "nombre": "Tainted Lazarus",
+        "nombre": "Lazarus Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lazarus.",
         "descripcion": "Representa a dos entidades atrapadas en un bucle temporal. Cada vez que termina una habitación (o usa su objeto activo 'Flip'), Lazarus Vivo y Lazarus Muerto se intercambian. Cada versión de Lazarus tiene su propia barra de vida y su propio inventario de objetos, obligando al jugador a gestionar dos builds (estrategias) totalmente distintas al mismo tiempo."
     },
     {
         "id": 27,
-        "nombre": "Tainted Eden",
+        "nombre": "Eden Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Eden.",
         "descripcion": "El caos absoluto personificado. Cada vez que Tainted Eden sufre un mínimo rasguño de daño, absolutamente todos los aspectos de su partida se redirigen (rerollean). Cambian sus estadísticas base, sus objetos pasivos, sus objetos activos y toda su vida disponible, convirtiendo la partida en una supervivencia de adaptación extrema en cada impacto."
     },
     {
         "id": 28,
-        "nombre": "Tainted Lost",
+        "nombre": "Lost Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Lost.",
         "descripcion": "Diseñado para los jugadores más expertos. Tainted Lost sigue muriendo de un solo golpe, pero no cuenta con el escudo del Manto Sagrado inicial (su única salvación es encontrar 'Cartas Sagradas'). La ventaja es que tiene una propiedad oculta en el código del juego: no pueden aparecerle objetos que otorguen vida o que sean inútiles para él, asegurando una piscina de objetos puramente ofensiva."
     },
     {
         "id": 29,
-        "nombre": "Tainted Lilith",
+        "nombre": "Lilith Corrupta",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Lilith.",
         "descripcion": "Lleva su feto oscuro incubándose visiblemente en el estómago. En lugar de disparar lágrimas, al presionar el ataque, Tainted Lilith arranca al feto ('Gello') como si fuera un látigo cuerpo a cuerpo infligiendo daño severo y empuje. Mientras el feto está extendido en la habitación, este disparará las lágrimas reales de forma automática en la dirección indicada."
     },
     {
         "id": 30,
-        "nombre": "Tainted Keeper",
+        "nombre": "Keeper Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Keeper.",
         "descripcion": "Su codicia es extrema. Tainted Keeper dispara 4 lágrimas a la vez, pero su vida máxima está restringida a dos monedas permanentemente. En las tiendas encontrará muchos más objetos, pero todos los pedestales de jefes, salas del tesoro y salas del diablo también le costarán dinero. Los enemigos sueltan monedas temporales al morir, obligándole a arriesgarse y acercarse para hacerse rico."
     },
     {
         "id": 31,
-        "nombre": "Tainted Apollyon",
+        "nombre": "Apollyon Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Apollyon.",
         "descripcion": "En lugar del 'Vacío', posee el objeto 'Abismo' (Abyss). Tainted Apollyon consume los pedestales de objetos de las habitaciones y los destruye para invocar permanentemente un enjambre de moscas-langostas rojas. Estas langostas son familiares ofensivos agresivos que atacarán sin piedad el objetivo de las lágrimas de Apollyon, convirtiendo objetos mediocres en daño de enjambre garantizado."
     },
     {
         "id": 32,
-        "nombre": "Tainted Forgotten",
+        "nombre": "Forgotten Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como The Forgotten.",
         "descripcion": "Una mecánica inversa. El alma está atada a un esqueleto inerte que ya no puede moverse por sí mismo. El alma no puede infligir daño ni disparar, pero recoge el pesado cuerpo del esqueleto y debe lanzarlo como un proyectil masivo contra los monstruos de la sala, recogiendo sus huesos una y otra vez para continuar el asalto físico."
     },
     {
         "id": 33,
-        "nombre": "Tainted Bethany",
+        "nombre": "Bethany Corrupta",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Bethany.",
         "descripcion": "Al contrario que su versión normal, no puede utilizar los corazones rojos para sanarse, usando los corazones de sangre como cargas para su grimorio 'Lemegeton'. Este libro invoca fuegos orbitales especiales que representan objetos pasivos reales del juego. Tainted Bethany obtiene las pasivas mágicas y los atributos de esos objetos mientras el fuego que los encarna no sea destruido por los monstruos."
     },
     {
         "id": 34,
-        "nombre": "Tainted Jacob",
+        "nombre": "Jacob Corrupto",
         "es_tainted": true,
         "metodo_desbloqueo": "Llega a la planta 'Home' y abre el armario oculto usando la Llave Roja jugando como Jacob & Esau.",
         "descripcion": "Juegas solo como Jacob, pero estás siendo perseguido incesantemente por la versión demoníaca de tu hermano: Esaú Oscuro (Dark Esau). Jacob usa su objeto de bolsillo 'Anima Sola' para encadenar temporalmente a Esaú, apuntarlo y liberarlo para usar su devastadora carga destructiva contra los enemigos. Si Esaú Oscuro logra golpear a Jacob, este se convierte en El Perdido (The Lost), muriendo al siguiente impacto."
