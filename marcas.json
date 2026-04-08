@@ -1,15 +1,16 @@
 [
-    { "id": 1, "nombre": "Corazón de Mamá (Mom's Heart / It Lives)" },
+    { "id": 1, "nombre": "Corazón de Mamá" },
     { "id": 2, "nombre": "Isaac" },
-    { "id": 3, "nombre": "Satanás (Satan)" },
+    { "id": 3, "nombre": "Satanás" },
     { "id": 4, "nombre": "??? (Blue Baby)" },
-    { "id": 5, "nombre": "El Cordero (The Lamb)" },
+    { "id": 5, "nombre": "El Cordero" },
     { "id": 6, "nombre": "Boss Rush" },
     { "id": 7, "nombre": "Hush" },
     { "id": 8, "nombre": "Mega Satán" },
     { "id": 9, "nombre": "Delirium" },
-    { "id": 10, "nombre": "Modo Codicia (Greed)" },
-    { "id": 11, "nombre": "Modo Súper Codicia (Greedier)" },
-    { "id": 12, "nombre": "La Madre (Mother)" },
-    { "id": 13, "nombre": "La Bestia (The Beast)" }
+    { "id": 10, "nombre": "Modo Codicia" },
+    { "id": 11, "nombre": "Modo Súper Codicia" },
+    { "id": 12, "nombre": "La Madre" },
+    { "id": 13, "nombre": "La Bestia" },
+    { "id": 14, "nombre": "Todas las Marcas" }
 ]
