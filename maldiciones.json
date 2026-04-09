@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Maldición de la Ceguera",
+    "descripción": "Los objetos aparecen como un signo de interrogación y no se revela qué son hasta recogerlos.",
+    "notas": "Afecta a salas de tesoro, jefes y tratos con el Diablo o Ángel. Obliga a asumir riesgos."
+  },
+  {
+    "id": 2,
+    "nombre": "Maldición de la Oscuridad",
+    "descripción": "El piso se vuelve mucho más oscuro y solo el área cercana a Isaac está iluminada.",
+    "notas": "Es una maldición puramente visual; fuegos, explosiones y láseres iluminan temporalmente."
+  },
+  {
+    "id": 3,
+    "nombre": "Maldición de la Pérdida",
+    "descripción": "El mapa desaparece del HUD y el piso genera más habitaciones de lo normal.",
+    "notas": "Funciona de forma similar a la píldora Amnesia. Treasure Map y Compass no la contrarrestan."
+  },
+  {
+    "id": 4,
+    "nombre": "Maldición del Laberinto",
+    "descripción": "Al entrar en una habitación existe la posibilidad de ser transportado a otra diferente.",
+    "notas": "Puede romper rutas memorizadas y confundir la exploración."
+  },
+  {
+    "id": 5,
+    "nombre": "Maldición de lo Desconocido",
+    "descripción": "La vida de Isaac no se muestra en el HUD durante todo el piso.",
+    "notas": "La vida sigue contándose normalmente. Isaac orina al entrar a una sala si está a medio corazón."
+  },
+  {
+    "id": 6,
+    "nombre": "Maldición del Laberinto XL",
+    "descripción": "Fusiona los dos pisos de un capítulo en un solo piso tipo XL.",
+    "notas": "Incluye dos jefes y normalmente dos salas de tesoro, pero solo una tienda, al finalizar el piso pasamos 2 en vez de 1."
+  },
+  {
+    "id": 7,
+    "nombre": "Maldición de lo Maldito",
+    "descripción": "Todas las puertas normales se convierten en puertas de sala maldita.",
+    "notas": "No aparece de forma natural; solo en el reto \"Cursed!\" o con la seed \"CVRS ED\"."
+  },
+  {
+    "id": 8,
+    "nombre": "Maldición del Gigante",
+    "descripción": "Las salas normales se combinan en salas gigantes (2x2, 1x2, en L).",
+    "notas": "Existe en los archivos del juego pero no puede aparecer de manera natural."
+  }
+]
