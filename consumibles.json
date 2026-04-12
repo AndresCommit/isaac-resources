@@ -1575,6 +1575,13 @@
         "tipo": "Trinket"
     },
     {
+        "uid": 386,
+        "id": "79",
+        "nombre": "Pluma Negra",
+        "descripcion": "Incrementa el daño de Isaac 0,5 por cada item o trinket que posea del diablo",
+        "tipo": "Trinket"
+    },
+    {
         "uid": 226,
         "id": "81",
         "nombre": "Furia del Ciego",
@@ -1927,7 +1934,7 @@
     {
         "uid": 276,
         "id": "131",
-        "nombre": "Blessed Penny",
+        "nombre": "Moneda Bendecida",
         "descripcion": "Al recoger una moneda puedes obtener medio corazón de alma. La probabilidad aumenta según el valor de la moneda.",
         "tipo": "Trinket"
     },
@@ -1997,21 +2004,21 @@
     {
         "uid": 286,
         "id": "141",
-        "nombre": "Forgotten Lullaby",
+        "nombre": "Canción de Cuna Olvidada",
         "descripcion": "Duplica la cadencia de disparo de los familiares. No afecta a fuegos como los de Book of Virtues.",
         "tipo": "Trinket"
     },
     {
         "uid": 287,
         "id": "142",
-        "nombre": "Beth’s Faith",
+        "nombre": "Fe de Beth",
         "descripcion": "Al pasar a un nuevo piso aparecen 4 fuegos azules tipo Book of Virtues. Puedes llegar hasta un máximo de 8.",
         "tipo": "Trinket"
     },
     {
         "uid": 288,
         "id": "143",
-        "nombre": "Old Capacitor",
+        "nombre": "Condensador Viejo",
         "descripcion": "Tu objeto activo ya no se recarga al limpiar salas. En su lugar, las salas pueden generar el pickup Lil Battery al completarlas.",
         "tipo": "Trinket"
     },
@@ -2032,14 +2039,14 @@
     {
         "uid": 291,
         "id": "146",
-        "nombre": "Devil’s Crown",
+        "nombre": "Corona del Diablo",
         "descripcion": "Las Treasure Room cambian para ofrecer objetos del pool del Diablo que cuestan corazones, como en un pacto demoníaco.",
         "tipo": "Trinket"
     },
     {
         "uid": 292,
         "id": "147",
-        "nombre": "Charged Penny",
+        "nombre": "Moneda Recargada",
         "descripcion": "Al recoger una moneda puedes obtener una carga para tu objeto activo. La probabilidad aumenta según el valor de la moneda.",
         "tipo": "Trinket"
     },
@@ -2060,7 +2067,7 @@
     {
         "uid": 295,
         "id": "150",
-        "nombre": "Blue Key",
+        "nombre": "Llave Azul",
         "descripcion": "Las puertas que normalmente requieren una llave o una moneda pueden abrir una sala especial larga tipo Hush sin gastar el recurso.",
         "tipo": "Trinket"
     },
@@ -2074,266 +2081,266 @@
     {
         "uid": 297,
         "id": "152",
-        "nombre": "Telescope Lens",
+        "nombre": "Lente de Telescopio",
         "descripcion": "Aumenta la probabilidad de que aparezcan Planetarium y permite que puedan salir también en Womb/Utero/Scarred Womb/Corpse.",
         "tipo": "Trinket"
     },
     {
         "uid": 298,
         "id": "153",
-        "nombre": "Mom’s Lock",
+        "nombre": "Mechón de Mamá",
         "descripcion": "Al entrar en una nueva sala, 33% de probabilidad de obtener el efecto de un objeto pasivo de la transformación Yes Mother!?",
         "tipo": "Trinket"
     },
     {
         "uid": 299,
         "id": "154",
-        "nombre": "Dice Bag",
+        "nombre": "Bolsa de Dados",
         "descripcion": "50% de probabilidad de obtener un dado consumible temporal al entrar en una sala. Puede ser D1, D4, D6, Eternal D6, D7, D8, D10, D12, D20 o D100.",
         "tipo": "Trinket"
     },
     {
         "uid": 300,
         "id": "155",
-        "nombre": "Holy Crown",
+        "nombre": "Corona Sagrada",
         "descripcion": "Hace que aparezca una Treasure Room en Cathedral, siempre que ya tuvieras el trinket antes de llegar allí.",
         "tipo": "Trinket"
     },
     {
         "uid": 301,
         "id": "156",
-        "nombre": "Mother’s Kiss",
+        "nombre": "Beso de Mamá",
         "descripcion": "Otorga un contenedor de vida roja al recogerlo. Si haces un pacto de demonio o conviertes toda tu vida roja, el trinket desaparece.",
         "tipo": "Trinket"
     },
     {
         "uid": 302,
         "id": "157",
-        "nombre": "Torn Card",
+        "nombre": "Carta Rota",
         "descripcion": "Cada 15 disparos lanzas una lágrima con los efectos de Ipecac y My Reflection, con bastante rango.",
         "tipo": "Trinket"
     },
     {
         "uid": 303,
         "id": "158",
-        "nombre": "Torn Pocket",
+        "nombre": "Bolsillo Roto",
         "descripcion": "Al recibir daño sueltas 2 pick ups de tu inventario (monedas, bombas o llaves), que además pueden convertirse en variantes especiales.",
         "tipo": "Trinket"
     },
     {
         "uid": 304,
         "id": "159",
-        "nombre": "Gilded Key",
+        "nombre": "Llave Dorada",
         "descripcion": "Otorga una llave. Todos los cofres pasan a ser Locked Chest (salvo excepciones) y sus recompensas se amplían con cartas, runas, almas, baterías y trinkets.",
         "tipo": "Trinket"
     },
     {
         "uid": 305,
         "id": "160",
-        "nombre": "Lucky Sack",
+        "nombre": "Bolsa de la Suerte",
         "descripcion": "Aparece un saco al inicio de cada piso.",
         "tipo": "Trinket"
     },
     {
         "uid": 306,
         "id": "161",
-        "nombre": "Wicked Crown",
+        "nombre": "Corona Maldita",
         "descripcion": "Hace que aparezca una Treasure Room en Sheol, siempre que ya tuvieras el trinket antes de llegar allí.",
         "tipo": "Trinket"
     },
     {
         "uid": 307,
         "id": "162",
-        "nombre": "Azazel’s Stump",
+        "nombre": "Muñon de Azazel",
         "descripcion": "Al completar una sala puedes transformarte temporalmente en Azazel, obteniendo su Brimstone corto, vuelo y un multiplicador de daño x1.5.",
         "tipo": "Trinket"
     },
     {
         "uid": 308,
         "id": "163",
-        "nombre": "Dingle Berry",
+        "nombre": "Pedacito de Popó",
         "descripcion": "Al completar una sala aparece una caca amistosa como las de Dirty Mind. Puede salir cualquiera de sus variantes.",
         "tipo": "Trinket"
     },
     {
         "uid": 309,
         "id": "164",
-        "nombre": "Ring Cap",
+        "nombre": "Fulminantes",
         "descripcion": "Cada vez que uses una bomba aparece otra adicional sin gastar recursos.",
         "tipo": "Trinket"
     },
     {
         "uid": 310,
         "id": "165",
-        "nombre": "Nuh Uh!",
+        "nombre": "¡Nah!",
         "descripcion": "En Womb/Utero/Scarred Womb/Corpse, todas las monedas y llaves se convierten en otros pick ups o consumibles.",
         "tipo": "Trinket"
     },
     {
         "uid": 311,
         "id": "166",
-        "nombre": "Modeling Clay",
+        "nombre": "Arcilla de Modelar",
         "descripcion": "50% de probabilidad de obtener el efecto de un objeto del pool de la sala actual. El trinket cambia visualmente al objeto copiado.",
         "tipo": "Trinket"
     },
     {
         "uid": 312,
         "id": "167",
-        "nombre": "Polished Bone",
+        "nombre": "Hueso Pulido",
         "descripcion": "Al completar una sala hay una pequeña probabilidad de que aparezca un Bony o Black Bony amistoso que te acompañará y atacará a los enemigos.",
         "tipo": "Trinket"
     },
     {
         "uid": 313,
         "id": "168",
-        "nombre": "Hollow Heart",
+        "nombre": "Corazón Hueco",
         "descripcion": "Al pasar de piso obtienes un corazón de hueso.",
         "tipo": "Trinket"
     },
     {
         "uid": 314,
         "id": "169",
-        "nombre": "Kid’s Drawing",
+        "nombre": "Dibujo de Niño",
         "descripcion": "Cuenta como una pieza de la transformación Guppy.",
         "tipo": "Trinket"
     },
     {
         "uid": 315,
         "id": "170",
-        "nombre": "Crystal Key",
+        "nombre": "Llave de Cristal",
         "descripcion": "33% de probabilidad de abrir una Red Room como Red Key. Si ya estás en una Red Room, la probabilidad baja al 12.5%.",
         "tipo": "Trinket"
     },
     {
         "uid": 316,
         "id": "171",
-        "nombre": "Keeper’s Bargain",
+        "nombre": "Regateo de Keeper",
         "descripcion": "50% de probabilidad de que los objetos que cuestan corazones pasen a costar monedas.",
         "tipo": "Trinket"
     },
     {
         "uid": 317,
         "id": "172",
-        "nombre": "Cursed Penny",
+        "nombre": "Moneda Maldita",
         "descripcion": "Cada vez que recojas una moneda te teletransportarás a una habitación aleatoria del piso.",
         "tipo": "Trinket"
     },
     {
         "uid": 318,
         "id": "173",
-        "nombre": "Your Soul",
+        "nombre": "Tu Alma",
         "descripcion": "Permite comprar gratis una vez cualquier objeto que cueste corazones. Tras comprarlo, el trinket desaparece.",
         "tipo": "Trinket"
     },
     {
         "uid": 319,
         "id": "174",
-        "nombre": "Number Magnet",
+        "nombre": "Número Magnético",
         "descripcion": "Aumenta el porcentaje de pacto de Ángel y de Diablo, evita que aparezca Krampus y mejora las salas del Diablo.",
         "tipo": "Trinket"
     },
     {
         "uid": 320,
         "id": "175",
-        "nombre": "Strange Key",
+        "nombre": "Llave Extraña",
         "descripcion": "La puerta a Hush queda abierta sin necesidad de llegar antes de los 30 minutos. Además, modifica el efecto de Pandora’s Box para generar 6 objetos de varias pools.",
         "tipo": "Trinket"
     },
     {
         "uid": 321,
         "id": "176",
-        "nombre": "Lil Clot",
+        "nombre": "Mini-Coágulo",
         "descripcion": "Aparece un clot como los de Sumptorium, con tus efectos de lágrimas y daño reducido (x0.35). Si muere, reaparece en la siguiente sala.",
         "tipo": "Trinket"
     },
     {
         "uid": 322,
         "id": "177",
-        "nombre": "Temporary Tattoo",
+        "nombre": "Tatuaje Temporal",
         "descripcion": "Al completar una Challenge Room aparece un cofre, y al completar una Boss Challenge Room aparece un objeto extra de la Boss Room pool.",
         "tipo": "Trinket"
     },
     {
         "uid": 323,
         "id": "178",
-        "nombre": "Swallowed M80",
+        "nombre": "M80 Tragado",
         "descripcion": "50% de probabilidad de hacer una explosión tipo Kamikaze! al recibir daño. La explosión es compatible con tus sinergias de bombas.",
         "tipo": "Trinket"
     },
     {
         "uid": 324,
         "id": "179",
-        "nombre": "RC Remote",
+        "nombre": "RC Remoto",
         "descripcion": "Resumen de efecto: permite controlar mejor a los familiares ofensivos / redirigir su comportamiento.",
         "tipo": "Trinket"
     },
     {
         "uid": 325,
         "id": "180",
-        "nombre": "Found Soul",
+        "nombre": "Alma Encontrada",
         "descripcion": "Resumen de efecto: aparece un alma aliada que acompaña al jugador y replica parte de su ataque.",
         "tipo": "Trinket"
     },
     {
         "uid": 326,
         "id": "181",
-        "nombre": "Expansion Pack",
+        "nombre": "Paquete de Expansión",
         "descripcion": "Resumen de efecto: genera recompensas/consumibles extra de forma aleatoria al explorar o limpiar salas.",
         "tipo": "Trinket"
     },
     {
         "uid": 327,
         "id": "182",
-        "nombre": "Beth’s Essence",
+        "nombre": "Esencia de Beth",
         "descripcion": "Resumen de efecto: favorece la aparición de llamas/wisps protectores al avanzar por el piso o limpiar salas.",
         "tipo": "Trinket"
     },
     {
         "uid": 328,
         "id": "183",
-        "nombre": "The Twins",
+        "nombre": "Los Gemelos",
         "descripcion": "Resumen de efecto: añade un comportamiento de gemelos a los familiares o genera dos aliados vinculados.",
         "tipo": "Trinket"
     },
     {
         "uid": 329,
         "id": "184",
-        "nombre": "Adoption Papers",
+        "nombre": "Papeles de Adopción",
         "descripcion": "Resumen de efecto: mejora o duplica la obtención de familiares/bebés en ciertas situaciones.",
         "tipo": "Trinket"
     },
     {
         "uid": 330,
         "id": "185",
-        "nombre": "Cricket Leg",
+        "nombre": "Pata de Grillo",
         "descripcion": "Resumen de efecto: probabilidad de aplastar o dañar fuertemente enemigos con un golpe tipo pisotón.",
         "tipo": "Trinket"
     },
     {
         "uid": 331,
         "id": "186",
-        "nombre": "Apollyon’s Best Friend",
+        "nombre": "Mejor Amigo de Apolión",
         "descripcion": "Resumen de efecto: puede generar langostas o aliados ofensivos al completar salas hostiles.",
         "tipo": "Trinket"
     },
     {
         "uid": 332,
         "id": "187",
-        "nombre": "Broken Glasses",
+        "nombre": "Gafas Rotas",
         "descripcion": "50% de probabilidad de que en la Treasure Room aparezca otro objeto oculto, como si tuvieras Curse of the Blind. En pisos alternativos también puede mostrar el objeto oculto.",
         "tipo": "Trinket"
     },
     {
         "uid": 333,
         "id": "188",
-        "nombre": "Ice Cube",
+        "nombre": "Cubo de Hielo",
         "descripcion": "Resumen de efecto: al recibir daño aparece un bloque de hielo que se desliza por la habitación dañando enemigos.",
         "tipo": "Trinket"
     },
     {
         "uid": 334,
         "id": "189",
-        "nombre": "Sigil of Baphomet",
+        "nombre": "Sello de Baphomet",
         "descripcion": "Cada enemigo derrotado activa un escudo como Book of Shadows durante 1 segundo. Si matas varios a la vez, acumulas segundos de inmunidad.",
         "tipo": "Trinket"
     },
