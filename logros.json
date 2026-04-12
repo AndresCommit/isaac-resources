@@ -283,7 +283,7 @@
         "nombre": "???",
         "descripcion": "Derrota a Corazón de Mamá 10 veces.",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 5,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -373,7 +373,7 @@
         "nombre": "Eva",
         "descripcion": "No recojas ningún tipo de corazón en 2 pisos seguidos.",
         "desbloqueado": false,
-        "desbloquea_personaje_id": 7,
+        "desbloquea_personaje_id": 6,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -465,7 +465,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 182
     },
     {
         "id": 53,
@@ -492,7 +492,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 195
     },
     {
         "id": 56,
@@ -537,7 +537,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 196
     },
     {
         "id": 61,
@@ -546,7 +546,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 189
     },
     {
         "id": 62,
@@ -573,7 +573,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 198
     },
     {
         "id": 65,
@@ -598,7 +598,7 @@
         "nombre": "Sansón",
         "descripcion": "Supera 2 pisos seguidos sin recibir daño.",
         "desbloqueado": false,
-        "desbloquea_personaje_id": 8,
+        "desbloquea_personaje_id": 7,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -626,8 +626,8 @@
         "descripcion": "Completa la Boss Rush como Isaac .",
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
-        "desbloquea_objeto_id": 70,
-        "desbloquea_consumible_id": null
+        "desbloquea_objeto_id": null,
+        "desbloquea_consumible_id": 200
     },
     {
         "id": 71,
@@ -635,8 +635,8 @@
         "descripcion": "Derrota a El Cordero como Magdalena .",
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
-        "desbloquea_objeto_id": 146,
-        "desbloquea_consumible_id": null
+        "desbloquea_objeto_id": null,
+        "desbloquea_consumible_id": 201
     },
     {
         "id": 72,
@@ -654,7 +654,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 203
     },
     {
         "id": 74,
@@ -663,7 +663,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 204
     },
     {
         "id": 75,
@@ -672,7 +672,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 205
     },
     {
         "id": 76,
@@ -681,7 +681,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 206
     },
     {
         "id": 77,
@@ -690,7 +690,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 207
     },
     {
         "id": 78,
@@ -706,7 +706,7 @@
         "nombre": "Azazel",
         "descripcion": "Realiza 3 pactos con el demonio en una misma partida.",
         "desbloqueado": false,
-        "desbloquea_personaje_id": 9,
+        "desbloquea_personaje_id": 8,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -715,7 +715,7 @@
         "nombre": "Lázaro",
         "descripcion": "Llega a tener 4 o más corazones de alma a la vez.",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 9,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -724,16 +724,16 @@
         "nombre": "Edén",
         "descripcion": "Completa el capítulo 4 .",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 10,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
     {
         "id": 82,
         "nombre": "El Perdido",
-        "descripcion": "RB Desbloquea a The Lost . A AB Muere en una Habitación del Sacrificio mientras sostienes Cartel de Desaparecido .",
+        "descripcion": "Desbloquea a The Lost . Muere en una Habitación del Sacrificio mientras sostienes Cartel de Desaparecido .",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 11,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -762,7 +762,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 162
     },
     {
         "id": 86,
@@ -906,7 +906,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 148
     },
     {
         "id": 102,
@@ -996,7 +996,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 164
     },
     {
         "id": 112,
@@ -1049,8 +1049,8 @@
         "descripcion": "Derrota a Satán como Lázaro .",
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
-        "desbloquea_objeto_id": 161,
-        "desbloquea_consumible_id": null
+        "desbloquea_objeto_id": null,
+        "desbloquea_consumible_id": 175
     },
     {
         "id": 118,
@@ -1059,7 +1059,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 160
     },
     {
         "id": 119,
@@ -1104,7 +1104,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 168
     },
     {
         "id": 124,
@@ -1140,7 +1140,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 169
     },
     {
         "id": 128,
@@ -1338,7 +1338,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 170
     },
     {
         "id": 150,
@@ -1662,7 +1662,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 226
     },
     {
         "id": 186,
@@ -1761,7 +1761,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 213
     },
     {
         "id": 197,
@@ -1770,7 +1770,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 386
     },
     {
         "id": 198,
@@ -1786,7 +1786,7 @@
         "nombre": "Lilith",
         "descripcion": "Derrota a Ultra Codicia como Azazel .",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 12,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -1833,7 +1833,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 229
     },
     {
         "id": 205,
@@ -2058,7 +2058,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 222
     },
     {
         "id": 230,
@@ -2067,7 +2067,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 220
     },
     {
         "id": 231,
@@ -2148,7 +2148,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 230
     },
     {
         "id": 240,
@@ -2238,7 +2238,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 228
     },
     {
         "id": 250,
@@ -2254,7 +2254,7 @@
         "nombre": "Keeper",
         "descripcion": "Dona 1000 monedas a la máquina de donaciones de Greed .",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 13,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -2553,7 +2553,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 255
     },
     {
         "id": 285,
@@ -2580,7 +2580,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 256
     },
     {
         "id": 288,
@@ -2697,7 +2697,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 236
     },
     {
         "id": 301,
@@ -2706,7 +2706,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 264
     },
     {
         "id": 302,
@@ -2715,7 +2715,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 252
     },
     {
         "id": 303,
@@ -2733,7 +2733,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 263
     },
     {
         "id": 305,
@@ -2787,7 +2787,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 258
     },
     {
         "id": 311,
@@ -2796,7 +2796,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 259
     },
     {
         "id": 312,
@@ -2805,7 +2805,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 260
     },
     {
         "id": 313,
@@ -2814,7 +2814,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 261
     },
     {
         "id": 314,
@@ -2823,7 +2823,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 262
     },
     {
         "id": 315,
@@ -3021,7 +3021,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 237
     },
     {
         "id": 337,
@@ -3055,7 +3055,7 @@
         "nombre": "Apolión",
         "descripcion": "Derrota a Mega Satán .",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 14,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -3219,16 +3219,16 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 265
     },
     {
         "id": 359,
         "nombre": "Cruz de Madera",
-        "descripcion": "Duerme en una cama .",
+        "descripcion": "Duerme en una cama.",
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 266
     },
     {
         "id": 360,
@@ -3237,7 +3237,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 267
     },
     {
         "id": 361,
@@ -3327,7 +3327,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 268
     },
     {
         "id": 371,
@@ -3372,7 +3372,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 269
     },
     {
         "id": 376,
@@ -3426,7 +3426,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 270
     },
     {
         "id": 382,
@@ -3489,7 +3489,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 271
     },
     {
         "id": 389,
@@ -3498,14 +3498,14 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 272
     },
     {
         "id": 390,
         "nombre": "El Olvidado",
-        "descripcion": "Es complicado .",
+        "descripcion": "Es complicado.",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 15,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -3588,7 +3588,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 273
     },
     {
         "id": 400,
@@ -3631,7 +3631,7 @@
         "nombre": "Bethany",
         "descripcion": "Derrota a Corazón de Mamá o ¡Está Vivo! en modo difícil como Lazarus sin morir.",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 16,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -3640,7 +3640,7 @@
         "nombre": "Jacob & Esaú",
         "descripcion": "Derrota a Madre .",
         "desbloqueado": false,
-        "desbloquea_personaje_id": null,
+        "desbloquea_personaje_id": 17,
         "desbloquea_objeto_id": null,
         "desbloquea_consumible_id": null
     },
@@ -3651,7 +3651,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 297
     },
     {
         "id": 407,
@@ -3669,7 +3669,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 286
     },
     {
         "id": 409,
@@ -3768,7 +3768,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 276
     },
     {
         "id": 420,
@@ -3786,7 +3786,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 287
     },
     {
         "id": 422,
@@ -4083,7 +4083,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 291
     },
     {
         "id": 455,
@@ -4119,7 +4119,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 283
     },
     {
         "id": 459,
@@ -4434,7 +4434,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 295
     },
     {
         "id": 494,
@@ -4659,7 +4659,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 334
     },
     {
         "id": 519,
@@ -4681,12 +4681,12 @@
     },
     {
         "id": 521,
-        "nombre": "Lentes Rotos",
+        "nombre": "Gafas Rotas",
         "descripcion": "Completa el desafío #40: Viendo Doble .",
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 332
     },
     {
         "id": 522,
@@ -4695,7 +4695,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 333
     },
     {
         "id": 523,
@@ -4704,7 +4704,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 292
     },
     {
         "id": 524,
@@ -4902,7 +4902,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 288
     },
     {
         "id": 546,
@@ -4929,7 +4929,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 298
     },
     {
         "id": 549,
@@ -4938,7 +4938,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 299
     },
     {
         "id": 550,
@@ -4947,7 +4947,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 300
     },
     {
         "id": 551,
@@ -4956,7 +4956,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 301
     },
     {
         "id": 552,
@@ -4965,7 +4965,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 304
     },
     {
         "id": 553,
@@ -4974,7 +4974,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 305
     },
     {
         "id": 554,
@@ -4983,7 +4983,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 318
     },
     {
         "id": 555,
@@ -4992,7 +4992,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 319
     },
     {
         "id": 556,
@@ -5001,7 +5001,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 308
     },
     {
         "id": 557,
@@ -5010,7 +5010,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 309
     },
     {
         "id": 558,
@@ -5019,7 +5019,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 320
     },
     {
         "id": 559,
@@ -5028,7 +5028,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 321
     },
     {
         "id": 560,
@@ -5037,7 +5037,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 322
     },
     {
         "id": 561,
@@ -5046,7 +5046,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 323
     },
     {
         "id": 562,
@@ -5055,7 +5055,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 306
     },
     {
         "id": 563,
@@ -5064,7 +5064,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 307
     },
     {
         "id": 564,
@@ -5073,7 +5073,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 303
     },
     {
         "id": 565,
@@ -5082,7 +5082,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 302
     },
     {
         "id": 566,
@@ -5091,7 +5091,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 310
     },
     {
         "id": 567,
@@ -5100,7 +5100,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 311
     },
     {
         "id": 568,
@@ -5109,7 +5109,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 314
     },
     {
         "id": 569,
@@ -5118,7 +5118,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 315
     },
     {
         "id": 570,
@@ -5127,7 +5127,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 328
     },
     {
         "id": 571,
@@ -5136,7 +5136,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 329
     },
     {
         "id": 572,
@@ -5145,7 +5145,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 316
     },
     {
         "id": 573,
@@ -5154,7 +5154,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 317
     },
     {
         "id": 574,
@@ -5163,7 +5163,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 330
     },
     {
         "id": 575,
@@ -5172,7 +5172,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 331
     },
     {
         "id": 576,
@@ -5181,7 +5181,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 312
     },
     {
         "id": 577,
@@ -5190,7 +5190,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 313
     },
     {
         "id": 578,
@@ -5199,7 +5199,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 326
     },
     {
         "id": 579,
@@ -5208,7 +5208,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 327
     },
     {
         "id": 580,
@@ -5217,7 +5217,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 324
     },
     {
         "id": 581,
@@ -5226,7 +5226,7 @@
         "desbloqueado": false,
         "desbloquea_personaje_id": null,
         "desbloquea_objeto_id": null,
-        "desbloquea_consumible_id": null
+        "desbloquea_consumible_id": 325
     },
     {
         "id": 582,
