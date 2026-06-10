@@ -1,0 +1,222 @@
+[
+  {
+    "obj_a_id": 52,
+    "obj_b_id": 223,
+    "descripcion_sinergia": "Dr. Fetus + Piromaníaco: Las bombas que dispara el Dr. Fetus curan al jugador en lugar de dañarle, ya que Piromaníaco otorga inmunidad completa a las explosiones y convierte el daño por bomba en curación de medio corazón."
+  },
+  {
+    "obj_a_id": 52,
+    "obj_b_id": 220,
+    "descripcion_sinergia": "Dr. Fetus + Bombas Tristes: Cada bomba disparada por el Dr. Fetus, al explotar, libera además un anillo de 10 lágrimas en todas direcciones, multiplicando enormemente el daño por área."
+  },
+  {
+    "obj_a_id": 52,
+    "obj_b_id": 353,
+    "descripcion_sinergia": "Dr. Fetus + Bomber Boy: Las bombas del Dr. Fetus explotan en patrón de cruz en lugar de una explosión circular estándar, cubriendo mucha más área horizontal y vertical con cada disparo."
+  },
+  {
+    "obj_a_id": 52,
+    "obj_b_id": 366,
+    "descripcion_sinergia": "Dr. Fetus + Bombas de Dispersión: Cada bomba del Dr. Fetus se divide en 2-4 bombas pequeñas adicionales al explotar, encadenando múltiples explosiones secundarias por disparo."
+  },
+  {
+    "obj_a_id": 68,
+    "obj_b_id": 2,
+    "descripcion_sinergia": "Tecnología + El Ojo Interior: El láser de Tecnología se divide en tres láseres simultáneos paralelos, triplicando el daño por segundo a costa de la ligera penalización de lágrimas del Ojo Interior."
+  },
+  {
+    "obj_a_id": 68,
+    "obj_b_id": 169,
+    "descripcion_sinergia": "Tecnología + Polifemo: El láser de Tecnología absorbe el enorme multiplicador de daño de Polifemo (x2 más +4 de daño base), generando un rayo de destrucción masiva con un DPS extraordinariamente alto."
+  },
+  {
+    "obj_a_id": 68,
+    "obj_b_id": 329,
+    "descripcion_sinergia": "Tecnología + La técnica de Ludovico: El láser de Tecnología se convierte en una enorme lágrima controlable que irradia un rayo continuo, permitiendo mantener el daño del láser sobre un enemigo de forma constante y manejable."
+  },
+  {
+    "obj_a_id": 182,
+    "obj_b_id": 3,
+    "descripcion_sinergia": "Sagrado Corazón + Doblador de Cucharas: Las lágrimas ya teledirigidas del Sagrado Corazón se combinan con el Doblador de Cucharas sin conflicto, manteniendo el seguimiento perfecto junto con el enorme multiplicador de daño x2.3."
+  },
+  {
+    "obj_a_id": 182,
+    "obj_b_id": 360,
+    "descripcion_sinergia": "Sagrado Corazón + Íncubo: El familiar Íncubo copia íntegramente las estadísticas y efectos del jugador, por lo que con el Sagrado Corazón dispara lágrimas teledirigidas con el multiplicador de daño x2.3, duplicando efectivamente el daño total."
+  },
+  {
+    "obj_a_id": 360,
+    "obj_b_id": 698,
+    "descripcion_sinergia": "Íncubo + Par Retorcido: Los dos demonios del Par Retorcido también copian los efectos del Íncubo, que a su vez imita al jugador, resultando en tres familiares disparando lágrimas con los efectos completos del personaje de forma simultánea."
+  },
+  {
+    "obj_a_id": 360,
+    "obj_b_id": 357,
+    "descripcion_sinergia": "Íncubo + Cajón de Amigos: Al activar el Cajón de Amigos, aparece un segundo Íncubo temporal durante la habitación. Durante ese tiempo, dos Íncubos disparan copias exactas de tus lágrimas con tus estadísticas completas."
+  },
+  {
+    "obj_a_id": 222,
+    "obj_b_id": 221,
+    "descripcion_sinergia": "Anti-Gravedad + Pegamento Elástico: Las lágrimas suspendidas en el aire por Anti-Gravedad, al liberarse, rebotan infinitamente por toda la habitación, convirtiéndose en proyectiles perpetuos que acumulan daño masivo sobre los enemigos."
+  },
+  {
+    "obj_a_id": 222,
+    "obj_b_id": 4,
+    "descripcion_sinergia": "Anti-Gravedad + Cabeza de Cricket: Las ráfagas de lágrimas acumuladas y liberadas por Anti-Gravedad aplican el enorme multiplicador de daño de la Cabeza de Cricket (x1.5 + 0.5), disparando una avalancha de proyectiles de alto daño."
+  },
+  {
+    "obj_a_id": 224,
+    "obj_b_id": 169,
+    "descripcion_sinergia": "Cuerpo de Cricket + Polifemo: Cada lágrima del enorme disparo de Polifemo, al impactar, se divide en cuatro lágrimas secundarias. Dado el altísimo daño de Polifemo, las divisiones siguen traspasando enemigos si superan su vida restante."
+  },
+  {
+    "obj_a_id": 4,
+    "obj_b_id": 169,
+    "descripcion_sinergia": "Cabeza de Cricket + Polifemo: El multiplicador x1.5 de la Cabeza de Cricket se aplica sobre la ya enorme base de daño de Polifemo (x2 + +4), resultando en lágrimas de un daño casi imposible de superar en partidas normales."
+  },
+  {
+    "obj_a_id": 368,
+    "obj_b_id": 330,
+    "descripcion_sinergia": "Epífora + Leche de Soya: La Leche de Soya cuadruplica la cadencia de disparo, lo que hace que Epífora alcance su cadencia máxima (+200%) de forma casi instantánea, logrando una velocidad de disparo absolutamente desorbitada."
+  },
+  {
+    "obj_a_id": 368,
+    "obj_b_id": 373,
+    "descripcion_sinergia": "Epífora + Ojo Muerto: Al disparar en una sola dirección con Epífora, la cadencia aumenta y todos esos disparos continuados acumulan el bonus de daño del Ojo Muerto (+25% por acierto), combinando cadencia y daño exponencialmente."
+  },
+  {
+    "obj_a_id": 331,
+    "obj_b_id": 3,
+    "descripcion_sinergia": "Deidad + Doblador de Cucharas: Las lágrimas ya teledirigidas de Deidad son complementadas por el Doblador de Cucharas, reforzando el seguimiento. El aura de daño pasiva de Deidad (4.5x daño/segundo) se aplica con total precisión."
+  },
+  {
+    "obj_a_id": 331,
+    "obj_b_id": 369,
+    "descripcion_sinergia": "Deidad + Continuo: Las lágrimas de Deidad con su aura de daño pueden atravesar paredes gracias a Continuo, apareciendo por el lado opuesto y manteniendo activo el aura dañina mientras cruzan la habitación de extremo a extremo."
+  },
+  {
+    "obj_a_id": 477,
+    "obj_b_id": 475,
+    "descripcion_sinergia": "Vacío + Plan C: Al absorber el Plan C con Vacío, se añade su efecto al ítem activo: cada uso de Vacío aplica primero sus efectos normales y luego mata a todos los enemigos de la sala al instante, sin la penalización de muerte del Plan C."
+  },
+  {
+    "obj_a_id": 494,
+    "obj_b_id": 68,
+    "descripcion_sinergia": "Escalera de Jacob + Tecnología: Los rayos eléctricos generados por la Escalera de Jacob se disparan también desde el láser de Tecnología al impactar, creando cadenas de electricidad que saltan entre enemigos además del daño continuo del láser."
+  },
+  {
+    "obj_a_id": 494,
+    "obj_b_id": 169,
+    "descripcion_sinergia": "Escalera de Jacob + Polifemo: Las lágrimas de enorme daño de Polifemo generan hasta 2 rayos eléctricos encadenados por cada impacto, multiplicando el daño por área de una build ya de por sí devastadora."
+  },
+  {
+    "obj_a_id": 63,
+    "obj_b_id": 356,
+    "descripcion_sinergia": "La Batería + Batería de Coche: La Batería duplica la capacidad de carga del objeto activo y la Batería de Coche duplica el efecto de cada uso. Juntas permiten acumular el doble de cargas y cada uso tiene el doble de potencia."
+  },
+  {
+    "obj_a_id": 34,
+    "obj_b_id": 51,
+    "descripcion_sinergia": "Libro de Belial + Pentáculo: Ambos objetos aumentan la probabilidad de encontrar salas de Ángel y Diablo (+12.5% y +10% respectivamente), acumulándose para alcanzar una alta probabilidad constante de acceder a estas salas especiales cada piso."
+  },
+  {
+    "obj_a_id": 496,
+    "obj_b_id": 224,
+    "descripcion_sinergia": "Eutanasia + Cuerpo de Cricket: Cuando una aguja de Eutanasia mata a un enemigo normal, dispara 10 lágrimas en círculo. Cada una de esas 10 lágrimas se divide a su vez en 4 al impactar gracias al Cuerpo de Cricket, generando 40 proyectiles secundarios."
+  },
+  {
+    "obj_a_id": 374,
+    "obj_b_id": 696,
+    "descripcion_sinergia": "Luz Sagrada + Salvación: Ambos objetos generan rayos de luz desde el cielo sobre los enemigos marcados o golpeados. Los efectos se acumulan, aumentando significativamente la frecuencia con la que caen rayos castigadores sobre los enemigos."
+  },
+  {
+    "obj_a_id": 700,
+    "obj_b_id": 75,
+    "descripcion_sinergia": "Cámara de Eco + PHD: Con el PHD todas las píldoras son beneficiosas. La Cámara de Eco repite los efectos de las últimas 3 píldoras usadas al tomar una nueva, multiplicando enormemente el beneficio de cada píldora consumida."
+  },
+  {
+    "obj_a_id": 711,
+    "obj_b_id": 347,
+    "descripcion_sinergia": "Voltear + Diplopia: Diplopia duplica el objeto en pedestal creando dos copias físicas. Voltear genera además las versiones fantasma de ambas copias. Combinando los dos objetos se puede conseguir hasta cuatro veces el valor de un único pedestal."
+  },
+  {
+    "obj_a_id": 706,
+    "obj_b_id": 360,
+    "descripcion_sinergia": "Abismo + Íncubo: Al absorber el Íncubo con Abismo se genera una mosca del abismo que dispara láseres basados en las estadísticas del Íncubo (que copiaba las del jugador), obteniendo una mosca de daño extraordinariamente alto de forma permanente."
+  },
+  {
+    "obj_a_id": 712,
+    "obj_b_id": 477,
+    "descripcion_sinergia": "Lemegeton + Vacío: Lemegeton invoca un fuego fatuo con un objeto aleatorio activo o pasivo que aplica sus efectos mientras persiste. Usar Vacío para absorber ese ítem lo añade permanentemente al conjunto de efectos de Vacío para usos futuros."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 152,
+    "descripcion_sinergia": "Azufre + Tecnología 2: El rayo de Azufre se fusiona con el láser continuo de Tecnología 2, convirtiéndose en un rayo cargable que también dispara el láser de forma simultánea. El resultado es un haz de daño masivo que combina el altísimo daño del Azufre con el DPS constante del láser."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 2,
+    "descripcion_sinergia": "Azufre + El Ojo Interior: El rayo de Azufre se triplica, disparando tres haces de sangre en paralelo de forma simultánea con cada carga. El daño total por descarga se multiplica por tres, convirtiéndose en una de las sinergias más devastadoras del juego."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 153,
+    "descripcion_sinergia": "Azufre + Araña Mutante: El rayo de Azufre se convierte en cuatro rayos disparados en diagonal simultáneamente al soltar la carga, cubriendo toda la habitación en un patrón de X que golpea a prácticamente cualquier enemigo independientemente de su posición."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 329,
+    "descripcion_sinergia": "Azufre + La técnica de Ludovico: El rayo de Azufre se transforma en una enorme lágrima controlable que emite un rayo de sangre continuo en la dirección que apuntas. Permite mantener el daño del Azufre de forma ininterrumpida girando el rayo sobre los enemigos sin necesidad de cargar."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 87,
+    "descripcion_sinergia": "Azufre + Cuernos de Loki: Al soltar la carga del Azufre, existe una probabilidad de disparar el rayo en las cuatro direcciones cardinales de forma simultánea, llenando por completo la habitación de rayos de sangre con cada descarga."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 261,
+    "descripcion_sinergia": "Azufre + Proptosis: El multiplicador x2 de daño de Proptosis se aplica al rayo de Azufre, que además no sufre la penalización de distancia de Proptosis al ser un proyectil de tipo láser. El rayo pasa a infligir el doble de su ya enorme daño base."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 310,
+    "descripcion_sinergia": "Azufre + Rímel de Eva: El multiplicador x2 de daño del Rímel de Eva se aplica íntegramente al rayo de Azufre, duplicando su daño. La penalización de cadencia del Rímel no afecta al Azufre ya que este funciona con carga y no con disparo automático."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 275,
+    "descripcion_sinergia": "Azufre + Mini-Azufre: El familiar Mini-Azufre dispara su propio rayo de sangre de forma autónoma mientras el jugador carga y dispara el suyo. Ambos rayos actúan de forma independiente, solapando su daño sobre los enemigos de forma simultánea."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 149,
+    "descripcion_sinergia": "Azufre + Ipecac: El rayo de Azufre adquiere el efecto explosivo y venenoso del Ipecac, añadiendo +40 de daño base y generando explosiones en toda su trayectoria al impactar. Cada punto del rayo que toca a un enemigo puede detonar una explosión envenenada."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 229,
+    "descripcion_sinergia": "Azufre + Pulmón de Monstro: Al cargar el ataque, se fusionan ambos efectos y se dispara una gigantesca ráfaga de mini-rayos de sangre en abanico, similar al patrón de disparo de Monstro pero con el daño del Azufre aplicado a cada proyectil individual."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 114,
+    "descripcion_sinergia": "Azufre + Cuchillo de Mamá: Al cargar el cuchillo completamente, este se convierte en un rayo de Azufre lanzado en línea recta. Conserva el multiplicador de daño del cuchillo al máximo recorrido (x6 de tu daño), combinándolo con el enorme daño base del Azufre."
+  },
+  {
+    "obj_a_id": 118,
+    "obj_b_id": 368,
+    "descripcion_sinergia": "Azufre + Epífora: Mantener el rayo de Azufre disparado en una sola dirección activa el bonus de cadencia de Epífora, reduciendo progresivamente el tiempo de carga necesario hasta alcanzar una velocidad de recarga casi instantánea."
+  },
+  {
+    "obj_a_id": 149,
+    "obj_b_id": 223,
+    "descripcion_sinergia": "Ipecac + Piromaníaco: Las explosiones generadas por los proyectiles del Ipecac curan al jugador en lugar de dañarle gracias a Piromaníaco. Permite disparar sin preocupación por el daño propio de las explosiones, convirtiendo el mayor defecto del Ipecac en curación constante."
+  },
+  {
+    "obj_a_id": 149,
+    "obj_b_id": 52,
+    "descripcion_sinergia": "Ipecac + Dr. Fetus: Las bombas del Dr. Fetus adquieren el veneno y las explosiones secundarias del Ipecac, añadiendo además los +40 de daño base del Ipecac a cada bomba disparada. Cada impacto genera una explosión envenenada de daño colosal."
+  }
+]
