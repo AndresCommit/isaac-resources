@@ -1,254 +1,443 @@
 [
-{
-"id": 1,
-"nombre": "Monstro",
-"vida_base": 250,
-"descripcion": "Uno de los jefes más icónicos del Capítulo 1.",
-"comportamiento": "Salta hacia el jugador y escupe ráfagas de sangre de forma errática.",
-"notas": "Sus saltos grandes son una oportunidad para atacar mientras está en el aire.",
-"piso_id": 1
-},
-{
-"id": 2,
-"nombre": "Larry Jr.",
-"vida_base": 22,
-"descripcion": "Un jefe compuesto por múltiples segmentos de gusano.",
-"comportamiento": "Se mueve por la sala dejando caca y se divide si se golpea en los segmentos centrales.",
-"notas": "Cada segmento tiene su propia vida; las bombas son muy efectivas.",
-"piso_id": 1
-},
-{
-"id": 3,
-"nombre": "Chub",
-"vida_base": 250,
-"descripcion": "Un gusano gigante que carga contra el jugador.",
-"comportamiento": "Carga en línea recta e invoca pequeños gusanos (Chargers).",
-"notas": "Si se traga una bomba mientras carga, recibirá daño masivo y se detendrá.",
-"piso_id": 3
-},
-{
-"id": 4,
-"nombre": "Gurdy",
-"vida_base": 650,
-"descripcion": "Una masa de carne estática de gran tamaño.",
-"comportamiento": "Dispara ráfagas de lágrimas e invoca moscas o Boils.",
-"notas": "Al ser estático, es fácil de golpear con objetos de daño constante.",
-"piso_id": 5
-},
-{
-"id": 5,
-"nombre": "Monstro II",
-"vida_base": 600,
-"descripcion": "Una versión más oscura y poderosa de Monstro.",
-"comportamiento": "Dispara un láser de sangre (Brimstone) horizontal e invoca moscas al saltar.",
-"notas": "Siempre intenta alinearse horizontalmente para disparar su láser.",
-"piso_id": 5
-},
-{
-"id": 6,
-"nombre": "Mom",
-"vida_base": 645,
-"descripcion": "El primer gran obstáculo del juego, representando a la madre de Isaac.",
-"comportamiento": "Ataca pisando con su pie, usando sus manos desde las puertas o invocando enemigos básicos.",
-"piso_id": 6,
-"notas": "Es vulnerable a la Biblia, que la derrota instantáneamente."
-},
-{
-"id": 7,
-"nombre": "Mom's Heart",
-"vida_base": 950,
-"descripcion": "El corazón de la madre de Isaac, custodiado en el útero.",
-"comportamiento": "Dispara ráfagas de proyectiles en patrones circulares e invoca jefes de los primeros pisos.",
-"piso_id": 8,
-"notas": "Al ser derrotado 11 veces, es reemplazado permanentemente por 'It Lives'."
-},
-{
-"id": 8,
-"nombre": "Gemini",
-"vida_base": 140,
-"descripcion": "Dos bebés unidos por un cordón umbilical.",
-"comportamiento": "El hermano mayor persigue al jugador mientras el pequeño dispara desde lejos.",
-"piso_id": 1,
-"notas": "Si matas primero al grande, el pequeño se enfurece y carga rápido."
-},
-{
-"id": 9,
-"nombre": "The Fallen",
-"vida_base": 500,
-"descripcion": "Un ángel caído que aparece frecuentemente en salas del demonio.",
-"comportamiento": "Se divide en dos a mitad de vida y dispara ráfagas cuádruples de Brimstone.",
-"piso_id": 0,
-"notas": "Siempre suelta un objeto de la reserva del Diablo al morir."
-},
-{
-"id": 10,
-"nombre": "Famine",
-"vida_base": 240,
-"descripcion": "El primero de los cuatro jinetes del apocalipsis.",
-"comportamiento": "Carga horizontalmente e invoca moscas. En su segunda fase, su cabeza vuela y dispara.",
-"piso_id": 1,
-"notas": "Suelta un trozo de carne o una bola de vendajes."
-},
-{
-"id": 11,
-"nombre": "Gurdy Jr.",
-"vida_base": 250,
-"descripcion": "Una versión más pequeña y móvil de Gurdy.",
-"comportamiento": "Rebota a gran velocidad por la sala y dispara lágrimas en cruz.",
-"piso_id": 3,
-"notas": "Su patrón de rebote puede ser difícil de predecir."
-},
-{
-"id": 14,
-"nombre": "Duke of Flies",
-"vida_base": 110,
-"descripcion": "Un cadáver hinchado lleno de moscas.",
-"comportamiento": "Flota lentamente e invoca moscas de diferentes tipos para protegerse.",
-"piso_id": 1,
-"notas": "Es uno de los jefes más fáciles si tienes daño de área."
-},
-{
-"id": 15,
-"nombre": "Peep",
-"vida_base": 250,
-"descripcion": "Un ser gordo que orina y pierde sus ojos.",
-"comportamiento": "Salta sobre el jugador y deja charcos de orina. Sus ojos rebotan por la sala al perder vida.",
-"piso_id": 3,
-"notas": "Los ojos son invulnerables y son el mayor peligro de la pelea."
-},
-{
-"id": 16,
-"nombre": "Loki",
-"vida_base": 350,
-"descripcion": "Un demonio pequeño y juguetón.",
-"comportamiento": "Se teletransporta e invoca moscas explosivas. Dispara ráfagas en 8 direcciones.",
-"piso_id": 5,
-"notas": "Su versión 'Lokii' se divide en dos desde el inicio."
-},
-{
-"id": 21,
-"nombre": "Gish",
-"vida_base": 240,
-"descripcion": "Un jefe de alquitrán, pariente de Monstro.",
-"comportamiento": "Lanza proyectiles que ralentizan al jugador e invoca pequeños Clots.",
-"piso_id": 4,
-"notas": "Siempre suelta el objeto 'Little Gish'."
-},
-{
-"id": 22,
-"nombre": "Steven",
-"vida_base": 140,
-"descripcion": "Una versión alternativa de Gemini basada en el juego Time Fcuk.",
-"comportamiento": "Similar a Gemini pero más rápido y agresivo.",
-"piso_id": 1,
-"notas": "Tiene probabilidad de soltar 'Steven' (daño) o 'Little Steven'."
-},
-{
-"id": 24,
-"nombre": "The Hollow",
-"vida_base": 22,
-"descripcion": "La versión evolucionada de Larry Jr. en las Cuevas.",
-"comportamiento": "Vuela diagonalmente por la sala y se divide en segmentos más pequeños.",
-"piso_id": 3,
-"notas": "Sus segmentos se mueven mucho más rápido que los de Larry Jr."
-},
-{
-"id": 27,
-"nombre": "The Bloat",
-"vida_base": 450,
-"descripcion": "La evolución de Peep y pesadilla de muchos jugadores.",
-"comportamiento": "Dispara Brimstone instantáneo hacia los lados y abajo. Deja charcos de sangre permanentes.",
-"piso_id": 5,
-"notas": "Atacarle desde arriba es la estrategia más segura."
-},
-{
-"id": 62,
-"nombre": "Baby Plum",
-"vida_base": 300,
-"descripcion": "Un jefe introducido en Repentance con apariencia de mosca bebé.",
-"comportamiento": "Rebota por las paredes disparando lágrimas y hace un ataque de 'choque' circular.",
-"piso_id": 1,
-"notas": "Si no le disparas y solo esquivas, se irá pacíficamente y te dejará un objeto especial."
-},
-{
-"id": 71,
-"nombre": "Wormwood",
-"vida_base": 350,
-"descripcion": "Jefe de la ruta Downpour/Dross.",
-"comportamiento": "Sale de los pozos de agua para embestir o morder, y puede inundar la sala.",
-"piso_id": 7,
-"notas": "Es vulnerable cuando está enganchado en el centro de la sala."
-},
-{
-"id": 79,
-"nombre": "The Siren",
-"vida_base": 550,
-"descripcion": "Jefe musical de Mausoleum.",
-"comportamiento": "Utiliza ataques basados en sonido y puede robar los familiares del jugador.",
-"piso_id": 9,
-"notas": "Si te roba un familiar, debes derrotarlo para recuperarlo."
-},
-{
-"id": 84,
-"nombre": "Satan",
-"vida_base": 600,
-"descripcion": "El señor del Sheol y la contraparte oscura de Isaac.",
-"comportamiento": "Fase 1: El caído. Fase 2: Dispara sangre estática y ráfagas. Fase 3: Sus pies pisotean constantemente.",
-"piso_id": 10,
-"notas": "Usar la Biblia contra él matará instantáneamente al jugador."
-},
-{
-"id": 102,
-"nombre": "Isaac",
-"vida_base": 2000,
-"descripcion": "Una versión angelical de Isaac que lucha en la Catedral.",
-"comportamiento": "Tres fases. Lágrimas, rayos de luz del cielo y finalmente vuelo con proyectiles divididos.",
-"piso_id": 9,
-"notas": "Sus rayos de luz siempre dejan un rincón seguro en las esquinas superiores."
-},
-{
-"id": 400,
-"nombre": "Mega Satan",
-"vida_base": 3000,
-"descripcion": "El jefe máximo de la ruta estándar, detrás de la puerta dorada.",
-"comportamiento": "Invoca versiones oscuras de los siete pecados capitales y a los cuatro jinetes.",
-"piso_id": 13,
-"notas": "Tiene una armadura que reduce el daño según la potencia del jugador."
-},
-{
-"id": 407,
-"nombre": "Hush",
-"vida_base": 6666,
-"descripcion": "La personificación de la asfixia de Isaac en el Blue Womb.",
-"comportamiento": "Utiliza patrones de 'infierno de balas', chorros de agua y lágrimas trascendentes.",
-"piso_id": 85,
-"notas": "Posee escalado de daño extremo."
-},
-{
-"id": 412,
-"nombre": "Delirium",
-"vida_base": 10000,
-"descripcion": "La manifestación final de la mente agonizante de Isaac.",
-"comportamiento": "Se transforma aleatoriamente en cualquier jefe derrotado en la partida.",
-"piso_id": 14,
-"notas": "Sus ataques pueden volverse injustos debido a la velocidad de transformación."
-},
-{
-"id": 636,
-"nombre": "Mother",
-"vida_base": 4222,
-"descripcion": "La verdadera forma monstruosa de la madre de Isaac.",
-"comportamiento": "Lanza cuchillos gigantes, usa ataques de embestida y succiona proyectiles.",
-"piso_id": 90,
-"notas": "Es el jefe final de la ruta alternativa."
-},
-{
-"id": 637,
-"nombre": "The Beast",
-"vida_base": 10000,
-"descripcion": "El enfrentamiento final de la historia de Isaac.",
-"comportamiento": "Combate en scroll lateral tras derrotar a los 4 Jinetes del Apocalipsis Dogma.",
-"piso_id": 95,
-"notas": "Es el único jefe con perspectiva lateral."
-}
+  {
+    "id": 1,
+    "nombre": "Monstro",
+    "vida_base": 250,
+    "descripcion": "Uno de los jefes más icónicos y reconocibles del juego. Es una masa de carne oscura con una enorme boca dentada.",
+    "comportamiento": "Alterna entre saltar directamente sobre el jugador y quedarse estático para escupir una ráfaga de proyectiles de sangre en un patrón errático hacia abajo. Sus saltos dejan un breve momento de vulnerabilidad total al aterrizar.",
+    "notas": "Mientras está en el aire durante sus saltos, no puede recibir daño por colisión pero sí por proyectiles. Es uno de los pocos jefes del Capítulo 1 que puede resultar peligroso si no se gestiona bien el espacio.",
+    "piso_id": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Larry Jr.",
+    "vida_base": 22,
+    "descripcion": "Un gusano segmentado de aspecto viscoso. Cada segmento tiene su propia barra de vida independiente, lo que lo convierte en un jefe inusual respecto al resto.",
+    "comportamiento": "Se desplaza por toda la sala de forma sinuosa dejando rastros de caca en el suelo. Si un segmento del centro recibe suficiente daño, el gusano se parte en dos partes independientes que continúan moviéndose por separado, dificultando el esquive.",
+    "notas": "Las bombas son especialmente efectivas ya que pueden dañar múltiples segmentos a la vez con una sola explosión. Matar primero los segmentos de los extremos es la estrategia más segura para evitar divisiones.",
+    "piso_id": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Chub",
+    "vida_base": 250,
+    "descripcion": "Un enorme gusano rechoncho y rosado que llena casi toda la anchura de la sala con su cuerpo. Su tamaño lo hace especialmente intimidante en espacios cerrados.",
+    "comportamiento": "Carga en línea recta de un extremo al otro de la sala, rebotando contra las paredes. Entre cargas, invoca pequeños gusanos (Chargers) que persiguen al jugador de forma independiente. Puede cambiar de dirección de carga de forma impredecible.",
+    "notas": "Si Chub está cargando y se traga una bomba colocada en su trayectoria, recibirá daño masivo y se detendrá completamente durante unos segundos, abriendo una ventana de ataque gratuita. Es el único jefe del juego con esta mecánica de interacción con bombas.",
+    "piso_id": 3
+  },
+  {
+    "id": 4,
+    "nombre": "Gurdy",
+    "vida_base": 650,
+    "descripcion": "Una enorme masa de carne estática anclada al centro de la sala, incapaz de moverse. A pesar de su inmovilidad, su volumen de fuego y el caos que genera hacen de él un jefe peligroso.",
+    "comportamiento": "Dispara ráfagas de proyectiles en múltiples patrones: olas circulares, disparos dirigidos al jugador y ráfagas caóticas. También invoca periódicamente moscas orbitales y Boils (bultos) en las paredes de la sala que disparan proyectiles adicionales.",
+    "notas": "Al ser completamente estático, es el jefe ideal para aplicar daño constante con objetos como Tecnología o Azufre sin necesidad de reposicionarse. Destruir los Boils de las paredes antes de centrarse en Gurdy puede simplificar enormemente la pelea.",
+    "piso_id": 5
+  },
+  {
+    "id": 5,
+    "nombre": "Monstro II",
+    "vida_base": 600,
+    "descripcion": "Una versión más oscura, grande y poderosa de Monstro. Su aspecto es más corrupto y su comportamiento mucho más agresivo, incorporando el ataque de rayo de sangre que más adelante será característico de Isaac.",
+    "comportamiento": "Salta hacia el jugador igual que Monstro original, pero al aterrizar invoca moscas aliadas que permanecen en la sala. Su ataque más peligroso es un rayo de Azufre horizontal: se alinea con el jugador en el eje X y carga el rayo antes de dispararlo atravesando toda la pantalla.",
+    "notas": "El rayo siempre es horizontal y Monstro II siempre intenta ponerse a la misma altura que el jugador antes de disparar. Moverse constantemente en vertical entre sus saltos es la forma más efectiva de evitar el rayo. Las moscas que invoca pueden distraer seriamente al jugador.",
+    "piso_id": 5
+  },
+  {
+    "id": 6,
+    "nombre": "Mom",
+    "vida_base": 645,
+    "descripcion": "El primer gran obstáculo del juego y uno de sus jefes más icónicos. Mom representa a la madre de Isaac y actúa como el jefe final del Capítulo 3, marcando el punto de inflexión narrativo de la historia.",
+    "comportamiento": "Ataca desde tres frentes simultáneamente: pisa con su enorme pie desde arriba intentando aplastar al jugador, saca sus manos por las puertas laterales para golpear o disparar proyectiles, y ocasionalmente invoca enemigos básicos en la sala. Sus pies parpadean brevemente antes de caer, dando un margen mínimo de reacción.",
+    "notas": "El único jefe del juego que puede ser derrotado de forma instantánea usando La Biblia, independientemente de su vida actual. Sus ataques de mano pueden ser de dos tipos: un golpe directo o una mano que dispara proyectiles, y ambos salen de las puertas laterales, por lo que alejarse de los bordes es esencial.",
+    "piso_id": 6
+  },
+  {
+    "id": 7,
+    "nombre": "Mom's Heart",
+    "vida_base": 950,
+    "descripcion": "El corazón latente de la madre de Isaac, custodiado en el Útero. Es el jefe final del Capítulo 4 en la ruta estándar y uno de los más exigentes en términos de gestión del espacio.",
+    "comportamiento": "Dispara ráfagas de proyectiles en patrones circulares y dirigidos, se encoge temporalmente para hacerse invulnerable y durante esa fase invoca jefes aleatorios de los primeros pisos del juego. Al recuperar su forma original, reanuda sus disparos con mayor intensidad.",
+    "notas": "Tras ser derrotado exactamente 11 veces a lo largo de distintas partidas, Mom's Heart es reemplazado permanentemente por 'It Lives', una versión más difícil con más patrones de ataque. Es un requisito implícito para progresar hacia los finales secretos del juego.",
+    "piso_id": 8
+  },
+  {
+    "id": 8,
+    "nombre": "Gemini",
+    "vida_base": 140,
+    "descripcion": "Dos bebés unidos por un cordón umbilical. El hermano mayor (Suture) actúa como escudo y agresor, mientras que el pequeño (Contusion) actúa como artillero de apoyo desde la distancia.",
+    "comportamiento": "Suture persigue activamente al jugador intentando dañarlo por contacto mientras el cordón umbilical los mantiene conectados. Contusion, mientras está atado, dispara proyectiles lentos desde su posición. Si el cordón se estira suficiente al alejarse, puede jalar al hermano pequeño hacia el jugador.",
+    "notas": "Si se mata primero a Suture, el cordón se rompe y Contusion entra en modo de furia: se mueve a gran velocidad cargando hacia el jugador de forma directa. Es recomendable matar primero al pequeño o reducir a ambos al mismo tiempo para evitar esta fase de rabia.",
+    "piso_id": 1
+  },
+  {
+    "id": 9,
+    "nombre": "The Fallen",
+    "vida_base": 500,
+    "descripcion": "Un ángel caído con alas y una apariencia demoníaca. No está vinculado a ningún piso concreto: puede aparecer en las salas del Diablo de cualquier planta, o como jefe de piso en ciertas variantes de sala.",
+    "comportamiento": "Vuela por la sala disparando ráfagas cuádruples de Azufre en las cuatro direcciones cardinales. Al llegar a la mitad de su vida, se divide en dos copias de sí mismo con la mitad de la vida restante cada una, duplicando instantáneamente el caos de la sala.",
+    "notas": "Siempre suelta un objeto de la reserva del Diablo al morir, lo que lo convierte en un objetivo muy rentable si aparece como jefe de sala regular. Tras la división, ambas copias actúan de forma independiente y pueden disparar sus ráfagas de Azufre de forma desincronizada.",
+    "piso_id": null
+  },
+  {
+    "id": 10,
+    "nombre": "Famine",
+    "vida_base": 240,
+    "descripcion": "El primero de los cuatro Jinetes del Apocalipsis. Representa la hambruna y aparece montado en un caballito de palo de aspecto grotesco. Es el jinete más básico pero establece la plantilla de comportamiento en dos fases que comparten todos sus hermanos.",
+    "comportamiento": "En su primera fase carga horizontalmente de un lado al otro de la sala, invocando moscas que permanecen en el entorno. Al llegar a la mitad de vida, su cuerpo cae y su cabeza se separa volando de forma autónoma, disparando proyectiles en múltiples direcciones mientras sigue persiguiendo al jugador.",
+    "notas": "Al morir siempre deja caer un trozo de carne o una bola de vendas, ambos objetos de transformación de Guppy. La segunda fase de la cabeza volante es significativamente más rápida y errática que la primera fase, por lo que conviene tener suficiente espacio antes de entrar en ella.",
+    "piso_id": 1
+  },
+  {
+    "id": 11,
+    "nombre": "Gurdy Jr.",
+    "vida_base": 250,
+    "descripcion": "Una versión más pequeña y completamente móvil de Gurdy. A diferencia de su progenitor estático, Gurdy Jr. es uno de los jefes más dinámicos y difíciles de seguir del Capítulo 2, ya que su movimiento es casi completamente impredecible.",
+    "comportamiento": "Rebota a gran velocidad por toda la sala rebotando en las paredes como una bola de billar. Cada vez que rebota o golpea algo, dispara una ráfaga de proyectiles en patrón de cruz en las cuatro direcciones. La velocidad de rebote aumenta progresivamente a medida que pierde vida.",
+    "notas": "Su trayectoria de rebote puede calcularse anticipando los ángulos, pero la aceleración progresiva lo hace cada vez más difícil de predecir. Mantenerse en el centro de la sala suele ser más seguro que pegarse a las esquinas donde el jefe rebota con más frecuencia.",
+    "piso_id": 3
+  },
+  {
+    "id": 12,
+    "nombre": "Pin",
+    "vida_base": 120,
+    "descripcion": "Un gusano larval de color blanco que vive bajo el suelo. Es uno de los jefes más básicos del Capítulo 2 pero su patrón de movimiento subterráneo lo hace especialmente difícil de golpear para ciertas builds.",
+    "comportamiento": "Alterna entre moverse bajo tierra (donde es invulnerable y solo visible por un indicador de movimiento en el suelo) y salir a la superficie brevemente para escupir proyectiles o embestir al jugador. Solo puede recibir daño mientras está en la superficie.",
+    "notas": "Las lágrimas espectrales y los objetos de daño por área como las bombas son especialmente útiles contra él, ya que pueden golpearle incluso durante las transiciones. En Repentance tiene variantes como Frail y Scolex que comparten el esquema de movimiento subterráneo pero con comportamientos adicionales.",
+    "piso_id": 3
+  },
+  {
+    "id": 13,
+    "nombre": "Pestilence",
+    "vida_base": 300,
+    "descripcion": "El segundo Jinete del Apocalipsis, representando la plaga y la enfermedad. Comparte la estructura de dos fases con Famine pero añade el envenenamiento como elemento de peligro persistente.",
+    "comportamiento": "En su primera fase carga horizontalmente por la sala dejando charcos de veneno en el suelo que permanecen activos. Al llegar a la mitad de vida, su cabeza se separa y comienza a volar disparando proyectiles envenenados en múltiples direcciones mientras persigue al jugador.",
+    "notas": "Los charcos de veneno que deja en su primera fase permanecen en la sala durante toda la pelea, acumulando peligros en el suelo que reducen progresivamente el espacio seguro. En su segunda fase, sus proyectiles también envenenan al impactar, por lo que recibir daño tiene consecuencias adicionales.",
+    "piso_id": 3
+  },
+  {
+    "id": 14,
+    "nombre": "Duke of Flies",
+    "vida_base": 110,
+    "descripcion": "Un cadáver hinchado y oscuro cuya superficie bulle de moscas. Su peligrosidad no reside en sus ataques directos sino en la cantidad de enemigos que genera de forma continua.",
+    "comportamiento": "Flota lentamente por la sala moviéndose hacia el jugador. Invoca de forma constante moscas de diferentes tipos (moscas normales, moscas explosivas, moscas parásito) que orbitan alrededor suyo o persiguen al jugador de forma independiente.",
+    "notas": "Es uno de los jefes más fáciles del juego si se dispone de daño de área, ya que las moscas que invoca son vulnerables a las explosiones y lágrimas de dispersión. Sin daño de área, la acumulación de moscas puede volverse abrumadora rápidamente.",
+    "piso_id": 1
+  },
+  {
+    "id": 15,
+    "nombre": "Peep",
+    "vida_base": 250,
+    "descripcion": "Un ser obeso de aspecto viscoso que orina de forma continua. Su mayor característica es la pérdida de sus globos oculares durante la pelea, que pasan a ser elementos peligrosos independientes imposibles de eliminar.",
+    "comportamiento": "Salta sobre el jugador intentando aplastarlo y deja charcos de orina al aterrizar que dañan por contacto. Al alcanzar la mitad de vida, ambos ojos se desprenden de su cara y comienzan a rebotar por la sala de forma errática, siendo completamente invulnerables e infligiendo daño por contacto.",
+    "notas": "Los ojos desprendidos son el verdadero peligro de esta pelea: son invulnerables, rebotan infinitamente y ocupan el espacio de la sala de forma impredecible. Terminar la pelea lo más rápido posible antes de que los ojos se acumulen en zonas peligrosas es la clave.",
+    "piso_id": 3
+  },
+  {
+    "id": 16,
+    "nombre": "Loki",
+    "vida_base": 350,
+    "descripcion": "Un pequeño demonio juguetón con cuatro brazos que aparece en el Capítulo 3. Es considerablemente más rápido y agresivo que los jefes anteriores, y su capacidad de teletransportarse lo hace difícil de rastrear.",
+    "comportamiento": "Se teletransporta aleatoriamente por la sala entre ataques. Dispara ráfagas de proyectiles en 8 direcciones diagonales y cardinales simultáneamente, cubriendo casi todo el espacio disponible. También invoca ocasionalmente moscas explosivas que se dirigen hacia el jugador.",
+    "notas": "Su variante 'Lokii' aparece dividido en dos desde el inicio de la pelea, haciendo que ambos aspectos actúen simultáneamente con los mismos ataques. El patrón de 8 direcciones de Loki puede bloquearse parcialmente con orbitales defensivos.",
+    "piso_id": 5
+  },
+  {
+    "id": 17,
+    "nombre": "War",
+    "vida_base": 400,
+    "descripcion": "El tercero de los cuatro Jinetes del Apocalipsis, representando la guerra. Es el más agresivo de los cuatro jinetes en su primera fase, con cargas rápidas y un patrón de bombas que puede llenar la sala de explosiones.",
+    "comportamiento": "En su primera fase carga por la sala a alta velocidad lanzando bombas que explotan tras unos segundos. Al llegar a la mitad de vida, su cabeza se separa y vuela disparando proyectiles explosivos en patrones circulares mientras persigue activamente al jugador.",
+    "notas": "Las bombas que lanza en su primera fase pueden usarse a favor del jugador si se posiciona bien: las explosiones también dañan al propio jefe. En su segunda fase, los proyectiles explosivos que dispara su cabeza pueden desencadenarse entre sí, generando reacciones en cadena peligrosas.",
+    "piso_id": 5
+  },
+  {
+    "id": 18,
+    "nombre": "Death",
+    "vida_base": 500,
+    "descripcion": "El cuarto y último Jinete del Apocalipsis, representando la muerte. Es el más poderoso de los cuatro y el único que mantiene una mecánica de ataque significativa incluso en su segunda fase.",
+    "comportamiento": "En su primera fase flota lentamente por la sala disparando guadañas en línea recta que atraviesan paredes, y ocasionalmente lanza una ráfaga de guadañas en todas las direcciones. Al llegar a la mitad de vida, su cabeza se separa y continúa disparando guadañas mientras vuela hacia el jugador.",
+    "notas": "Las guadañas que dispara son proyectiles espectrales que atraviesan obstáculos, lo que elimina la posibilidad de bloquearse detrás de rocas o muros. Es el jefe más difícil de los cuatro jinetes y puede resultar especialmente peligroso si se encuentra sin objetos de daño alto al llegar al Capítulo 3.",
+    "piso_id": 5
+  },
+  {
+    "id": 19,
+    "nombre": "Conquest",
+    "vida_base": 400,
+    "descripcion": "Un jinete adicional vestido de blanco que no forma parte de los cuatro jinetes canónicos pero comparte su estructura. Es una versión alternativa de War que aparece en su lugar ocasionalmente.",
+    "comportamiento": "Carga horizontalmente por la sala a alta velocidad y puede moverse también en vertical, a diferencia de War. Dispara rayos de Azufre horizontales similares a los de Monstro II. Al llegar a la mitad de vida, su cabeza vuela y dispara en múltiples direcciones.",
+    "notas": "Al morir siempre suelta el objeto 'Conquest', uno de los ítems más potentes del juego. Su rayo de Azufre tiene una telegrafía breve pero clara, moverse en el eje vertical justo antes del disparo es la mejor forma de evitarlo.",
+    "piso_id": 5
+  },
+  {
+    "id": 21,
+    "nombre": "Gish",
+    "vida_base": 240,
+    "descripcion": "Una masa de alquitrán viscoso emparentada con Monstro. Tiene apariencia de Monstro pero está recubierta de un fluido negro que ralentiza todo lo que toca.",
+    "comportamiento": "Salta hacia el jugador de forma similar a Monstro, pero sus saltos son más cortos y frecuentes. Al aterrizar, deja charcos de alquitrán que ralentizan al jugador considerablemente. También dispara proyectiles de brea que aplican el mismo efecto ralentizante al impactar.",
+    "notas": "Siempre suelta el objeto 'Little Gish' al morir. Los charcos de alquitrán que deja acumulan peligro durante la pelea, y quedar ralentizado en su zona de salto puede resultar fatal. Tener objetos de velocidad o lágrimas espectrales ayuda significativamente.",
+    "piso_id": 4
+  },
+  {
+    "id": 22,
+    "nombre": "Steven",
+    "vida_base": 140,
+    "descripcion": "Una versión alternativa de Gemini basada en el universo del juego Time Fcuk de Edmund McMillen. Comparte la estructura de dos hermanos conectados pero con un comportamiento sensiblemente más agresivo.",
+    "comportamiento": "Idéntico a Gemini en su mecánica: el hermano grande persigue al jugador mientras el pequeño dispara desde atrás. Sin embargo, ambos se mueven a mayor velocidad que Gemini, y la transición a la fase de furia del hermano pequeño ocurre más rápido al morir el grande.",
+    "notas": "Tiene probabilidad de soltar el objeto 'Steven' (que otorga daño) o 'Little Steven' (el familiar). Igual que con Gemini, matar primero al hermano pequeño evita la fase de furia, aunque Steven pequeño es más difícil de alcanzar por su mayor movilidad.",
+    "piso_id": 1
+  },
+  {
+    "id": 24,
+    "nombre": "The Hollow",
+    "vida_base": 22,
+    "descripcion": "La evolución de Larry Jr. que aparece en las Cuevas. Es un esqueleto de gusano segmentado que ha perdido toda su carne, lo que le permite volar por la sala en lugar de arrastrarse por el suelo.",
+    "comportamiento": "Vuela en trayectoria diagonal por la sala rebotando en las paredes, en lugar de arrastrarse como Larry Jr. Al recibir suficiente daño en un segmento central, el cuerpo se parte en dos serpientes voladoras independientes que se mueven a mayor velocidad que el original.",
+    "notas": "Su movimiento diagonal y aéreo lo hace considerablemente más difícil de esquivar que Larry Jr., ya que ocupa más espacio vertical de la sala. Al dividirse, las dos mitades aumentan su velocidad notablemente, pudiendo saturar el espacio disponible en salas pequeñas.",
+    "piso_id": 3
+  },
+  {
+    "id": 25,
+    "nombre": "Dingle",
+    "vida_base": 240,
+    "descripcion": "Una masa de caca con cara que carga de forma errática por la sala. Es el jefe más característico del capítulo Dross/Caves en Repentance y representa el aumento de peligrosidad respecto a los jefes del capítulo anterior.",
+    "comportamiento": "Carga en línea recta hacia el jugador, dejando rastros de caca en el suelo al pasar. Tras cada carga, permanece quieto brevemente antes de cargar de nuevo. Al llegar a la mitad de vida, pierde su cuerpo y su cabeza se convierte en un proyectil teledirigido que persigue activamente al jugador.",
+    "notas": "Su variante 'Double Dingle' aparece con dos masas unidas que comparten la misma mecánica de carga pero de forma simultánea, dificultando el esquive. Los rastros de caca que deja son obstáculos físicos que bloquean el movimiento del jugador, no solo daño por contacto.",
+    "piso_id": 3
+  },
+  {
+    "id": 26,
+    "nombre": "Mega Maw",
+    "vida_base": 400,
+    "descripcion": "Una enorme boca dentada montada sobre un cuerpo rechoncho. Es la versión más poderosa del enemigo básico Maw y uno de los jefes más voluminosos del Capítulo 2.",
+    "comportamiento": "Se mueve lentamente hacia el jugador. Periódicamente abre su enorme boca para disparar una ráfaga masiva de proyectiles en abanico hacia el jugador. También puede absorber proyectiles enemigos (del jugador) brevemente antes de regurgitarlos de vuelta.",
+    "notas": "El momento en que abre la boca para disparar es también el momento en que es más vulnerable: concentrar el daño durante ese tiempo es la estrategia óptima. Su capacidad de absorber y devolver proyectiles puede sorprender a jugadores que usen objetos de disparos muy rápidos.",
+    "piso_id": 3
+  },
+  {
+    "id": 27,
+    "nombre": "The Bloat",
+    "vida_base": 450,
+    "descripcion": "La evolución directa de Peep y uno de los jefes más temidos por la comunidad. A diferencia de Peep, cuyos ojos caen de forma pasiva, The Bloat es agresivo desde el primer segundo con sus rayos de Azufre instantáneos.",
+    "comportamiento": "No se mueve: permanece estático en el centro de la sala. Dispara rayos de Azufre instantáneos (sin telegrafía) hacia los lados y hacia abajo al mismo tiempo. También deja charcos de sangre permanentes en el suelo que se acumulan durante toda la pelea, reduciendo el espacio navegable.",
+    "notas": "Sus rayos de Azufre no tienen la animación de carga previa que tienen otros jefes: se disparan de forma inmediata, lo que los hace extremadamente difíciles de reaccionar. La única zona relativamente segura durante la pelea es directamente por encima de él, ya que sus rayos no apuntan hacia arriba.",
+    "piso_id": 5
+  },
+  {
+    "id": 28,
+    "nombre": "Widow",
+    "vida_base": 300,
+    "descripcion": "Una araña enorme que habita las cuevas. Es uno de los jefes más verticales del juego por su capacidad de moverse por las paredes y el techo, dificultando el rastreo visual.",
+    "comportamiento": "Se mueve por toda la sala incluyendo paredes y techo. Escupe telas de araña que atan al jugador en el sitio durante unos segundos si recibe un impacto directo. También invoca arañas pequeñas adicionales de forma periódica. Al recibir suficiente daño, su cuerpo inferior se separa y ambas partes actúan de forma independiente.",
+    "notas": "Las telas de araña que lanza son el mayor peligro de la pelea: quedar atrapado en su trayectoria de movimiento sin poder moverse puede resultar fatal. Los objetos que otorgan inmunidad a la ralentización o velocidad muy alta reducen significativamente el peligro de las telas.",
+    "piso_id": 3
+  },
+  {
+    "id": 29,
+    "nombre": "The Cage",
+    "vida_base": 500,
+    "descripcion": "Una versión mejorada y más peligrosa de Mega Maw que aparece en la segunda mitad del juego. Su tamaño es comparable al de Gurdy y su resistencia al daño lo convierte en una de las peleas más largas del Capítulo 3.",
+    "comportamiento": "Se desplaza lentamente por la sala. Dispara grandes proyectiles de sangre en múltiples patrones, incluyendo disparos a 45 grados que cubren diagonales. Periódicamente se hincha y libera una explosión de proyectiles a su alrededor que llena toda la sala. También puede absorber proyectiles brevemente.",
+    "notas": "Su volumen de fuego aumenta progresivamente a medida que pierde vida. La explosión radial que ejecuta al hincharse es especialmente difícil de esquivar en salas pequeñas, por lo que mantener distancia y moverse en círculos amplios es la mejor estrategia.",
+    "piso_id": 5
+  },
+  {
+    "id": 30,
+    "nombre": "Polycephalus",
+    "vida_base": 250,
+    "descripcion": "Un gusano con múltiples cabezas que aparece en las Cuevas. Comparte la mecánica de movimiento subterráneo con Pin pero es considerablemente más agresivo al salir a la superficie.",
+    "comportamiento": "Alterna entre moverse bajo tierra (siendo invulnerable) y salir a la superficie con sus múltiples cabezas para atacar. Al emerger, dispara proyectiles en múltiples direcciones desde cada cabeza simultáneamente, cubriendo gran parte del espacio disponible antes de volver a sumergirse.",
+    "notas": "A diferencia de Pin, que tiene una única salida a la superficie, Polycephalus puede emerger con varias cabezas apuntando en direcciones distintas, haciendo que esquivar todos sus proyectiles simultáneamente requiera buena planificación del posicionamiento.",
+    "piso_id": 3
+  },
+  {
+    "id": 31,
+    "nombre": "The Haunt",
+    "vida_base": 450,
+    "descripcion": "Un fantasma de aspecto infantil que en su primera fase está protegido por dos espectros secundarios que actúan como escudos vivientes. Es uno de los jefes más frustrantes del Capítulo 3 por su mecánica de inmunidad.",
+    "comportamiento": "En su primera fase, dos espectros (Lil' Haunts) orbitan alrededor suyo haciéndolo completamente invulnerable. Mientras los escudos están activos, se mueve lentamente hacia el jugador disparando proyectiles. Al eliminar los dos escudos, el jefe principal queda expuesto y aumenta su velocidad y agresividad.",
+    "notas": "Los Lil' Haunts que lo protegen son más resistentes de lo que parecen y deben ser eliminados antes de poder dañar al jefe principal. Usar objetos de daño de área o familiares que ataquen automáticamente a los escudos mientras el jugador se centra en esquivar es una estrategia efectiva.",
+    "piso_id": 5
+  },
+  {
+    "id": 32,
+    "nombre": "Mask of Infamy",
+    "vida_base": 500,
+    "descripcion": "Un ser compuesto por dos partes con mecánicas de daño completamente distintas: una máscara invulnerable al frente y un corazón pulsante en la espalda, completamente vulnerable. Es uno de los jefes que más explota el posicionamiento del jugador.",
+    "comportamiento": "Se mueve lentamente por la sala siempre orientando la máscara hacia el jugador. La máscara delantera es completamente invulnerable a cualquier proyectil. Solo el corazón que asoma por la espalda puede recibir daño. Dispara proyectiles desde la máscara en patrones de abanico hacia el jugador.",
+    "notas": "La estrategia principal es girar alrededor del jefe más rápido de lo que él puede rotar, logrando un ángulo de disparo hacia su espalda. Los familiares orbitales son extremadamente útiles aquí ya que golpean al jefe desde múltiples ángulos simultáneamente sin importar su orientación.",
+    "piso_id": 5
+  },
+  {
+    "id": 33,
+    "nombre": "Headless Horseman",
+    "vida_base": 250,
+    "descripcion": "Otro jinete sin afiliación directa con los cuatro del Apocalipsis. Se presenta como un cuerpo sin cabeza y una cabeza sin cuerpo que combaten de forma simultánea e independiente desde el inicio.",
+    "comportamiento": "El cuerpo carga horizontalmente por la sala de forma continua intentando atropellar al jugador. La cabeza vuela de forma autónoma disparando proyectiles en múltiples direcciones al mismo tiempo. Ambas entidades tienen sus propias barras de vida y deben ser eliminadas por separado.",
+    "notas": "La coordinación de los ataques de ambas partes es el principal desafío: mientras se esquiva la carga del cuerpo, la cabeza no deja de disparar y viceversa. Al morir, tiene probabilidad de soltar el objeto 'Chariot' que otorga invulnerabilidad temporal.",
+    "piso_id": 5
+  },
+  {
+    "id": 34,
+    "nombre": "Dark One",
+    "vida_base": 400,
+    "descripcion": "Un ser demoníaco oscuro que es esencialmente una versión mejorada de Loki para el Capítulo 3. Comparte la mecánica de teletransportación pero con proyectiles de mayor daño y patrones más complejos.",
+    "comportamiento": "Se teletransporta aleatoriamente por la sala similar a Loki. Dispara ráfagas de proyectiles oscuros en 4 u 8 direcciones. Ocasionalmente ejecuta un ataque especial en el que dispara múltiples rafagas de Brimstone simultáneamente desde su posición hacia el jugador antes de teletransportarse de nuevo.",
+    "notas": "Su capacidad de teletransportarse justo después de disparar el Brimstone hace que los proyectiles lleguen desde ángulos inesperados. Memorizar el patrón de posible aparición y anticiparse a sus teletransportaciones es más efectivo que reaccionar a cada movimiento.",
+    "piso_id": 5
+  },
+  {
+    "id": 35,
+    "nombre": "The Stain",
+    "vida_base": 350,
+    "descripcion": "Un gusano especialmente rápido y esquivo que aparece en las profundidades. Es una versión más elaborada de Pin con mayor velocidad de movimiento subterráneo y emerges más frecuentes.",
+    "comportamiento": "Se mueve bajo el suelo de forma mucho más rápida que Pin o Polycephalus, haciendo que el indicador de su posición sea difícil de seguir. Al emerger, escupe proyectiles en múltiples direcciones y puede realizar dos embestidas consecutivas antes de volver a sumergirse.",
+    "notas": "Su alta velocidad bajo tierra hace que los indicadores de posición sean casi inutilizables para predecir sus emergencias. Posicionarse en el centro de la sala y estar preparado para moverse en cualquier dirección es más efectivo que intentar predecir su trayectoria.",
+    "piso_id": 5
+  },
+  {
+    "id": 36,
+    "nombre": "Brownie",
+    "vida_base": 350,
+    "descripcion": "La versión mejorada de Dingle que aparece en las profundidades. Mantiene la mecánica de cargas de su predecesor pero añade proyectiles y un mayor tamaño que dificulta el esquive en espacios reducidos.",
+    "comportamiento": "Carga por la sala similar a Dingle pero con mayor velocidad y dejando proyectiles adicionales en el impacto contra las paredes. Al llegar a la mitad de vida, pierde el cuerpo y su cabeza persigue activamente al jugador disparando proyectiles de caca de forma continua.",
+    "notas": "La segunda fase de la cabeza es notablemente más peligrosa que la de Dingle por la cadencia de proyectiles. Tiene probabilidad de soltar el objeto 'Brown Nugget' al morir.",
+    "piso_id": 5
+  },
+  {
+    "id": 37,
+    "nombre": "The Forsaken",
+    "vida_base": 450,
+    "descripcion": "Una versión más poderosa de The Haunt que aparece en el Capítulo 4. Mantiene la mecánica de escudos orbitales pero añade proyectiles de Azufre a su repertorio, haciendo la pelea considerablemente más peligrosa.",
+    "comportamiento": "Igual que The Haunt en estructura: dos espectros lo protegen mientras es invulnerable. Al eliminar los escudos, dispara rayos de Azufre en patrones variables además de moverse a mayor velocidad. En su segunda mitad de vida puede disparar simultáneamente desde múltiples ángulos.",
+    "notas": "La adición del Azufre respecto a The Haunt lo hace significativamente más difícil ya que los rayos son más difíciles de esquivar que los proyectiles normales mientras se gestionan los escudos. Priorizar siempre primero los escudos antes de intentar dañar al jefe principal.",
+    "piso_id": 7
+  },
+  {
+    "id": 38,
+    "nombre": "Little Horn",
+    "vida_base": 350,
+    "descripcion": "Un pequeño demonio con cuernos introducido en Afterbirth. Su mecánica gira en torno a abrir portales para disparar proyectiles desde ángulos inesperados, lo que lo convierte en uno de los jefes más únicos en diseño del juego.",
+    "comportamiento": "Abre portales en distintos puntos de la sala y dispara proyectiles oscuros que entran por un portal y salen por otro en ubicaciones imprevisibles. También puede crear portales debajo del jugador que succionan hacia abajo causando daño si no se sale rápidamente.",
+    "notas": "Sus proyectiles son de tamaño grande y relativamente lentos, pero el hecho de que salgan de portales en posiciones aleatorias hace que anticiparlos sea complicado. Los portales de succión en el suelo tienen una pequeña telegrafía visual que permite reaccionar si se está atento.",
+    "piso_id": 5
+  },
+  {
+    "id": 39,
+    "nombre": "Rag Man",
+    "vida_base": 400,
+    "descripcion": "Un ser demoníaco cubierto de harapos que invoca un número creciente de arañas durante la pelea. Aparece en las profundidades y su peligrosidad aumenta exponencialmente si no se controlan las invocaciones.",
+    "comportamiento": "Se mueve por la sala disparando proyectiles oscuros y escupiendo arañas de harapos que se unen a él como protección adicional. Las arañas que invoca orbitan alrededor suyo inicialmente y luego se desprenden para perseguir al jugador de forma autónoma.",
+    "notas": "El número de arañas en la sala puede escalar hasta niveles caóticos si no se eliminan rápidamente. Tener objetos de daño de área o moscas orbitales que limpien automáticamente las arañas menores es de gran ayuda para mantener el espacio de maniobra.",
+    "piso_id": 7
+  },
+  {
+    "id": 40,
+    "nombre": "Ultra Greed",
+    "vida_base": 3000,
+    "descripcion": "El jefe final del Modo Codicia (Greed Mode), una representación personificada de la avaricia. Es el jefe más único en diseño del juego ya que su pelea ocurre en un formato completamente distinto al del modo historia.",
+    "comportamiento": "Avanza lentamente hacia el jugador disparando monedas como proyectiles que rebotan por la sala. Periódicamente se convierte en una estatua dorada invulnerable y genera oleadas de enemigos que el jugador debe eliminar. Al llegar al 50% de vida, aumenta su velocidad y el volumen de disparos.",
+    "notas": "En Repentance existe también Ultra Greedier, una versión mejorada que aparece si el jugador usa el Dado en el Modo Codicia. Las monedas que dispara pueden recogerse, lo que hace que el objeto 'Dinero igual a poder' sea especialmente relevante en este modo.",
+    "piso_id": 11
+  },
+  {
+    "id": 62,
+    "nombre": "Baby Plum",
+    "vida_base": 300,
+    "descripcion": "Un jefe introducido en Repentance con apariencia de mosca bebé de color morado. Es completamente opcional y es el único jefe del juego con el que se puede negociar la paz de forma activa.",
+    "comportamiento": "Rebota por las paredes de la sala a alta velocidad disparando lágrimas mientras se desplaza. Su ataque más característico es un choque circular en el que gira a gran velocidad golpeando todo lo que toca. La velocidad y agresividad aumenta con cada golpe que recibe.",
+    "notas": "Si el jugador no dispara ni ataca durante toda la aparición de Baby Plum, esta se irá pacíficamente de la sala y dejará un objeto especial de calidad elevada como agradecimiento. Es la única interacción de este tipo en todo el juego y muchos jugadores la desconocen completamente.",
+    "piso_id": 1
+  },
+  {
+    "id": 63,
+    "nombre": "Hornfel",
+    "vida_base": 350,
+    "descripcion": "Jefe exclusivo del piso alternativo Downpour/Dross introducido en Repentance. Es un ser acuático que utiliza el agua de la sala como parte central de su mecánica de combate.",
+    "comportamiento": "Se mueve por la sala inundando el suelo progresivamente con agua. Dispara chorros de agua que siguen al jugador y puede sumergirse para reaparecer en otra zona de la sala. Cuando está sumergido, el nivel de agua de la sala sube temporalmente, reduciendo el espacio transitable.",
+    "notas": "Tener el objeto 'Transcendence' o cualquier capacidad de vuelo simplifica enormemente esta pelea ya que la mecánica de inundación pierde gran parte de su peligrosidad. Es el jefe alternativo que puede aparecer en lugar de Wormwood en Downpour.",
+    "piso_id": 2
+  },
+  {
+    "id": 71,
+    "nombre": "Wormwood",
+    "vida_base": 350,
+    "descripcion": "Jefe exclusivo de los pisos alternativos Downpour y Dross en Repentance. Es un gusano acuático gigante que utiliza los pozos de agua de la sala como puntos de aparición y ataque, haciendo que el entorno sea parte activa del combate.",
+    "comportamiento": "Emerge de los pozos de agua de la sala para embestir al jugador o intentar morderlo con su enorme boca. Puede sumergirse rápidamente tras cada ataque e inundar la sala parcialmente, dificultando el movimiento. En determinados momentos se ancla al centro de la sala para realizar un ataque de mordisco de gran alcance.",
+    "notas": "Es completamente vulnerable durante los breves momentos en que está anclado al centro realizando su mordisco. Tener capacidad de vuelo elimina el peligro de la inundación. La sala siempre tiene pozos de agua predefinidos que marcan las posibles posiciones de emergencia del gusano.",
+    "piso_id": 2
+  },
+  {
+    "id": 79,
+    "nombre": "The Siren",
+    "vida_base": 550,
+    "descripcion": "Jefe exclusivo del Mausoleum en Repentance, presentada como una criatura marina demoníaca. Su mecánica más perturbadora es la capacidad de tomar el control temporal de los familiares del jugador, convirtiendo sus propios aliados en amenazas.",
+    "comportamiento": "Utiliza ataques de sonido que se extienden por la sala en ondas. Periódicamente ejecuta su ataque de canto, que toma el control de todos los familiares activos del jugador durante varios segundos, haciendo que ataquen al propio jugador. También puede disparar proyectiles musicales que ralentizan al impactar.",
+    "notas": "La mecánica de secuestro de familiares puede ser devastadora en runs con muchos familiares potentes como Íncubo o Par Retorcido. Una vez que los familiares son robados, el jugador debe dañar a La Sirena hasta que los libere. Tener pocos o ningún familiar evita completamente este riesgo.",
+    "piso_id": 9
+  },
+  {
+    "id": 84,
+    "nombre": "Satan",
+    "vida_base": 600,
+    "descripcion": "El señor del Sheol y la contraparte oscura de Isaac. Es el jefe final de la ruta oscura del juego y uno de los pocos jefes con tres fases de combate claramente diferenciadas.",
+    "comportamiento": "Fase 1: Lucha contra un gigante de piedra (Fallen) mientras el propio Satán observa inmóvil. Fase 2: Satán activa su forma completa, disparando proyectiles de sangre estáticos en patrones circulares y ráfagas de Azufre. Fase 3: Sus dos enormes pies comienzan a pisotear de forma continua e independiente mientras su cuerpo sigue atacando.",
+    "notas": "Usar La Biblia activamente contra Satán mata al jugador de forma instantánea, al contrario de lo que ocurre con Mom. La tercera fase es la más caótica por la combinación de los pisotones con los proyectiles del cuerpo. Las esquinas de la sala son los puntos más seguros durante los pisotones.",
+    "piso_id": 10
+  },
+  {
+    "id": 102,
+    "nombre": "Isaac",
+    "vida_base": 2000,
+    "descripcion": "Una versión angelical y transfigurada de Isaac que lucha en la Catedral. Es el jefe final de la ruta de luz del juego y uno de los combates más exigentes de la ruta estándar, con tres fases progresivamente más complejas.",
+    "comportamiento": "Fase 1: Dispara lágrimas en patrones variables y se mueve rápidamente. Fase 2: Convoca rayos de luz que caen desde el cielo en posiciones semi-aleatorias, cubriendo gran parte de la sala. Fase 3: Vuela por la sala disparando bloques de proyectiles que se dividen al impactar y añade más rayos simultáneos.",
+    "notas": "Los rayos de luz de la segunda y tercera fase siempre dejan al menos un rincón libre en las esquinas superiores de la sala, lo que puede usarse como refugio temporal. Es el jefe que más vida base tiene en la ruta estándar sin contar las variantes especiales.",
+    "piso_id": 9
+  },
+  {
+    "id": 400,
+    "nombre": "Mega Satan",
+    "vida_base": 3000,
+    "descripcion": "El antagonista máximo de la ruta estándar, oculto detrás de la puerta dorada que requiere ambas mitades de llave para abrirse. Su escala visual y el volumen de su ataque lo convierten en una de las peleas más espectaculares del juego.",
+    "comportamiento": "Primera fase: Invoca versiones oscuras de los siete pecados capitales de forma continua mientras dispara proyectiles directos. Segunda fase: Cambia de forma, invoca a los cuatro Jinetes del Apocalipsis de forma simultánea y dispara patrones de proyectiles mucho más densos que cubren toda la sala.",
+    "notas": "Posee un sistema de armadura activo: cuanto mayor sea el daño por proyectil del jugador, mayor será la reducción porcentual aplicada. Esto hace que las builds con muchísimo daño base noten una resistencia inusual. El daño constante (láseres, familiares, contacto) no sufre esta reducción.",
+    "piso_id": 13
+  },
+  {
+    "id": 407,
+    "nombre": "Hush",
+    "vida_base": 6666,
+    "descripcion": "La personificación de la asfixia de Isaac atrapado en el Blue Womb. Es uno de los jefes opcionales más difíciles del juego, accesible solo si el jugador llega al piso del Blue Womb en menos de 30 minutos desde el inicio de la partida.",
+    "comportamiento": "Utiliza patrones de 'bullet hell' extremadamente densos con proyectiles de múltiples velocidades y ángulos simultáneamente. También ejecuta ataques de chorros de agua/sangre que barren la sala de lado a lado y lágrimas guiadas que persiguen al jugador. Su volumen de fuego aumenta significativamente en la segunda mitad de vida.",
+    "notas": "Posee el sistema de escalado de daño más extremo del juego: cuanto más daño tenga el jugador, mayor resistencia muestra Hush, haciendo que peleas largas con daño moderado puedan ser más efectivas que ráfagas de altísimo daño. Derrotarlo por primera vez desbloquea el acceso a The Void.",
+    "piso_id": 12
+  },
+  {
+    "id": 412,
+    "nombre": "Delirium",
+    "vida_base": 10000,
+    "descripcion": "La manifestación final y corrupta de la mente agonizante de Isaac. Es el jefe final de The Void y el combate más caótico del juego por diseño, ya que su mecánica de transformación constante lo hace completamente impredecible.",
+    "comportamiento": "Se transforma aleatoriamente en cualquier jefe que haya sido derrotado durante la partida actual, heredando sus ataques pero ejecutándolos a velocidades y cadencias muy superiores. Las transformaciones ocurren cada pocos segundos, antes de que el patrón del jefe actual se pueda memorizar.",
+    "notas": "La velocidad de transformación hace que muchos de sus ataques sean técnicamente injustos por diseño intencional. Sin embargo, algunas transformaciones son más peligrosas que otras: transformarse en Mega Maw o The Fallen son especialmente peligrosas. Tener alta regeneración de salud o escudos pasivos es casi imprescindible para peleas largas.",
+    "piso_id": 14
+  },
+  {
+    "id": 636,
+    "nombre": "Mother",
+    "vida_base": 4222,
+    "descripcion": "La verdadera forma monstruosa de la madre de Isaac, oculta en las profundidades de Corpse en Repentance. Es el jefe final de la ruta alternativa y narrativamente la revelación más oscura del juego.",
+    "comportamiento": "Primera fase: Lanza cuchillos gigantes que cubren amplias zonas de la sala, realiza embestidas que atraviesan toda la pantalla y succiona proyectiles del jugador para regurgitarlos. Segunda fase: Se transforma en una forma aún más grotesca con ataques adicionales de brazos desde los bordes de la sala y mayor cadencia en todo su repertorio.",
+    "notas": "Es el jefe final de la ruta alternativa desbloqueada completando el Camino de Arrepentimiento. Sus cuchillos gigantes tienen una telegrafía visual clara pero el tamaño del área que cubren deja poco margen de esquive. Derrotarla por primera vez desbloquea contenido narrativo esencial del juego.",
+    "piso_id": 11
+  },
+  {
+    "id": 637,
+    "nombre": "The Beast",
+    "vida_base": 10000,
+    "descripcion": "El enfrentamiento final de la historia completa de Isaac en Repentance. Representa la culminación de todas las pesadillas de Isaac y es el único jefe del juego que se desarrolla en un scroll lateral, completamente distinto a la perspectiva cenital estándar.",
+    "comportamiento": "El combate ocurre mientras el jugador avanza lateralmente a través de un entorno en movimiento. Primero deben derrotarse los cuatro Jinetes del Apocalipsis corruptos de Dogma en el scroll. A continuación, The Beast emerge y ataca con embestidas, chorros de fuego, proyectiles masivos y generando obstáculos en el camino.",
+    "notas": "Es el único jefe del juego con perspectiva lateral, lo que cambia completamente la lógica de movimiento y esquive respecto al resto del juego. Antes de llegar a The Beast propiamente dicho, los cuatro Dogma Horsemen actúan como una fase previa que consume recursos. Tener buena cantidad de vida antes de entrar es especialmente importante.",
+    "piso_id": 15
+  }
 ]
