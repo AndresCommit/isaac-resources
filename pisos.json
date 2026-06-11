@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "nombre": "Capítulo 1 (Basement / Cellar / Burning Basement)",
+    "descripcion": "El primer conjunto de pisos del juego. Contiene enemigos y jefes básicos."
+  },
+  {
+    "id": 2,
+    "nombre": "Capítulo 1 Alternativo (Downpour / Dross)",
+    "descripcion": "Primera ruta alternativa de Repentance. Entorno acuático y de alcantarillado."
+  },
+  {
+    "id": 3,
+    "nombre": "Capítulo 2 (Caves / Catacombs / Flooded Caves)",
+    "descripcion": "El segundo conjunto de pisos. Mayor presencia de pozos, enemigos explosivos y gusanos."
+  },
+  {
+    "id": 4,
+    "nombre": "Capítulo 2 Alternativo (Mines / Ashpit)",
+    "descripcion": "Segunda ruta alternativa. Entorno minero con vagonetas, puzles y rocas resistentes."
+  },
+  {
+    "id": 5,
+    "nombre": "Capítulo 3 (Depths / Necropolis / Dank Depths)",
+    "descripcion": "Tercer conjunto de pisos. La dificultad aumenta significativamente con patrones de ataque más densos."
+  },
+  {
+    "id": 6,
+    "nombre": "Profundidades II (Depths II)",
+    "descripcion": "Piso de culminación del Capítulo 3, donde se encuentra obligatoriamente la sala de Mom."
+  },
+  {
+    "id": 7,
+    "nombre": "Capítulo 4 (Womb / Utero / Scarred Womb)",
+    "descripcion": "Cuarto conjunto de pisos. Todo el daño recibido inflige un corazón completo por defecto."
+  },
+  {
+    "id": 8,
+    "nombre": "Útero II (Womb II)",
+    "descripcion": "Piso de culminación del Capítulo 4, donde se encuentra obligatoriamente Mom's Heart o It Lives."
+  },
+  {
+    "id": 9,
+    "nombre": "Capítulo 5 (Catedral / Mausoleum)",
+    "descripcion": "Rutas de la luz y tercera alternativa. Incluye la Catedral (Isaac) y el Mausoleo (Siren)."
+  },
+  {
+    "id": 10,
+    "nombre": "Sheol",
+    "descripcion": "Ruta de la oscuridad del Capítulo 5. Su jefe principal es Satán."
+  },
+  {
+    "id": 11,
+    "nombre": "Capítulo 6 Alternativo (Corpse / Greed Mode)",
+    "descripcion": "Rutas finales especiales. Incluye el Cadáver (Mother) y el modo arena (Ultra Greed)"
+  },
+  {
+    "id": 12,
+    "nombre": "Útero Azul (Blue Womb)",
+    "descripcion": "Piso oculto accesible al derrotar a Mom's Heart en menos de 30 minutos. Hogar de Hush."
+  },
+  {
+    "id": 13,
+    "nombre": "Capítulo 6 (Chest / Dark Room)",
+    "descripcion": "Los pisos finales de las rutas estándar de luz y oscuridad. Hogar de Mega Satán."
+  },
+  {
+    "id": 14,
+    "nombre": "El Vacío (The Void)",
+    "descripcion": "Piso caótico que amalgama habitaciones de todos los capítulos anteriores. Hogar de Delirium."
+  },
+  {
+    "id": 15,
+    "nombre": "Hogar (Home)",
+    "descripcion": "El piso final definitivo de Repentance. La casa de Isaac y escenario del combate contra The Beast."
+  }
+]
