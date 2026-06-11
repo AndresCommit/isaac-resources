@@ -2347,357 +2347,357 @@
     {
         "uid": 335,
         "id": 5101,
-        "nombre": "Red Heart",
+        "nombre": "Corazón Rojo",
         "descripcion": "Restaura un contenedor completo de corazón rojo.",
         "tipo": "Pickup"
     },
     {
         "uid": 336,
         "id": 5102,
-        "nombre": "Half Red Heart",
+        "nombre": "Medio Corazón Rojo",
         "descripcion": "Restaura medio contenedor de corazón rojo.",
         "tipo": "Pickup"
     },
     {
         "uid": 337,
         "id": 5103,
-        "nombre": "Soul Heart",
+        "nombre": "Corazón de Alma",
         "descripcion": "Añade un corazón de alma al final de la barra de vida; normalmente se pierde antes que los corazones rojos.",
         "tipo": "Pickup"
     },
     {
         "uid": 338,
         "id": 5104,
-        "nombre": "Eternal Heart",
+        "nombre": "Corazón Eterno",
         "descripcion": "Si se conserva hasta el siguiente piso o se recogen dos en el mismo piso, concede un contenedor de corazón rojo.",
         "tipo": "Pickup"
     },
     {
         "uid": 339,
         "id": 5105,
-        "nombre": "Double Heart",
+        "nombre": "Corazón Rojo Doble",
         "descripcion": "Restaura dos contenedores de corazón rojo.",
         "tipo": "Pickup"
     },
     {
         "uid": 340,
         "id": 5106,
-        "nombre": "Black Heart",
+        "nombre": "Corazón Negro",
         "descripcion": "Funciona como un corazón de alma, pero al perderse inflige daño a todos los enemigos vulnerables de la sala.",
         "tipo": "Pickup"
     },
     {
         "uid": 341,
         "id": 5107,
-        "nombre": "Gold Heart",
+        "nombre": "Corazón Dorado",
         "descripcion": "Se superpone al último corazón de la barra; cuando ese corazón se pierde, suelta monedas y puede convertir enemigos cercanos en oro temporalmente.",
         "tipo": "Pickup"
     },
     {
         "uid": 342,
         "id": 5108,
-        "nombre": "Half Soul Heart",
+        "nombre": "Medio Corazón de Alma",
         "descripcion": "Añade medio corazón de alma.",
         "tipo": "Pickup"
     },
     {
         "uid": 343,
         "id": 5109,
-        "nombre": "Scared Heart",
+        "nombre": "Corazón Asustadizo",
         "descripcion": "Equivale a un corazón rojo normal, pero huye de Isaac al acercarse.",
         "tipo": "Pickup"
     },
     {
         "uid": 344,
         "id": 5110,
-        "nombre": "Blended Heart",
+        "nombre": "Corazón Rojo/Alma",
         "descripcion": "Rellena un corazón rojo completo; si no hay contenedores libres, actúa como corazón de alma.",
         "tipo": "Pickup"
     },
     {
         "uid": 345,
         "id": 5111,
-        "nombre": "Bone Heart",
+        "nombre": "Corazón de Hueso",
         "descripcion": "Absorbe hasta tres golpes si está rellenado, pero desaparece permanentemente al romperse.",
         "tipo": "Pickup"
     },
     {
         "uid": 346,
         "id": 5112,
-        "nombre": "Rotten Heart",
+        "nombre": "Corazón Podrido",
         "descripcion": "Ocupa un contenedor completo, pero cada mitad se pierde con medio corazón de daño; al limpiar salas genera moscas azules.",
         "tipo": "Pickup"
     },
     {
         "uid": 347,
         "id": 5201,
-        "nombre": "Penny",
+        "nombre": "Penique",
         "descripcion": "Añade 1 moneda.",
         "tipo": "Pickup"
     },
     {
         "uid": 348,
         "id": 5202,
-        "nombre": "Nickel",
+        "nombre": "Níquel",
         "descripcion": "Añade 5 monedas.",
         "tipo": "Pickup"
     },
     {
         "uid": 349,
         "id": 5203,
-        "nombre": "Dime",
+        "nombre": "Diez Centavos",
         "descripcion": "Añade 10 monedas.",
         "tipo": "Pickup"
     },
     {
         "uid": 350,
         "id": 5204,
-        "nombre": "Double Penny",
+        "nombre": "Penique Doble",
         "descripcion": "Añade 2 monedas.",
         "tipo": "Pickup"
     },
     {
         "uid": 351,
         "id": 5205,
-        "nombre": "Lucky Penny",
+        "nombre": "Penique de la Suerte",
         "descripcion": "Añade 1 moneda y otorga +1 de suerte al recogerla.",
         "tipo": "Pickup"
     },
     {
         "uid": 352,
         "id": 5206,
-        "nombre": "Sticky Nickel",
+        "nombre": "Níquel Pegajoso",
         "descripcion": "Añade 5 monedas, pero puede quedarse pegada al suelo y requerir una explosión para despegarla.",
         "tipo": "Pickup"
     },
     {
         "uid": 353,
         "id": 5207,
-        "nombre": "Golden Penny",
+        "nombre": "Penique Dorado",
         "descripcion": "Añade 1 moneda y genera otra golden penny en la sala repetidamente hasta que falle su cadena.",
         "tipo": "Pickup"
     },
     {
         "uid": 354,
         "id": 5301,
-        "nombre": "Key",
+        "nombre": "Llave",
         "descripcion": "Añade 1 llave.",
         "tipo": "Pickup"
     },
     {
         "uid": 355,
         "id": 5302,
-        "nombre": "Golden Key",
+        "nombre": "Llave Dorada",
         "descripcion": "Permite usar llaves sin gastar ninguna durante el piso actual.",
         "tipo": "Pickup"
     },
     {
         "uid": 356,
         "id": 5303,
-        "nombre": "Key Ring",
+        "nombre": "Llavero",
         "descripcion": "Añade 2 llaves.",
         "tipo": "Pickup"
     },
     {
         "uid": 357,
         "id": 5304,
-        "nombre": "Charged Key",
+        "nombre": "Llave Cargada",
         "descripcion": "Añade 1 llave y además recarga el objeto activo como una batería pequeña.",
         "tipo": "Pickup"
     },
     {
         "uid": 358,
         "id": 5401,
-        "nombre": "Bomb",
+        "nombre": "Bomba",
         "descripcion": "Añade 1 bomba.",
         "tipo": "Pickup"
     },
     {
         "uid": 359,
         "id": 5402,
-        "nombre": "Double Bomb",
+        "nombre": "Bomba Doble",
         "descripcion": "Añade 2 bombas.",
         "tipo": "Pickup"
     },
     {
         "uid": 360,
         "id": 5403,
-        "nombre": "Troll Bomb",
+        "nombre": "Bomba Troll",
         "descripcion": "No se puede recoger; aparece ya encendida y explota tras unos segundos.",
         "tipo": "Pickup"
     },
     {
         "uid": 361,
         "id": 5404,
-        "nombre": "Golden Bomb",
+        "nombre": "Bomba Dorada",
         "descripcion": "Permite colocar bombas ilimitadas durante el piso actual sin gastar la cuenta de bombas.",
         "tipo": "Pickup"
     },
     {
         "uid": 362,
         "id": 5405,
-        "nombre": "Mega Troll Bomb",
+        "nombre": "Bomba Mega Troll",
         "descripcion": "Versión más grande y peligrosa de la troll bomb; persigue a Isaac si está cerca.",
         "tipo": "Pickup"
     },
     {
         "uid": 363,
         "id": 5406,
-        "nombre": "Golden Troll Bomb",
+        "nombre": "Bomba Dorada Troll",
         "descripcion": "Troll bomb que puede explotar repetidamente, imitando el efecto de una golden bomb.",
         "tipo": "Pickup"
     },
     {
         "uid": 364,
         "id": 5407,
-        "nombre": "Giga Bomb",
+        "nombre": "Bomba Giga",
         "descripcion": "Bomba de explosión enorme que destruye casillas en forma de rombo y hace mucho más daño que una bomba normal.",
         "tipo": "Pickup"
     },
     {
         "uid": 365,
         "id": 541,
-        "nombre": "Throwable Bomb",
+        "nombre": "Bomba Lanzable",
         "descripcion": "Solo puede recogerse y lanzarse; explota unos segundos después.",
         "tipo": "Pickup"
     },
     {
         "uid": 366,
         "id": 5420,
-        "nombre": "Poop Nugget",
+        "nombre": "Caquita",
         "descripcion": "Recogible exclusivo de Tainted ??? que cuenta como 1 unidad de su recurso de cacas.",
         "tipo": "Pickup"
     },
     {
         "uid": 367,
         "id": 5421,
-        "nombre": "Big Poop Nugget",
+        "nombre": "Caca Grande",
         "descripcion": "Versión grande del recurso de Tainted ???; cuenta como 3 unidades.",
         "tipo": "Pickup"
     },
     {
         "uid": 368,
         "id": 550,
-        "nombre": "Chest",
+        "nombre": "Cofre",
         "descripcion": "Cofre normal que se abre gratis y suele contener pickups aleatorios, trinkets, pills o cofres pequeños.",
         "tipo": "Pickup"
     },
     {
         "uid": 369,
         "id": 560,
-        "nombre": "Locked Chest",
+        "nombre": "Cofre Dorado",
         "descripcion": "Cofre cerrado que requiere una llave y puede dar pickups, trinkets, cartas o incluso un objeto del pool de golden chest.",
         "tipo": "Pickup"
     },
     {
         "uid": 370,
         "id": 5360,
-        "nombre": "Red Chest",
+        "nombre": "Cofre Rojo",
         "descripcion": "Cofre rojo típico de Curse Rooms o Devil Rooms; puede contener soul hearts, pills, arañas, troll bombs, teleport o un objeto del red chest pool.",
         "tipo": "Pickup"
     },
     {
         "uid": 371,
         "id": 551,
-        "nombre": "Bomb Chest",
+        "nombre": "Cofre de Bomba",
         "descripcion": "Stone chest que solo se abre con una explosión y comparte recompensas con los golden chests.",
         "tipo": "Pickup"
     },
     {
         "uid": 372,
         "id": 553,
-        "nombre": "Eternal Chest",
+        "nombre": "Cofre Eterno",
         "descripcion": "Cofre azul que cuesta una llave cada vez que se abre y puede volver a cerrarse para dar más recompensas.",
         "tipo": "Pickup"
     },
     {
         "uid": 373,
         "id": 552,
-        "nombre": "Spiked Chest",
+        "nombre": "Cofre con Pinchos",
         "descripcion": "Cofre con pinchos que hace daño al abrirse, salvo que se evite por invulnerabilidad u otros efectos.",
         "tipo": "Pickup"
     },
     {
         "uid": 374,
         "id": 554,
-        "nombre": "Mimic Chest",
+        "nombre": "Cofre Trampa",
         "descripcion": "Cofre trampa que parece normal hasta acercarse; entonces saca pinchos y se comporta como un spiked chest.",
         "tipo": "Pickup"
     },
     {
         "uid": 375,
         "id": 555,
-        "nombre": "Old Chest",
+        "nombre": "Cofre Antiguo",
         "descripcion": "Cofre envejecido que requiere llave y puede contener soul hearts, varios trinkets, un objeto de su pool o un objeto de Angel Room.",
         "tipo": "Pickup"
     },
     {
         "uid": 376,
         "id": 556,
-        "nombre": "Wooden Chest",
+        "nombre": "Cofre de Madera",
         "descripcion": "Cofre de madera que puede contener cartas o runas, pills u objetos de su pool específico.",
         "tipo": "Pickup"
     },
     {
         "uid": 377,
         "id": 557,
-        "nombre": "Mega Chest",
+        "nombre": "Mega Cofre",
         "descripcion": "Cofre gigante que requiere entre 1 y 7 llaves; puede dar dos objetos de Treasure Room o el equivalente a varias golden chests.",
         "tipo": "Pickup"
     },
     {
         "uid": 378,
         "id": 558,
-        "nombre": "Haunted Chest",
+        "nombre": "Cofre Embrujado",
         "descripcion": "Cofre embrujado por un Polty; al acercarse, el fantasma lo lanza contra Isaac y lo rompe.",
         "tipo": "Pickup"
     },
     {
         "uid": 379,
         "id": 5390,
-        "nombre": "Mom's Chest",
+        "nombre": "Cofre de Mamá",
         "descripcion": "Cofre especial de Home; la primera vez contiene Red Key y en visitas posteriores da un objeto de su pool específico.",
         "tipo": "Pickup"
     },
     {
         "uid": 380,
         "id": 5691,
-        "nombre": "Grab Bag",
+        "nombre": "Saco",
         "descripcion": "Saco que al recogerse genera entre 1 y 4 pickups aleatorios.",
         "tipo": "Pickup"
     },
     {
         "uid": 381,
         "id": 5692,
-        "nombre": "Black Sack",
+        "nombre": "Saco Negro",
         "descripcion": "Saco negro que suelta una combinación de pills, black hearts o bone hearts, y/o bombas.",
         "tipo": "Pickup"
     },
     {
         "uid": 382,
         "id": 5901,
-        "nombre": "Lil' Battery",
+        "nombre": "Batería",
         "descripcion": "Recarga parcialmente el objeto activo.",
         "tipo": "Pickup"
     },
     {
         "uid": 383,
         "id": 5902,
-        "nombre": "Micro Battery",
+        "nombre": "Micro Batería",
         "descripcion": "Añade 2 cargas al objeto activo.",
         "tipo": "Pickup"
     },
     {
         "uid": 384,
         "id": 5903,
-        "nombre": "Mega Battery",
+        "nombre": "Mega Batería",
         "descripcion": "Recarga el objeto activo hasta dos cargas completas, incluso sobrecargando como The Battery.",
         "tipo": "Pickup"
     },
     {
         "uid": 385,
         "id": 5904,
-        "nombre": "Golden Battery",
+        "nombre": "Batería Dorada",
         "descripcion": "Hace daño al recogerla, pero genera otra golden battery en una sala aleatoria del piso.",
         "tipo": "Pickup"
     }
