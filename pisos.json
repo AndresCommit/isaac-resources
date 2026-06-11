@@ -2,76 +2,76 @@
   {
     "id": 1,
     "nombre": "Capítulo 1 (Basement / Cellar / Burning Basement)",
-    "descripcion": "El primer conjunto de pisos del juego. Contiene enemigos y jefes básicos."
+    "descripcion": "El punto de partida de la aventura. Se caracteriza por enemigos básicos de bajo nivel como moscas, arañas y variantes de Gapers. El entorno varía desde un sótano lúgubre hasta unas bodegas infestadas de insectos o un sótano en llamas que añade peligros ambientales de fuego."
   },
   {
     "id": 2,
     "nombre": "Capítulo 1 Alternativo (Downpour / Dross)",
-    "descripcion": "Primera ruta alternativa de Repentance. Entorno acuático y de alcantarillado."
+    "descripcion": "Ruta alternativa introducida en Repentance. Un alcantarillado inundado y putrefacto donde el agua modifica las físicas de movimiento y los enemigos tienen temáticas acuáticas o de descomposición. Incluye la mecánica del fuego blanco para acceder al Mundo del Espejo."
   },
   {
     "id": 3,
     "nombre": "Capítulo 2 (Caves / Catacombs / Flooded Caves)",
-    "descripcion": "El segundo conjunto de pisos. Mayor presencia de pozos, enemigos explosivos y gusanos."
+    "descripcion": "Mayor presencia de pozos, enemigos explosivos, trampas de pinchos y gusanos subterráneos. Los entornos son cavernas oscuras, catacumbas llenas de restos óseos o cuevas anegadas de agua donde el espacio de maniobra se reduce drásticamente."
   },
   {
     "id": 4,
     "nombre": "Capítulo 2 Alternativo (Mines / Ashpit)",
-    "descripcion": "Segunda ruta alternativa. Entorno minero con vagonetas, puzles y rocas resistentes."
+    "descripcion": "Segunda ruta alternativa. Un entorno minero hostil que introduce puertas bloqueadas por botones, vagonetas letales y rocas invulnerables. Requiere resolver puzles ambientales y sobrevivir a la tensa secuencia de escape contra Mother's Shadow."
   },
   {
     "id": 5,
     "nombre": "Capítulo 3 (Depths / Necropolis / Dank Depths)",
-    "descripcion": "Tercer conjunto de pisos. La dificultad aumenta significativamente con patrones de ataque más densos."
+    "descripcion": "La dificultad aumenta significativamente con la aparición de enemigos con gran reserva de salud, patrones de ataque densos y calaveras estáticas que disparan. La atmósfera es agobiante, repleta de carne corrupta, cráneos y sombras profundas."
   },
   {
     "id": 6,
     "nombre": "Profundidades II (Depths II)",
-    "descripcion": "Piso de culminación del Capítulo 3, donde se encuentra obligatoriamente la sala de Mom."
+    "descripcion": "Piso de culminación del Capítulo 3, donde la generación de niveles estándar se detiene ante la puerta del jefe Mom. Derrotarla es un hito clave que otorga The Polaroid o The Negative, objetos indispensables para acceder a las rutas avanzadas del juego."
   },
   {
     "id": 7,
     "nombre": "Capítulo 4 (Womb / Utero / Scarred Womb)",
-    "descripcion": "Cuarto conjunto de pisos. Todo el daño recibido inflige un corazón completo por defecto."
+    "descripcion": "El interior de la madre. Un entorno carnoso y orgánico donde, por defecto, todo el daño recibido inflige un corazón rojo completo de penalización. Los enemigos sangran constantemente, disparan ráfagas densas y el terreno está lleno de bultos dañinos y fluidos."
   },
   {
     "id": 8,
     "nombre": "Útero II (Womb II)",
-    "descripcion": "Piso de culminación del Capítulo 4, donde se encuentra obligatoriamente Mom's Heart o It Lives."
+    "descripcion": "Piso de culminación del Capítulo 4. Aquí aguarda el combate obligatorio contra Mom's Heart o It Lives. La decisión tomada tras esta batalla, ya sea ascender hacia la luz o descender hacia la oscuridad, determina la rama final de la partida."
   },
   {
     "id": 9,
     "nombre": "Capítulo 5 (Catedral / Mausoleum)",
-    "descripcion": "Rutas de la luz y tercera alternativa. Incluye la Catedral (Isaac) y el Mausoleo (Siren)."
+    "descripcion": "La Catedral es un entorno celestial habitado por ángeles caídos y luces cegadoras que culmina en la lucha contra Isaac. El Mausoleo es la tercera ruta alternativa de Repentance, un templo sectario plagado de portales, teletransportes y magia oscura."
   },
   {
     "id": 10,
     "nombre": "Sheol",
-    "descripcion": "Ruta de la oscuridad del Capítulo 5. Su jefe principal es Satán."
+    "descripcion": "El descenso a las profundidades demoníacas y ruta de la oscuridad del Capítulo 5. Una ruta sombría dominada por enemigos oscuros, pozos sin fondo y cultistas, sirviendo como antesala al dominio absoluto de Satán."
   },
   {
     "id": 11,
     "nombre": "Capítulo 6 Alternativo (Corpse / Greed Mode)",
-    "descripcion": "Rutas finales especiales. Incluye el Cadáver (Mother) y el modo arena (Ultra Greed)"
+    "descripcion": "Corpse es un abismo putrefacto y visceral de la ruta alternativa final, donde la decadencia es absoluta y aguarda la verdadera Mother. Greed Mode representa el modo arena independiente centrado en la economía frente a Ultra Greed."
   },
   {
     "id": 12,
     "nombre": "Útero Azul (Blue Womb)",
-    "descripcion": "Piso oculto accesible al derrotar a Mom's Heart en menos de 30 minutos. Hogar de Hush."
+    "descripcion": "Un plano de existencia asfixiante y agónico. Se trata de un piso de transición estéril y desprovisto de habitaciones convencionales, que actúa únicamente como antesala repleta de recursos y campo de batalla para el jefe opcional Hush."
   },
   {
     "id": 13,
     "nombre": "Capítulo 6 (Chest / Dark Room)",
-    "descripcion": "Los pisos finales de las rutas estándar de luz y oscuridad. Hogar de Mega Satán."
+    "descripcion": "El desenlace del viaje estándar. El Cofre (Chest) arranca con cuatro cofres dorados y cada sala ofrece objetos nuevos, mientras que la Habitación Oscura (Dark Room) está plagada de cofres rojos que exigen gestionar la salud antes de luchar contra Mega Satán."
   },
   {
     "id": 14,
     "nombre": "El Vacío (The Void)",
-    "descripcion": "Piso caótico que amalgama habitaciones de todos los capítulos anteriores. Hogar de Delirium."
+    "descripcion": "Un piso caótico, fracturado y distorsionado que fusiona habitaciones y enemigos de todos los capítulos anteriores de forma incoherente. Un laberinto masivo con múltiples combates contra jefes pasados que culmina en la locura impredecible de Delirium."
   },
   {
     "id": 15,
     "nombre": "Hogar (Home)",
-    "descripcion": "El piso final definitivo de Repentance. La casa de Isaac y escenario del combate contra The Beast."
+    "descripcion": "El principio y el final. La casa intacta de Isaac. Un nivel de exploración y narrativa en el que el jugador debe ascender desandando el camino original, enfrentarse a los dogmas familiares y luchar contra The Beast en un combate de perspectiva lateral."
   }
 ]
