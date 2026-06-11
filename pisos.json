@@ -1,77 +1,132 @@
 [
   {
     "id": 1,
-    "nombre": "Capítulo 1 (Basement / Cellar / Burning Basement)",
-    "descripcion": "El punto de partida de la aventura. Se caracteriza por enemigos básicos de bajo nivel como moscas, arañas y variantes de Gapers. El entorno varía desde un sótano lúgubre hasta unas bodegas infestadas de insectos o un sótano en llamas que añade peligros ambientales de fuego."
+    "nombre": "Sótano (Basement)",
+    "descripcion": "El primer entorno del juego. Un sótano lúgubre, húmedo e iluminado tenuemente, habitado principalmente por moscas, Gusher y enemigos básicos de baja salud."
   },
   {
     "id": 2,
-    "nombre": "Capítulo 1 Alternativo (Downpour / Dross)",
-    "descripcion": "Ruta alternativa introducida en Repentance. Un alcantarillado inundado y putrefacto donde el agua modifica las físicas de movimiento y los enemigos tienen temáticas acuáticas o de descomposición. Incluye la mecánica del fuego blanco para acceder al Mundo del Espejo."
+    "nombre": "Bodega (Cellar)",
+    "descripcion": "Variante del Capítulo 1 infestada de insectos. Reemplaza a gran parte de las moscas por arañas y nidos, haciendo que los movimientos de los enemigos sean más erráticos."
   },
   {
     "id": 3,
-    "nombre": "Capítulo 2 (Caves / Catacombs / Flooded Caves)",
-    "descripcion": "Mayor presencia de pozos, enemigos explosivos, trampas de pinchos y gusanos subterráneos. Los entornos son cavernas oscuras, catacumbas llenas de restos óseos o cuevas anegadas de agua donde el espacio de maniobra se reduce drásticamente."
+    "nombre": "Sótano en Llamas (Burning Basement)",
+    "descripcion": "Variante del Capítulo 1 envuelta en fuego. Introduce fogatas ambientales y enemigos flameantes que persiguen al jugador a mayor velocidad."
   },
   {
     "id": 4,
-    "nombre": "Capítulo 2 Alternativo (Mines / Ashpit)",
-    "descripcion": "Segunda ruta alternativa. Un entorno minero hostil que introduce puertas bloqueadas por botones, vagonetas letales y rocas invulnerables. Requiere resolver puzles ambientales y sobrevivir a la tensa secuencia de escape contra Mother's Shadow."
+    "nombre": "Aguacero (Downpour)",
+    "descripcion": "Ruta alternativa de Repentance. Un nivel anegado por la lluvia que introduce la mecánica del fuego blanco y el Mundo del Espejo para obtener el primer fragmento de cuchillo."
   },
   {
     "id": 5,
-    "nombre": "Capítulo 3 (Depths / Necropolis / Dank Depths)",
-    "descripcion": "La dificultad aumenta significativamente con la aparición de enemigos con gran reserva de salud, patrones de ataque densos y calaveras estáticas que disparan. La atmósfera es agobiante, repleta de carne corrupta, cráneos y sombras profundas."
+    "nombre": "Escoria (Dross)",
+    "descripcion": "Variante corrupta de Downpour. Un alcantarillado putrefacto lleno de caca, fluidos tóxicos y enemigos basados en la descomposición y la suciedad."
   },
   {
     "id": 6,
-    "nombre": "Profundidades II (Depths II)",
-    "descripcion": "Piso de culminación del Capítulo 3, donde la generación de niveles estándar se detiene ante la puerta del jefe Mom. Derrotarla es un hito clave que otorga The Polaroid o The Negative, objetos indispensables para acceder a las rutas avanzadas del juego."
+    "nombre": "Cuevas (Caves)",
+    "descripcion": "El entorno estándar del Capítulo 2. Cavernas rocosas con mayor presencia de pozos, enemigos explosivos, trampas de pinchos y gusanos subterráneos."
   },
   {
     "id": 7,
-    "nombre": "Capítulo 4 (Womb / Utero / Scarred Womb)",
-    "descripcion": "El interior de la madre. Un entorno carnoso y orgánico donde, por defecto, todo el daño recibido inflige un corazón rojo completo de penalización. Los enemigos sangran constantemente, disparan ráfagas densas y el terreno está lleno de bultos dañinos y fluidos."
+    "nombre": "Catacumbas (Catacombs)",
+    "descripcion": "Variante del Capítulo 2 llena de restos óseos. Se caracteriza por enemigos esqueléticos, arañas explosivas y una paleta de colores mucho más grisácea."
   },
   {
     "id": 8,
-    "nombre": "Útero II (Womb II)",
-    "descripcion": "Piso de culminación del Capítulo 4. Aquí aguarda el combate obligatorio contra Mom's Heart o It Lives. La decisión tomada tras esta batalla, ya sea ascender hacia la luz o descender hacia la oscuridad, determina la rama final de la partida."
+    "nombre": "Cuevas Inundadas (Flooded Caves)",
+    "descripcion": "Variante del Capítulo 2 cubierta de agua. El terreno navegable se reduce drásticamente por la abundancia de agua, y los enemigos suelen ahogarse o generar fluidos."
   },
   {
     "id": 9,
-    "nombre": "Capítulo 5 (Catedral / Mausoleum)",
-    "descripcion": "La Catedral es un entorno celestial habitado por ángeles caídos y luces cegadoras que culmina en la lucha contra Isaac. El Mausoleo es la tercera ruta alternativa de Repentance, un templo sectario plagado de portales, teletransportes y magia oscura."
+    "nombre": "Minas (Mines)",
+    "descripcion": "Segunda ruta alternativa de Repentance. Un entorno minero polvoriento que requiere resolver puzles con botones, puertas de piedra y vagones de mina explosivos."
   },
   {
     "id": 10,
-    "nombre": "Sheol",
-    "descripcion": "El descenso a las profundidades demoníacas y ruta de la oscuridad del Capítulo 5. Una ruta sombría dominada por enemigos oscuros, pozos sin fondo y cultistas, sirviendo como antesala al dominio absoluto de Satán."
+    "nombre": "Cenizal (Ashpit)",
+    "descripcion": "Variante de las Minas cubierta de ceniza y huesos calcinados. Los enemigos son más resistentes y abundan los peligros de fuego y calaveras que disparan."
   },
   {
     "id": 11,
-    "nombre": "Capítulo 6 Alternativo (Corpse / Greed Mode)",
-    "descripcion": "Corpse es un abismo putrefacto y visceral de la ruta alternativa final, donde la decadencia es absoluta y aguarda la verdadera Mother. Greed Mode representa el modo arena independiente centrado en la economía frente a Ultra Greed."
+    "nombre": "Profundidades (Depths)",
+    "descripcion": "El entorno estándar del Capítulo 3. Pasillos de carne corrupta y cráneos donde la densidad de proyectiles y la salud de los enemigos aumentan drásticamente. Hogar de Mom."
   },
   {
     "id": 12,
-    "nombre": "Útero Azul (Blue Womb)",
-    "descripcion": "Un plano de existencia asfixiante y agónico. Se trata de un piso de transición estéril y desprovisto de habitaciones convencionales, que actúa únicamente como antesala repleta de recursos y campo de batalla para el jefe opcional Hush."
+    "nombre": "Necrópolis (Necropolis)",
+    "descripcion": "Variante del Capítulo 3 dominada por la muerte. Mayor aparición de calaveras estáticas, magos oscuros y enemigos blindados o invulnerables por la espalda."
   },
   {
     "id": 13,
-    "nombre": "Capítulo 6 (Chest / Dark Room)",
-    "descripcion": "El desenlace del viaje estándar. El Cofre (Chest) arranca con cuatro cofres dorados y cada sala ofrece objetos nuevos, mientras que la Habitación Oscura (Dark Room) está plagada de cofres rojos que exigen gestionar la salud antes de luchar contra Mega Satán."
+    "nombre": "Profundidades Húmedas (Dank Depths)",
+    "descripcion": "Variante viscosa del Capítulo 3. Las paredes rezuman alquitrán y abundan los enemigos escurridizos, los bultos de sangre y los rastros de fluido que ralentizan."
   },
   {
     "id": 14,
-    "nombre": "El Vacío (The Void)",
-    "descripcion": "Un piso caótico, fracturado y distorsionado que fusiona habitaciones y enemigos de todos los capítulos anteriores de forma incoherente. Un laberinto masivo con múltiples combates contra jefes pasados que culmina en la locura impredecible de Delirium."
+    "nombre": "Mausoleo (Mausoleum)",
+    "descripcion": "Tercera ruta alternativa de Repentance. Un templo místico con teletransportadores, sectarios oscuros y una puerta de carne que exige salud para revelar la batalla contra Mother."
   },
   {
     "id": 15,
+    "nombre": "Gehena (Gehenna)",
+    "descripcion": "Variante infernal del Mausoleo. La temática pasa de mística a la tortura pura, con abundancia de estacas, cadenas, sangre y demonios agresivos."
+  },
+  {
+    "id": 16,
+    "nombre": "Útero (Womb)",
+    "descripcion": "El interior de la madre. Un entorno orgánico donde todo el daño recibido inflige un corazón completo de penalización. No hay salas del tesoro ni tiendas."
+  },
+  {
+    "id": 17,
+    "nombre": "Utero",
+    "descripcion": "Variante más rojiza y visceral del Capítulo 4. Abundan los bultos en el suelo, los ojos en las paredes y los enemigos que dejan rastro de sangre al morir."
+  },
+  {
+    "id": 18,
+    "nombre": "Útero Cicatrizado (Scarred Womb)",
+    "descripcion": "Variante pútrida del Capítulo 4. Todo el entorno parece infectado o desollado. Mayor probabilidad de trampas y enemigos que estallan en ráfagas de proyectiles."
+  },
+  {
+    "id": 19,
+    "nombre": "Útero Azul (Blue Womb)",
+    "descripcion": "Piso oculto accesible al derrotar a Mom's Heart en menos de 30 minutos. Un plano asfixiante que solo sirve de antesala para la batalla contra Hush."
+  },
+  {
+    "id": 20,
+    "nombre": "Catedral (Cathedral)",
+    "descripcion": "La ruta de la luz (Capítulo 5). Un entorno celestial y cegador habitado por ángeles caídos, mártires y clérigos. Conduce a la batalla contra Isaac."
+  },
+  {
+    "id": 21,
+    "nombre": "Sheol",
+    "descripcion": "La ruta de la oscuridad (Capítulo 5). El descenso a las profundidades demoníacas. Dominado por demonios de alto nivel, pozos sin fondo y cultistas, liderados por Satán."
+  },
+  {
+    "id": 22,
+    "nombre": "Cadáver (Corpse)",
+    "descripcion": "El desenlace de la ruta alternativa. Un abismo de putrefacción absoluta repleto de larvas, sangre ennegrecida y zombis, donde aguarda la verdadera Mother."
+  },
+  {
+    "id": 23,
+    "nombre": "El Cofre (Chest)",
+    "descripcion": "El final de la ruta de la luz (Capítulo 6). Empieza con cuatro cofres dorados. Todas las salas de este piso otorgan objetos pasivos o activos en lugar de consumibles."
+  },
+  {
+    "id": 24,
+    "nombre": "Habitación Oscura (Dark Room)",
+    "descripcion": "El final de la ruta de la oscuridad (Capítulo 6). Comienza con cuatro cofres rojos, lo que exige sacrificar salud o correr riesgos antes de luchar contra Mega Satán."
+  },
+  {
+    "id": 25,
+    "nombre": "El Vacío (The Void)",
+    "descripcion": "Un piso fracturado y distorsionado. Un laberinto inmenso que fusiona enemigos, habitaciones y jefes de todos los capítulos anteriores, culminando en Delirium."
+  },
+  {
+    "id": 26,
     "nombre": "Hogar (Home)",
-    "descripcion": "El principio y el final. La casa intacta de Isaac. Un nivel de exploración y narrativa en el que el jugador debe ascender desandando el camino original, enfrentarse a los dogmas familiares y luchar contra The Beast en un combate de perspectiva lateral."
+    "descripcion": "El principio y el final de Repentance. La casa de Isaac intacta. Un nivel sin enemigos normales donde el jugador descubre el origen del trauma y se enfrenta a Dogma y The Beast."
   }
 ]
