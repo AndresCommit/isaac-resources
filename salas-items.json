@@ -70,5 +70,13 @@
     "objetos_ids": [
       "7", "12", "15", "45", "49", "79", "105", "119", "123", "135", "137", "157", "166", "186", "193", "208", "218", "254", "261", "289", "440", "443", "444", "462", "475", "531", "565", "569", "580", "657", "671", "673", "694", "695", "702", "704", "706", "709", "728", "731"
     ]
+  },
+  {
+    "id": 10,
+    "nombre": "Biblioteca",
+    "descripcion": "Habitación que normalmente requiere una llave para entrar. Está compuesta exclusivamente por libros y manuales, en su mayoría objetos activos.",
+    "objetos_ids": [
+      "33", "34", "35", "58", "65", "78", "97", "123", "192", "282", "287", "292", "545", "584", "712"
+    ]
   }
 ]
