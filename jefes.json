@@ -180,6 +180,24 @@
     "pisos_ids": [11, 12, 13]
   },
   {
+    "id": 243,
+    "nombre": "???",
+    "vida_base": 2000,
+    "descripcion": "También conocido como Blue Baby, es el jefe final de la ruta del Cofre (The Chest). Representa el cadáver asfixiado de Isaac y es la contraparte de The Lamb en la ruta de la luz.",
+    "comportamiento": "Su patrón de combate es una versión modificada y más agresiva de la pelea contra Isaac. Dispara ráfagas de lágrimas teledirigidas (homing), se teletransporta por la sala y de forma constante invoca moscas de ataque en lugar de ángeles o rayos de luz.",
+    "notas": "A diferencia de Isaac en la Catedral, ??? no utiliza los ataques de rayos celestiales (Crack the Sky), lo que cambia la dinámica de esquive para centrarse más en la densidad de los proyectiles guiados y el control constante de los enemigos invocados.",
+    "pisos_ids": [23]
+  },
+  {
+    "id": 273,
+    "nombre": "The Lamb",
+    "vida_base": 2000,
+    "descripcion": "El jefe final de la ruta oscura (Dark Room). Es una bestia esquelética y demoníaca que actúa como el obstáculo definitivo de esta rama narrativa.",
+    "comportamiento": "El combate consta de dos fases. En la primera, realiza embestidas rápidas, dispara lágrimas explosivas y ráfagas expansivas. Al perder la mitad de su vida, su cabeza se separa del cuerpo. El cuerpo continúa persiguiendo y atacando al jugador de forma errática, mientras la cabeza flota escupiendo proyectiles en patrones complejos.",
+    "notas": "La segunda fase, donde cuerpo y cabeza atacan independientemente, exige una gran gestión del espacio. A diferencia de ???, The Lamb prioriza los ataques físicos de contacto directo y las explosiones por encima de las invocaciones.",
+    "pisos_ids": [24]
+  },
+  {
     "id": 22,
     "nombre": "Steven",
     "vida_base": 140,
